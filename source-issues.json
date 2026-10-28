@@ -1,0 +1,1429 @@
+{
+  "title": "Errori e punti della dispensa da controllare",
+  "note": "Elenco di tutti i rilievi individuati e registrati finora, non certificazione dell’assenza di altri errori. I numeri sono quelli stampati. Le correzioni proposte vanno controllate con il docente e con riferimenti aggiornati. Le citazioni conservano il testo originale, compresi gli errori.",
+  "items": [
+    {
+      "id": "source-issue-6e0d174665b6",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        19
+      ],
+      "level": "errore",
+      "issue": "Acatisia equiparata alla restless legs syndrome.",
+      "check": "Sono condizioni diverse: l’acatisia è irrequietezza motoria; la sindrome delle gambe senza riposo ha un tipico rapporto con riposo, sera/notte e sollievo con movimento.",
+      "passages": [
+        {
+          "page": 19,
+          "printedPage": 19,
+          "quote": "-​     Il tremore può essere simmetrico oppure assimmetrico, quello “fine” è caratteristico del paziente\n         in astinenza alcolica. Quando si presenta come “svolazzante” può indicare una cirrosi avanzata.\n         I tremori ampi a riposo sono generalmente associati al Parkinson.\n  -​     l’acatisia o “restless leg syndrome” è una sindrome psicomotoria che si manifesta con\n         l’impossibilità di stare fermi.\n  -​     Le parestesie sono alterazioni della sensibilità caratterizzate da fenomeni sensitivi a livello\n         locale.\n  -​     L’ipoestesia è una diminuzione della sensibilità.\n  -​     L’allodinia è un impulso doloroso evocato da stimoli lievi come il tatto\n  -​     L’allochiria è il fenomeno per il quale un soggetto a cui venga presentato uno stimolo\n         nell’emispazio interessato dal disturbo, è consapevole della presenza dello stimolo ma lo\n         riferisce nell’emicampo opposto. Quando si manifesta per stimoli tattili e uditivi prende il nome\n         di alloestesia.\n  -​     La causalgia è un dolore bruciante presente spesso in certe patologie dei nervi periferici. Un"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-71aa00ae59ea",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        20
+      ],
+      "level": "errore",
+      "issue": "Il cranio a spazzola nella talassemia è spiegato con eritropoiesi extramidollare nelle ossa piatte.",
+      "check": "Il reperto è legato all’espansione del midollo emopoietico e dell’osso diploico; la produzione nel midollo delle ossa non si chiama extramidollare.",
+      "passages": [
+        {
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Quadro clinico e segni caratteristici di alcune patologie\nTALASSEMIE Segno tipico: turricefalia (testa a forma di torre).​\nIn proiezione laterale si osserva il “cranio a spazzola”, dovuto all’eritropoiesi extra-midollare, cioè\nproduzione di globuli rossi da parte delle ossa piatte per compensare l’anemia."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-a15ed40bc930",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        24
+      ],
+      "level": "verifica",
+      "issue": "Il passaggio mescola flessione dorsale e ventrale come risposta di Babinski.",
+      "check": "La risposta patologica caratteristica è l’estensione dell’alluce, eventualmente con apertura a ventaglio; la flessione plantare è la risposta normale nell’adulto.",
+      "passages": [
+        {
+          "page": 24,
+          "printedPage": 24,
+          "quote": "-​ Ricordiamo anche il segno di Babinski: una risposta anomala al riflesso cutaneo\n        plantare che genera una flessione dorsale o ventrale delle dita dei piedi qualora si stimoli\n        opportunamente la pianta del piede. La presenza di questo segno indica una lesione a\n        carico del tratto corticospinale. L’innervazione è fondamentale nel mantenimento del\n        trofismo muscolare. Nel lungo termine una sua assenza può determinare ipotrofia\n        muscolare.\n    -​ Tra le manovre classiche semeiologiche c’è quella di Lasègue: con il paziente in\n        posizione supina si flette l’arto inferiore a gamba estesa, determinando la flessione della\n        coscia sull’addome. L’interruzione della manovra a seguito di una scossa a fascia che si\n        propaga lungo l’arto inferiore è patognomonica di lesioni dei nervi compresi tra L4-L5\n        oppure L5-S1, È molto chiesto all’esame e significa una probabile irritazione del nervo\n        sciatico.\n    -​ Ci sono altri test, come il cross-Lasegue, dove si evoca dolore controlaterale;\n    -​ il Lasegue inverso dove il paziente si mette prono e si estende l’anca dorsalmente;\n    -​ la manovra di Spurling per le ernie cervicali, dove si lateralizza la colonna e si comprime\n        leggermente il cranio provocando dolore nella sede affetta."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-af410036c82c",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        47
+      ],
+      "level": "errore",
+      "issue": "Dolenzia di noduli di Osler e lesioni di Janeway invertita.",
+      "check": "I noduli di Osler sono tipicamente dolenti; le lesioni di Janeway sono tipicamente non dolenti.",
+      "passages": [
+        {
+          "page": 47,
+          "printedPage": 47,
+          "quote": "6)​ Noduli di Osler e segni di Janeway. Tipici delle endocarditi infettive (quasi\n        patognomonici).\n         ○​ Noduli di Osler: piccoli noduli non dolenti né dolorabili, dovuti a reazioni immunomediate.\n         ○​ Lesioni di Janeway: lesioni piatte, dolenti e dolorabili, dovute a processi infiammatori e\n             infettivi con rilascio di tossine."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-79081b79e39e",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        50
+      ],
+      "level": "errore",
+      "issue": "Facies mixedematosa attribuita a ipertiroidismo cronico.",
+      "check": "La facies mixedematosa è associata a ipotiroidismo marcato; la facies basedowiana orienta invece al morbo di Graves-Basedow.",
+      "passages": [
+        {
+          "page": 50,
+          "printedPage": 50,
+          "quote": "●​ Mixedematosa: caratterizzata dall’occhio un po’ abbassato, l’accumulo di un sottocutaneo non\n   elastico dovuto all’accumulo di mucopolisaccaridi, l’ingrossamento delle labbra, la lingua\n   ispessita, tipica dell’ipertiroidismo cronico.\n●​ Basedowiana: con occhi spesso all’infuori che non rientrano a causa dell’accumulo dei\n   mucopolisaccaridi e del tessuto linfocitario e cute molto secca. Caratteristica del morbo di\n   Basedow che è un ipertiroidismo immunomediato.\n●​ Lunaris: tipica della sindrome di Cushing e dei pazienti che fanno terapia prolungata con\n   cortisone, caratterizzata da una forma del viso arrotondata, rubizza, con presenza di sebo\n   aumentato e foruncolosi.\n●​ Addisoniana: ipocorticosurrenalismo\n●​ Parkinsoniana: cioè amimica\n●​ Miastenica: che si accompagna a ptosi palpebrale quando vi è esauribilità muscolare e porta\n   alla diplopia, che interessa i muscoli oculari\n●​ Sclerodermica: facies estremamente levigata\n●​ Ippocratica: dovuta ad una cachessia massiva, è caratterizzata dalle pinne nasali sottili, lo\n   spianamento delle rughe sulle guance, la riduzione drastica dell’adipe nella bolla di Bichat,\n   l’affossamento dei bulbi oculari dovuta a disidratazione.\n●​ Sardonica: è dovuta ad un trisma, quindi a una contrazione incontrollata della muscolatura\n   pellicciaia, tipica del tetano\n●​ Mitralica: si presenta nella stenosi mitralica severa, si nota un eritema che è dovuto alla\n   poliglobulia accompagnata dalla cianosi perché la stenosi mitralica causa ipertensione\n   polmonare e ridotta ossigenazione\n●​ Lupica: tipica del LES, c’è il rash malare o rash a farfalla è un rash abbastanza classico, in\n   quanto essendo eritematoso con la compressione dovrebbe sbiancarsi."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-23f1dd08d9ec",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        65
+      ],
+      "level": "verifica",
+      "issue": "Amimia usata per una semplice riduzione della mimica facciale.",
+      "check": "Per la riduzione si usa ipomimia; amimia indica assenza della mimica. Il termine va allineato alla definizione richiesta.",
+      "passages": [
+        {
+          "page": 65,
+          "printedPage": 65,
+          "quote": "●​ Amimia: poiché è presente rigidità della muscolatura, la plasticità della muscolatura si riduce\n        quindi il parkinsoniano ha uno sguardo fisso.\n    ●​ Parola scandita: possono parlare a scatti\n    ●​ Corea: caratterizzata da contrazioni improvvise, rapide e disordinate con un movimento\n        ampio associate ad alterazioni dei movimenti del viso (danno luogo a smorfie) e torsioni del\n        tronco. I movimenti sono rapidi e improvvisi. Es. corea di Sydenham (interessamento\n        neurologico della malattia reumatica) o corea di Huntington (patologia geneticamente\n        determinata con una alterazione del sistema nervoso).\n    ●​ Atetosi: nella atetosi i movimenti sono lenti e tantacolari e interessano le porzioni distali degli\n        arti.\n    ●​ Ballismo: movimenti molto ampi e squassanti che interessano solamente un emisoma\n    ●​ Tics: sono movimenti che interessano un distretto molto limitato, sono movimenti ripetitivi e\n        stereotipati. Possono essere ad esempio tic nervosi particolari, appunto in persone nervose,\n        oppure possono essere espressioni di alterazioni più profonde del sistema nervoso (come ad\n        esempio nella sindrome di Tourette)\n    ●​ Distonie e spasmi: movimenti involontari lenti, energici, con fissazione del segmento\n        interessato in una determinata posizione ad esempio nel torcicollo spastico e spasmo di\n        torsione. Nelle distonie sono tipici movimenti buccali che possono essere la\n        rappresentazione di una patologia neurologica, oppure possono essere anche espressioni di\n        infarti. Alcuni farmaci possono dare distonie peribuccali o dei muscoli della faccia.\n    ●​ Atassia: sono movimenti scoordinati e sono più legati a un deficit sensoriale, dove viene\n        alterato il sistema propriocettivo, ad esempio l’atassia si manifesta a seguito di alterazioni o\n        danni cerebellari che possono essere ischemici, neoplastici o degenerativi.\n    ●​ Dismetria: non riusciamo a portare a termine in maniera precisa il movimento e quindi se\n        vogliamo toccarci la punta del naso con la mano non riusciamo e magari finiamo per toccarci\n        il mento o la bocca.\nManifestazioni tipiche tetano:\n    -​ Il trisma: contrazione spastica dei muscoli masticatori con impossibilità ad aprire la bocca.\n    -​ L’opistotono: iperestensione della muscolatura cervicale, con una contrazione serrata dei\n        muscoli masticatori.\n    -​ Addome a barca: contrazione della muscolatura della parete addominale"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-5673cddea82a",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        72
+      ],
+      "level": "verifica",
+      "issue": "Iperpiressia definita come temperatura sopra 38,5 °C.",
+      "check": "38,5 °C indica febbre, non la soglia usuale di iperpiressia, spesso posta oltre 41–41,5 °C; verificare la convenzione richiesta dal corso.",
+      "passages": [
+        {
+          "page": 72,
+          "printedPage": 72,
+          "quote": "Ipertermie\nCon iperpiressia si intende un aumento della temperatura corporea sopra i 38,5 °C(febbre alta, mediata\n dll’ipotalamo). Tuttavia, è importante distinguere la febbre vera e propria dall’ipertermia, una\n condizione diversa perché non mediata dall’ipotalamo. L’ipertermia si verifica quando il corpo\n accumula calore più rapidamente di quanto riesca a disperderlo, e può manifestarsi in diversi\n modi:. Distinguiamo 2 tipi di ipertermie, quelle non febbrili e quella febbrile."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-cd0571509e5f",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        74
+      ],
+      "level": "verifica",
+      "issue": "La sepsi viene presentata come una progressione obbligatoria SIRS → sepsi → sepsi severa.",
+      "check": "È una classificazione storica. Le definizioni Sepsis-3 descrivono la sepsi come disfunzione d’organo potenzialmente letale da risposta disregolata all’infezione; SIRS non basta a definirla.",
+      "passages": [
+        {
+          "page": 74,
+          "printedPage": 74,
+          "quote": "1.​    SIRS: Iniziamo dalla cosiddetta SIRS, la categoria più bassa meno grave che significa sindrome\nda risposta infiammatoria sistemica e per definire quella situazione sistemica devono essere presenti\nalmeno 2 o più delle condizioni riportate.\n          ●​ Temperatura che supera i 38 gradi oppure sotto i 36 quindi febbrile o ipotermico.\n          ●​ Frequenza cardiaca che supera i 90 battiti al minuto.\n          ●​ Frequenza respiratoria che supera i 20 atti al minuto. Un paziente tachicardico con polipnea\n              e che ha una tensione parziale di anidride carbonica sotto i 32, normalmente dovrebbe\n              trovarsi tra i 35- 45, se scende sotto i 32 è una indicazione di questi criteri che poi portano\n              alla diagnosi di SIRS\n          ●​ Conta di globuli bianchi maggiore di 12000 o inferiore a 4000 o comunque un aumento del\n              10% delle cellule immature nello striscio di sangue periferico"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-38fbda97412f",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        76
+      ],
+      "level": "verifica",
+      "issue": "L’insufficienza multiorgano è descritta come irreversibile in termini assoluti.",
+      "check": "La prognosi può essere grave, ma l’insufficienza multiorgano non è per definizione sempre irreversibile.",
+      "passages": [
+        {
+          "page": 76,
+          "printedPage": 76,
+          "quote": "Questa non è più reversibile, all’inizio si può mantenere il\ncircolo con le amine (in particolare dopamina) e se io le riduco\nil paziente tende di nuovo ad ipotendersi, allora è necessario\nreinfonderle ma ad un certo punto il pz non risponde più e va\nincontro ad arresto cardiaco. Infatti qua si riporta questo\nconcetto che dall’infezione localizzata compare tutta la febbre,\nla SIRS, la SEPSI,la tachicardia, tachipnea tutti i sintomi che\nabbiamo detto ed è la diagnosi clinica che bisogna fare nel frattempo. La sepsi con inizio di insufficienza\nd’organo era uno degli aspetti per cui se non si interviene si va verso lo shock, la sepsi grave,\nipoperfusione d’organo, la compromissione dei primi organi respiratorio, cardiaco, renale e poi\nl’insufficienza multiorgano la MOFS."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-cd1b4f10cb75",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        99
+      ],
+      "level": "verifica",
+      "issue": "Sjögren descritto come solitamente associato a un’altra malattia autoimmune.",
+      "check": "Distinguere la malattia di Sjögren primaria dalle forme associate; l’associazione ad artrite reumatoide non è un requisito diagnostico.",
+      "passages": [
+        {
+          "page": 99,
+          "printedPage": 99,
+          "quote": "3.​ Lingua\nNormalmente la lingua si presenta rosea, umida, con piccole rilevatezze dovute alle papille. La grandezza\ndella lingua e la prominenza delle papille variano molto da individuo a individuo.\nLa lingua appare arida negli stati di disidratazione, nella febbre e nell’uremia. Una abnorme secchezza\ndella lingua può essere indizio di malattia delle ghiandole salivari; in particolare, può aversi nella sindrome\ndi Sjögren, caratterizzata anche da deficiente secrezione congiuntivale e nasale e da poliartrite cronica.\n(Sindrome di Sjögren: malattia cronica caratterizzata da secchezza oculare (cheratocongiuntivite secca) e\ndel cavo orale (xerostomia), dovute alla distruzione con meccanismo autoimmune delle ghiandole\nlacrimali e salivari. Solitamente è associata ad un’altra malattia autoimmune, più frequentemente l’artrite\nreumatoide)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-7b0084428c4a",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        122
+      ],
+      "level": "verifica",
+      "issue": "La sezione accosta iperparatiroidismo primitivo e secondario e poi generalizza l’ipercalcemia.",
+      "check": "Nel secondario, soprattutto da malattia renale cronica o carenza di vitamina D, il calcio può essere normale o basso; l’ipercalcemia non è universale.",
+      "passages": [
+        {
+          "page": 122,
+          "printedPage": 122,
+          "quote": "Paratiroidi\nVariabili in numero (generalmente due per lato), forma e sede. Palpabili solo in presenza di\ncarcinoma avanzato.\n→ Iperparatiroidismo: primitivo (anomalia intrinseca, 85% adenoma) e secondario (stimolo continuo\nsulle paratiroidi, deficit vit. D o ipocalcemia, dovuti a IRC o malassorbimento).\nSegni e sintomi: ipercalcemia e di conseguenza: osteoporosi, calcolosi renale, nefrocalcificazioni,\ncalcoli alla colecisti, pancreatite acuta, stipsi, aumento di gastriti e ulcere, bradicardia, quadro simil\ndepressivo, letargia, coma.\nIter diagnostico: esami ematochimici (PTH), ecografia, scintigrafia ed esami di secondo livello come\nla PET con colina (captata dalle paratiroidi)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-4cf4116e3d14",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        153
+      ],
+      "level": "errore",
+      "issue": "La nota sulla cianosi parla di “-5 g/dL rispetto al normale”.",
+      "check": "Il riferimento classico è alla quantità assoluta di emoglobina deossigenata nel sangue capillare, non a una riduzione di 5 g/dL dell’emoglobina totale rispetto al normale.",
+      "passages": [
+        {
+          "page": 153,
+          "printedPage": 153,
+          "quote": "Al di là della saturazione, la cianosi compare quando si ha un valore assoluto di emoglobina non\nsaturata nel sangue capillare superiore a 5 g/dl. Quindi è la quantità assoluta dell’emoglobina che\ndetermina il colorito bluastro della cute (Sono -5g/dL rispetto al normale). In un soggetto con una\ngrave anemia (6-7 g/dL di Hb) difficilmente arriverà a 5 g/dL di Hb non saturata per cui un soggetto\ncon anemia difficilmente sarà cianotico."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-f6afd98e7f09",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        165,
+        166
+      ],
+      "level": "errore",
+      "issue": "Muscoli papillari descritti come responsabili di apertura valvolare.",
+      "check": "Le valvole si aprono passivamente per i gradienti pressori; muscoli papillari e corde tendinee impediscono il prolasso delle valvole atrioventricolari durante la sistole.",
+      "passages": [
+        {
+          "page": 165,
+          "printedPage": 165,
+          "quote": "Itto della punta: sito sull’emiclaveare sinistra, a livello del 5 spazio intercostale, 7/9 cm a sinistra\ndella linea mediosternale. Viene anche definito impulso apicale, nella letteratura italiana preferiamo\nusare però il termine itto della punta. Per identificarlo: parto da sotto la clavicola seguendo la linea\nmargino sternale, trovo le cartilagini condro-costali e da queste risalgo agli spazi intercostali.\nTenendo conto che l’itto della punta, a parte in casi particolari, è ben visibile e ben palpabile. È un\nbreve battito sistolico in funzione della frequenza, della possibilità che ci sia interposto del tessuto\npolmonare o che ci sia un versamento pleurico o un versamento pericardico. In condizioni\nfisiologiche lo troveremo nella sede sopraindicata.\n\nL’estensione dell’itto: questo spazio è paragonabile a una moneta da due euro, che consente la\nrepertazione dell’itto su un’area più ampia di quella che ci saremmo aspettati lungo la linea\nemiclaveare. Quindi talvolta l’itto può essere più esteso.\n\nCamere cardiache, valvole e circolazione del cuore\n\nPer la loro posizione le valvole mitrale e tricuspide sono definite atrio-ventricolari, mentre l’aortica e\nla polmonare sono chiamate semilunari perché ciascun lembo assume la forma di una semiluna.\nCiascuna valvola ha le sue caratteristiche, la mitrale e la tricuspide sono più cospicue rispetto\nall’aortica e alla polmonare e anatomicamente sono diverse. Quando le valvole si chiudono avremo\ndelle vibrazioni esercitate dai lembi valvolari, queste vengono trasmesse al sangue e alle strutture\ncardiache adiacenti producendo i toni cardiaci.\n\nEsiste un letto capillare polmonare che serve a favorire gli scambi tra sangue venoso, gli alveoli\npolmonari da cui viene ossigenato e torna alle camere cardiache. La vena cava superiore drena la\nporzione superiore (sovradiaframmatica) del corpo, la cava inferiore drena la porzione inferiore\n(sottodiaframmatica) del corpo. La valvola polmonare e l’aortica hanno una forma a semiluna, la\nvalvola tricuspide ha tre lembi, mentre la mitrale ne avrà due (bicuspide). Dalla semilunare aortica il\nsangue dal ventricolo va in aorta e raggiunge la circolazione sistemica.\n\nL’atrio sinistro è spostato più esternamente e verso l’interno, a livello della superficie del diaframma.\n\nCiclo cardiaco (ventricolo sinistro)\n\n           1.​ SISTOLE\nFase di contrazione ventricolare, la pressione del ventricolo sinistro sale rapidamente, rimane\ncostante e inizia a scende quando la maggior parte del sangue ventricolare viene espulso nell’aorta.\nAvremo 3 fasi a livello della sistole e della diastole (proto, meso e tele). Durante la sistole la valvola\naortica rimane aperta per consentire il passaggio del sangue dal ventricolo all’aorta, mentre la\nvalvola mitralica rimane chiusa per impedire il rigurgito nell’atrio sinistro; se fosse aperta la\ncontrazione ventricolare che è più potente rispetto a quella atriale creerebbe un gradiente talmente\ntanto alto per cui si avrebbe un ritorno del sangue specie nella fase della proto-sistole e della\nmeso-sistole nell’atrio sinistro causando diversi problemi, questo accade ad esempio in caso di\ninsufficienza valvolare.\n\n                                          Se misuriamo la pressione del ventricolo sinistro durante il\n                                          ciclo cardiaco otteniamo una curva pressoria.\n\n                                          Durante la sistole la pressione tende a salire ha un picco,\n                                          poi tende a scendere in modo da consentire la diastole.\n                                          Durante la sistole la valvola mitralica è chiusa e sono aperte\n                                          le semilunari e il sangue viene portato alla circolazione.\n                                          Durante la diastole l’aortica è chiusa viene aperta la valvola\n\n\n\n\n                                                                                                     165"
+        },
+        {
+          "page": 166,
+          "printedPage": 166,
+          "quote": "mitralica e il sangue affluisce al ventricolo. I muscoli papillari presiederanno all’apertura delle\nvalvole."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-e60221d06762",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        168
+      ],
+      "level": "verifica",
+      "issue": "Attribuzioni improprie di depolarizzazione/ripolarizzazione alle singole onde QRS: usate solo funzioni globali corrette e conduzione.",
+      "check": "Il complesso QRS descrive la depolarizzazione ventricolare. Q, R e S sono deflessioni del medesimo processo, non fasi successive di depolarizzazione e ripolarizzazione.",
+      "passages": [
+        {
+          "page": 168,
+          "printedPage": 168,
+          "quote": "Avremo deflessione positiva per depolarizzazione che corrisponde all’onda P, deflessione negativa\nper l’onda Q, recupero sull’onda R, depolarizzazione sull’onda S, che nel complesso formano il\ncomplesso QRS e ripolarizzazione ventricolare con l’onda T. Questo ci fa capire come viene"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-e9414b93661a",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        170
+      ],
+      "level": "verifica",
+      "issue": "Richiamo alla legge di Laplace confuso con relazioni pressione/flusso/calibro.",
+      "check": "Separare la legge di Laplace, sulla tensione di parete, dalle relazioni tra portata, pressione e resistenza e dalla legge di Poiseuille.",
+      "passages": [
+        {
+          "page": 170,
+          "printedPage": 170,
+          "quote": "viceversa (legge di Laplace). Gli aumenti patologici del precarico sono legati a un\n            sovraccarico di volume e quelli del post-carico sono legati a un sovraccarico di\n            pressione. Se ho un volume maggiore il precarico aumenta. Se ho una pressione\n            maggiore il post-carico aumenta. Nell’individuo iperteso, con un tono vascolare più\n            elevato, avremo un aumento del postcarico, che a lungo andare sfibra il cuore perché\n            deve pompare contro una resistenza legata alla vasocostrizione. Le alterazioni sono\n            rilevabili tramite le alterazioni dei toni cardiaci e questo comporta la comparsa di toni e\n            soffi patologici e di fremiti degli impulsi ventricolari. Avremo quindi la trasmissione di\n            armoniche legate a condizioni particolari di eiezione della colonna ematica attraverso i\n            ventricoli, le arterie e le vene."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-87337d05e916",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        171
+      ],
+      "level": "verifica",
+      "issue": "Meccanismo dello squatting e spiegazione della postura nel versamento pericardico impropri: conservata solo associazione squatting/Fallot.",
+      "check": "Lo squatting aumenta le resistenze sistemiche e può ridurre lo shunt destro-sinistro nella tetralogia di Fallot. Ricontrollare separatamente la descrizione della postura nella patologia pericardica.",
+      "passages": [
+        {
+          "page": 171,
+          "printedPage": 171,
+          "quote": "La posizione dello squatting, ovvero rannicchiata, è frequente nei bambini affetti da cardiopatia\ncongenita cianogena tipo la tetralogia di Fallot, dove ho un difetto interventricolare. La potrò\nosservare in caso di valvulopatie e mal posizionamento dei vasi. Questo favorisce una migliore\nsaturazione di ossigeno del sangue venoso perché ho migliore comunicazione tra ventricolo destro\ne sinistro e quindi c’è una commistione tra sangue ossigenato e non ossigenato. Favorisce una\nmigliore saturazione di O2 del sangue arterioso."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-40c6bff7d272",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        176
+      ],
+      "level": "errore",
+      "issue": "Dotto arterioso chiamato forame e coartazione descritta come rottura aneurismatica.",
+      "check": "Dotto arterioso e forame ovale sono strutture diverse. La coartazione è un restringimento aortico, non una rottura aneurismatica.",
+      "passages": [
+        {
+          "page": 176,
+          "printedPage": 176,
+          "quote": "I fremiti possono comparire in caso di aneurisma aortico, di coartazione dell’aorta (iniziale rottura\ndell’aneurisma con stenosi della parte interna), nella rottura delle corde tendinee legate a eventi\nischemici acuti o in caso di rottura del setto interventricolare in caso di infarti massivi. Possiamo\nanche avere sfregamento dei foglietti pleuro-pericardici che danno fremiti. Questo sarà legato alle\npericarditi e sono sia sistolici che diastolici, caratteristici soprattutto della pericardite reumatica, da\nstreptococco beta emolitico di gruppo B, delle pericarditi tubercolari e raramente nelle pericarditi da\npneumococco. Potremo osservarlo anche in eventi post-infartuali, in caso di insufficienza renale"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-651687e1215a",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        176
+      ],
+      "level": "errore",
+      "issue": "La pericardite reumatica è collegata a streptococco beta-emolitico di gruppo B.",
+      "check": "Il riferimento eziologico della febbre reumatica è allo streptococco beta-emolitico di gruppo A, non B; distinguere la cardite reumatica dalle pericarditi infettive.",
+      "passages": [
+        {
+          "page": 176,
+          "printedPage": 176,
+          "quote": "I fremiti possono comparire in caso di aneurisma aortico, di coartazione dell’aorta (iniziale rottura\ndell’aneurisma con stenosi della parte interna), nella rottura delle corde tendinee legate a eventi\nischemici acuti o in caso di rottura del setto interventricolare in caso di infarti massivi. Possiamo\nanche avere sfregamento dei foglietti pleuro-pericardici che danno fremiti. Questo sarà legato alle\npericarditi e sono sia sistolici che diastolici, caratteristici soprattutto della pericardite reumatica, da\nstreptococco beta emolitico di gruppo B, delle pericarditi tubercolari e raramente nelle pericarditi da\npneumococco. Potremo osservarlo anche in eventi post-infartuali, in caso di insufficienza renale"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-97194b590e6d",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        181,
+        182
+      ],
+      "level": "verifica",
+      "issue": "Spiegazioni dello sdoppiamento e gradienti di pressione imprecise: usata solo relazione A2/P2 corretta.",
+      "check": "Ricostruire il rapporto temporale A2/P2 e la variazione respiratoria dello sdoppiamento: l’inspirazione ritarda soprattutto P2.",
+      "passages": [
+        {
+          "page": 181,
+          "printedPage": 181,
+          "quote": "Sdoppiamento dei toni cardiaci\nAll’auscultazione ci può essere uno sdoppiamento dei toni cardiaci, detto anche splitting.\nOvviamente gli stessi eventi che valutiamo nel cuore sinistro avvengono anche nel cuore destro,\nquindi essendo le pressioni sia nell’arteria polmonare che nel ventricolo destro inferiori a quello\nsinistro, gli eventi nel cuore destro sono un po’ in ritardo rispetto a quelli del cuore sinistro. Quindi si\npossono percepire anziché come un unico tono cardiaco, due distinte componenti: la prima dovuta\nalla chiusura della valvola di sinistra, aortica o mitrale, la seconda dovuta alla chiusura delle valvole\ndi destra, tricuspide o polmonare. Durante l’espirazione le due componenti A2 (chiusura valvola\naortica, anticipata e ascultabile al precordio) e P2 (chiusura valvola polmonare, ritardato e ascultabile\nso II, III spazio intercostale) sono fuse in un unico tono, mentre durante l’inspirazione A2 e P2 si\nseparano lievemente. Questo perché con l’inspirazione c’è un rallentamento, in quanto c’è un\nafflusso maggiore a livello polmonare perché il cuore agisce come pompa. Quindi c’è un piccolo\nsdoppiamento delle sue componenti auscultabili, e bisogna essere bravi ad apprezzarli. Nello\nsdoppiamento inspiratorio, l’inspirazione stessa allunga l’eiezione di sangue dal VD ma accorcia\nquella del VS, perché è maggiore la funzione aspirativa rispetto alla funzione propulsiva. Per cui\nsostanzialmente il rumore sulla polmonare viene ritardato, mentre quello sulla aortica viene\nanticipato. Ovviamente la componente aortica è maggiore perché c’è una pressione maggiore in\naorta (questo si reperta al precordio). Il tono polmonare è più debole perché nell’arteria polmonare\nla pressione è molto più bassa (si apprezza a livello del 2° e 3° spazio intercostale di sinistra, in\nprossimità dello sterno). Lo sdoppiamento del primo tono non varia con il respiro, perché la\ncomponente mitralica precoce è più forte (per la maggior pressione che c’è a livello delle sezioni\nsinistre del cuore), nasconde sovrastando la componente tricuspidale, addirittura la può mascherare\ncompletamente, rendendo pressoché impossibile l’auscultazione dello sdoppiamento, che può\nessere apprezzato a livello del margine sternale sinistro, inferiormente.\n           1.​ Lo sdoppiamento del primo tono ci può essere nelle affezioni con turbe di conduzione\n               oppure per asincronismo della chiusura dell’aorta e della polmonare: scompenso\n               cardiaco, oppure blocco atrioventricolare di secondo grado (Mobitz I o Mobitz II),\n               quando c’è un’alterazione della trasmissione dell’impulso. Quindi ci può essere un\n               blocco 1 a 2, 1 a 3, 1 a 4. Lo sdoppiamento dal primo tono é sempre patologico.\n           2.​ Lo sdoppiamento del secondo tono è causato dall’asincronismo nella chiusura delle\n               valvole aortica e polmonare (blocco di branca sinistro nel caso aortico, destro nel caso\n               polmonare), nelle malattie tipo stenosi mitralica, difetto interatriale o ipertensione\n               arteriosa marcata. Quindi tutte queste patologie possono essere rilevate\n               semplicemente, anche senza saperlo, attraverso la semeiotica.\n(Il blocco di branca è un ritardo di conduzione in una delle due branche delle fibre di Purkinje. Quindi\nnella branca destra o nella branca sinistra a seconda che siamo ventricolo destro o nel ventricolo\nsinistro)."
+        },
+        {
+          "page": 182,
+          "printedPage": 182,
+          "quote": "toni, mentre con il riposo tutto questo diminuisce. Si può apprezzare una minore intensità nelle\npersone francamente obese e nelle donne con mammelle voluminose, in cui c’è più materia inerte\nche si interpone. Ovviamente lo sdoppiamento del primo tono è sempre indice di una cardiopatia.\nNei giovani il secondo tono è più rumoroso sul focolaio polmonare, mentre negli anziani sul focolaio\naortico, perché il focolaio aortico è legato all’aterosclerosi delle strutture e alla vetustà dell’apparato\ncardiovascolare, mentre nei giovani c’è una maggior capacità respiratoria quindi si sente di più sul\nfocolaio polmonare. Lo sdoppiamento del secondo tono nelle persone giovani è legato al ciclo\nrespiratorio, che è leggermente più intenso in questi soggetti. Nella fase espiratoria la gittata del\nventricolo destro è superiore a quella del ventricolo sinistro, quindi questo dà un minimo\nasincronismo che è più evidente sul focolaio polmonare quando il soggetto è in inspirazione forzata\n(questi sono tutti aspetti parafisiologici)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-683db553348b",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        183
+      ],
+      "level": "verifica",
+      "issue": "Terzo tono confuso con apertura valvole e schiocco mitralico: esclusi meccanismi errati.",
+      "check": "S3 deriva dal riempimento ventricolare rapido. Va distinto dallo schiocco di apertura della mitrale stenotica.",
+      "passages": [
+        {
+          "page": 183,
+          "printedPage": 183,
+          "quote": "minore espansone di tutte le strutture.\nCi può essere un terzo tono o schiocco di apertura nella stenosi mitralica, nella fase iniziale della\ndiastole (protodiastole), perché la mitrale si apre di colpo sotto la spinta di un incremento superiore\ndella pressione intra-atriale, che si verifica all’inizio della diastole ventricolare; è un movimento\ncontro gradiente, quindi c’è una specie di sfondamento da questo punto di vista.\nNei bambini e nei giovani può essere presente, in condizioni normali, un terzo tono (S₃), udibile\nsubito dopo S₂, all’inizio della diastole ventricolare, dovuto alla brusca apertura delle valvole\natrioventricolari. È un suono di bassa intensità, percepibile all’apice cardiaco o al terzo–quarto\nspazio intercostale. Questo reperto deve essere distinto dal ritmo di galoppo protodiastolico, che\ninvece è patologico."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-633099a880ae",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        187
+      ],
+      "level": "errore",
+      "issue": "Reumatismo attribuito a streptococco gruppo D e cause non corrette.",
+      "check": "La febbre reumatica segue un’infezione da streptococco beta-emolitico di gruppo A, non di gruppo D; il danno cardiaco è immunomediato.",
+      "passages": [
+        {
+          "page": 187,
+          "printedPage": 187,
+          "quote": "Soffi valvola per valvola\n1.​ Soffi patologici originati dalla valvola mitralica\nLa patologia che più frequentemente comporta una insufficienza mitralica è il reumatismo\narticolare acuto (RAA), tenete conto che da punto di vista epidemiologico in\netà preantibiotica questa era una delle maggiori cause di insufficienza\nventricolare ed una delle maggiori cause di mortalità. Il reumatismo articolare\nacuto è un’infezione da streptococco beta-emolitico di gruppo D, che va\ntovarsi a livello valvolare. La genesi del soffio è legata a due fattori: la rottura\ndei muscoli papillari o una disfunzione dei muscoli perché portano a una\ndistorsione dell'anulus su cui si inserisce la valvola viene distorto, quindi\nerosione delle corde tendinee e perdita della capacitanza del ventricolo.\nQualche volta si può sviluppare in caso di setticemia per qualsiasi causa,\nspesso nell’endocardite batterica e qualche volta nel lupus eritematoso\nsistemico, perché c’è un’alterazione dell’osteo valvolare che comporta\ninsufficienza mitralica.\n la rottura delle corde tendinee può avvenire per stress, ad esempio, nelle persone sovrappeso\ncon elevati valori pressori o per un'alterazione dell'anello mitralico legata a collagenopatie."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-932468e7fa4b",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        188,
+        189
+      ],
+      "level": "verifica",
+      "issue": "Definizione del soffio mitralico e alcuni effetti emodinamici imprecisi: domande selezionate su complicanze solide, non inferenze del testo.",
+      "check": "Distinguere stenosi mitralica, insufficienza mitralica e loro soffi. Le spiegazioni emodinamiche vanno ricostruite sul ciclo cardiaco.",
+      "passages": [
+        {
+          "page": 188,
+          "printedPage": 188,
+          "quote": "focolaio mitralico, si irradia lateralmente verso l’ascella e verso l’alto alla base del cuore, sul\nprecordio. Ha una tonalità alta, spesso soffiante come a getto di vapore. Può essere anche\naspro e fischiante. Non si attenua con le variazioni di posizione e tende ad aumentare dopo\nl’esercizio fisico. Non si modifica minimamente con il respiro. Come si vede dall’immagine, questa è\nla sede di irradiazione del soffio proto-mesosistolico. A livello dell’itto irradiato verso l’alto e verso\nl’ascella. Queste sono le sedi di massima intensità in cui si può apprezzare il soffio."
+        },
+        {
+          "page": 189,
+          "printedPage": 189,
+          "quote": "patogenesi stenosi\n         ●​ Ispessimento delle valvole mitraliche, spesso con calcificazioni.\n         ●​ Ispessimento e accorciamento delle corde tendinee → perdita di elasticità.\n         ●​ Ostacolo al flusso atrio → ventricolo → ↑ pressione in atrio sinistro e vena polmonare.\n         ●​ Trasmissione retrograda al polmone → ispessimento pareti alveolari + edema\n            interstiziale.​"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-48bea5a4a9ab",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        191
+      ],
+      "level": "errore",
+      "issue": "Gittata sistolica in L/min e valore 30L/min: non impiegati.",
+      "check": "La gittata sistolica è un volume per battito, tipicamente espresso in mL/battito. La gittata cardiaca è un volume per minuto, espresso in L/min.",
+      "passages": [
+        {
+          "page": 191,
+          "printedPage": 191,
+          "quote": "conseguenze emodinamiche\n         ●​ Sovraccarico di volume → ipertrofia del ventricolo sinistro.\n         ●​ Progressivo aumento della gittata sistolica per compensare il reflusso.\n         ●​ Confronto tra volume anterogrado e volume rigurgitato: parte della gittata torna\n            indietro.\n         ●​ In individui molto allenati: Possibile gittata sistolica anche di 30 L/min, valore\n            elevatissimo. L’aumento è dovuto non alla frequenza, ma solo all’aumento della\n            gittata.​"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-c4b680f4a9bf",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        193
+      ],
+      "level": "verifica",
+      "issue": "Difetti settali e cefalea descritti con fisiologia imprecisa.",
+      "check": "Il significato e la direzione di uno shunt dipendono da difetto e pressioni. Le associazioni con cefalea non vanno generalizzate a tutti i difetti settali.",
+      "passages": [
+        {
+          "page": 193,
+          "printedPage": 193,
+          "quote": "Roger). Dalla figura si vede la pervietà interventricolare, generalmente si apprezza un po’\n         più medialmente di solito sullo sterno. E’ assolutamente in decrescendo perché quando si\n         parificano le pressioni il soffio scompare.\n   ●​    del setto interatriale: più frequente. E’ una malformazione congenita in cui il flusso del\n         sangue dall’atrio sinistro all’atrio destro si verifica durante la diastole. Il gradiente pressorio\n         tra i due atri è basso, e solo occasionalmente si avverte un soffio diastolico. Possono esser\n         presenti un soffio ed un fremito sistolici sulla polmonare causati dall’aumento del\n         flusso e dalla dilatazione dell’arteria polmonare, poco percepibili. Spesso questi sono\n         causa di cefalee di cui non si riesce a capire l’origine. più frequenti in condizione di\n         ipoossigenazione, per meno sangue al cervello.\n\nCoartazione aortica\nLa coartazione aortica è una stenosi congenita localizzata a livello della zona dell'arco aortico,\ncorrispondente all’inserzione del dotto di Botallo (non interessa tutto il vaso, essa però può\ncoinvolgere un segmento più o meno lungo del vaso stesso) che causa un soffio sistolico, aspro,\nche è più intenso sul secondo spazio intercostale a sinistra dello sterno e può essere esteso fino al\nsecondo spazio parasternale destro. Il soffio si può “repertare” come un soffio sistolico al dorso nella\nregione scapolare sinistra, quindi l’irradiazione è abbastanza ampia perché arriva in sede\nsottoclaveare e parasternale. Si può notare anche a livello posteriore nella regione scapolare\nmediale nella zona che corrisponde sempre al secondo arco costale.\n\n\n\n\nSfregamento pericardico\nSe si va a valutare la distribuzione cronologica, la sede, l’irradiazione, l'intensità e la qualità del tono\nsi capisce che si tratta di uno sfregamento pericardico perché possiamo avere la comparsa di soffi,\no comunque di rumori, che non sono legati a delle valvulopatie.\nLa condizione di partenza può essere l'insufficienza renale, sia in forma acuta (insorgenza rapida)\nche, più comunemente, in forma cronica (progressiva e di lunga durata). Il Meccanismo: Il rene\nnon è più in grado di svolgere la sua funzione di filtro. Di conseguenza, i prodotti di scarto del\nmetabolismo proteico, in particolare l'urea e l'azotemia (misura dell'urea nel sangue), si\naccumulano nel circolo ematico, raggiungendo concentrazioni tossiche. Questa condizione di\ntossicità sanguigna è definita uremia.Le sostanze tossiche accumulate, inclusa l'urea, irritano il\npericardio (la membrana che riveste il cuore). Questa irritazione provoca un'infiammazione del\npericardio chiamata pericardite uremica.L'infiammazione fa sì che i due foglietti del pericardio\n(viscerale e parietale), normalmente lisci e separati da una minima quantità di liquido, diventino\nruvidi e secchi. Quando il cuore batte, il movimento di questi foglietti infiammati genera un suono\nudibile all'auscultazione, descritto come sfregamento pericardico. Questo suono è il segno\ncaratteristico della pericardite uremica.\nLa dialisi ha un ruolo terapeutico cruciale. Essa vicaria (sostituisce) la funzione del rene,\nrimuovendo i prodotti tossici e l'eccesso di fluidi dal sangue (depurazione extrarenale). Riducendo\ndrasticamente i livelli di urea e azotemia, la dialisi è in grado di controllare o risolvere l'irritazione e\n\n\n\n\n                                                                                                       193"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-ebeadea1cfa8",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        196
+      ],
+      "level": "verifica",
+      "issue": "Soffi diastolici funzionali/innocenti e dichiarazioni sulle eziologie: non insegnati come innocui.",
+      "check": "Un soffio diastolico richiede inquadramento per una possibile patologia; non va etichettato genericamente come soffio innocente.",
+      "passages": [
+        {
+          "page": 196,
+          "printedPage": 196,
+          "quote": "-​     sono rari e dovuti alla dilatazione “dell'anulus valvolare”, sono legati all'ipertensione\n               arteriosa, specialmente all’ipertensione diastolica, ovvero quando la pressione\n               diastolica rimane elevata per un periodo particolarmente lungo;\n          -​   ovviamente come tutti i soffi diastolici può essere dovuto anche a infezioni\n               miocardiche, quidni miocarditi, infezione acuta, anemia, tireotossicosi (la\n               tireotossicosi crea alterazioni sia della velocità sia della viscosità del sangue).\n          -​   Un soffio funzionale diastolico dell'aorta è meno prolungato ed intenso dei soffi organici\n               e di solito compare esclusivamente in stazione eretta."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-2d796f879495",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        198,
+        199
+      ],
+      "level": "verifica",
+      "issue": "Compressione bulbi oculari/massaggio carotideo come manovre pratiche: nessuna istruzione o dosaggio.",
+      "check": "Le manovre vagali hanno indicazioni e controindicazioni specifiche. La compressione dei bulbi oculari è una pratica obsoleta; il massaggio carotideo non è una manovra da riprodurre autonomamente.",
+      "passages": [
+        {
+          "page": 198,
+          "printedPage": 198,
+          "quote": "esempio nella slide si vedono in una porzione l’onda P e il complesso QRS, a fianco vediamo l’onda\nP negativa e poi il QRS, poi si vede l’onda P dopo il QRS ed infine l’onda P non è visibile e questi\nsono tutti scenari del ritmo giunzionale.\n\nFrequenza e ritmo cardiaco\nIn condizioni normali, per un uomo, (viene tutto parametrato con parametri antropometrici: ci\nriferiamo generalmente a un individuo di sesso maschile, in buona salute, tra i 30 e i 45 anni) la\nfrequenza in condizioni normali è compresa tra le 60 e 90 pulsazioni al minuto (bpm —> acronimo di\nbattiti per minuto). Il battito, di solito, è regolare ovvero i cicli cardiaci sono di uguale durata. La\nsequenza dei complessi QRS ha ritmo regolare, quindi hanno intervalli sempre uguali fra loro, che\nogni complesso QRS presenta morfologia normale, cioè è preceduto da un’onda P normale ad un\nintervallo normale; il tratto ST e l’onda T sono di durata e morfologia normali.\nÈ importante ricordare che il circuito elettrico del muscolo cardiaco comprende il nodo seno-atriale,\nche è il pacemaker dominante fisiologico, il nodo atrio-ventricolare, il fascio di His, le due\ndiramazioni di destra e sinistra del fascio di His e le fibre del Purkinje. Nei disordini del ritmo si\nverificano delle alterazioni nel flusso degli impulsi in questo circuito.\n\nSintomi e segni dei disturbi del ritmo e della conduzione\nRiguardo le alterazioni del ritmo e della conduzione cardiaca possiamo riscontrare quadri di totale\nasintomaticità e quindi le alterazioni risultano un reperto casuale, oppure possono determinare\npalpitazioni, in cui il paziente ha la percezione del battito cardiaco, cosa che normalmente non\naccade, battiti accelerati o energici, sensazione di battiti mancanti, oppure possiamo avere\ndelle situazioni in cui le aritmie o la turba della conduzione determina alterazioni emodinamiche in\ncui appaiono sintomi come alterazione della portata cardiaca e questo può dipendere in parte dalla\nvariazione del ritmo e della conduzione che si è verificato, ma anche dal tipo di paziente su cui si\ninterviene, se ha altre patologie o meno; fino ad arrivare a episodi di pre-sincope e sincope, in cui\nin entrambi vi è la perdita del tono muscolare, mentre solo nella sincope si verifica la perdita di\ncoscienza. Nei casi più estremi può avvenire l’arresto cardiaco.\nTalvolta si può manifestare poliuria come conseguenza del rilascio di peptide natriuretico atriale.\nLa palpazione del polso e l’auscultazione cardiaca possono aiutare a definire la frequenza\nventricolare e la sua regolarità o irregolarità, ma di solito essi non sono sufficienti per porre diagnosi\nsulla tipologia di aritmia o di disturbo della conduzione, in quanto è necessario l’elettrocardiogramma\nper poter avere la vera diagnosi.\n\nAbbiamo principalmente due tipi di alterazione del ritmo che sono le aritmie sopraventricolari (hanno\norigine dalla zona sopra il fascio di His) e le aritmie ventricolari.\nSi parla di tachicardia sinusale quando c’è un aumento della frequenza a valori superiori di 100\nbattiti al minuto. In condizioni fisiologiche, la tachicardia insorge dopo un'attività fisica intensa,\noppure sull'onda emozionale; dal punto di vista patologico, possiamo avere tachicardia a causa: del\ndolore perché comporta una spinta adrenergica, quindi l'azione di adrenalina e noradrenalina sul\npacemaker cardiaco; l'anemia perché il cuore cerca di compensare la minor quantità di sangue che\nva in circolo aumentando la gittata, stesso discorso per l’anossia; la febbre che richiede un aumento\ndel metabolismo a livello periferico; la tireotossicosi e lo scompenso cardiaco.\n\nLa frequenza si può modificare con la stimolazione vagale, voi sapete che il vago è uno dei nervi\nche innerva il cuore e la sua iperstimolazione induce bradicardia, in cui sostanzialmente si rallenta la\nfrequenza cardiaca; il rallentamento può essere fatto a livello carotideo andando a massaggiare i\n\n\n\n\n                                                                                                     198"
+        },
+        {
+          "page": 199,
+          "printedPage": 199,
+          "quote": "glomi aortici o carotidei oppure con la compressione dei bulbi oculari: sono due manovre\nabbastanza pericolose, specialmente la compressione dei bulbi oculari, perché possono generare\naddirittura un arresto cardiaco se sono fatte in maniera violenta (questo vi spiega perché alcune\ntecniche di combattimento prevedano proprio colpi al collo e ai globi oculari, possono provocare\narresto cardiaco)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-4e33a34809e7",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        208
+      ],
+      "level": "errore",
+      "issue": "Espansione inesatta di NT-proBNP come peptide atriale: non usata.",
+      "check": "NT-proBNP è il frammento N-terminale del propeptide natriuretico di tipo B; non è il precursore del peptide natriuretico atriale di tipo A.",
+      "passages": [
+        {
+          "page": 208,
+          "printedPage": 208,
+          "quote": "la renina): il cuore li produce quando viene stirato e quindi capisce di dover compiere un lavoro\neccessivo.\nQuesti peptidi dal punto di vista fisiopatologico servono a poco, ma sono utili perché possiamo\ndosarli, quindi vedrete spesso se fate attenzione ai malati che arrivano al pronto soccorso che tra i\nvari esami che fanno si trova anche il cosiddetto “NT pro-BNP” che sarebbe l’acronimo del\n“telopeptide N- terminale del precursore del peptide natriuretico atriale”.\nBNP vuol dire brain natriuretic peptide, dove brain indica il fatto che sia stato isolato per la prima\nvolta nell’encefalo dei maiali, ma in realtà è prodotto a livello del cuore. Quindi questo ormone, che\navrebbe una sua filosofia fisiopatologica, a noi serve come succedaneo per valutare lo stato di\nscompenso di un cuore, pur avendo dei limiti come tutti i test di laboratorio, che noi giudichiamo a\nseconda della specificità e della sensibilità per identificare un problema. È un test che fanno quasi\ntutti i malati che arrivano al pronto soccorso, è a bassa specificità e ad alta sensibilità. È utile per\ntracciare l’andamento della terapia."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-8e39eb1d9a93",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        218
+      ],
+      "level": "errore",
+      "issue": "Mixoma descritto come accumulo di grasso.",
+      "check": "Un mixoma è un tumore cardiaco, non un accumulo di grasso. Un lipoma è invece un tumore del tessuto adiposo.",
+      "passages": [
+        {
+          "page": 218,
+          "printedPage": 218,
+          "quote": "e colpisce specialmente le persone in giovane età, se non viene trattata oppure se viene trattata in\nmaniera “sub-clinica”, cioè se non viene radicata completamente l'infezione, questa progredisce e\ncomporta una serie di alterazioni che non sono soltanto articolari ma sono anche miocardiche.\nmalattie con grave e protratta insufficienza del ventricolo sinistro, oppure malattie primitive a\ncarico del parenchima polmonare o dei vasi polmonari, stenosi della tricuspide, pericardite\ncostrittiva, il mixoma dell'atrio destro è rarissimo, si tratta semplicemente di un accumulo di\ngrasso a livello del lato destro che occupa, pressoché, interamente la superficie dell’atrio destro."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-574d0461bde8",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        219
+      ],
+      "level": "verifica",
+      "issue": "Angiotensina indicata soprattutto su arteriola afferente e semplificazioni neuroormonali: esclusa quella specifica causalità.",
+      "check": "L’angiotensina II, a concentrazioni fisiopatologiche usuali, ha un importante effetto sull’arteriola efferente; il quadro dipende dal contesto e dalla concentrazione.",
+      "passages": [
+        {
+          "page": 219,
+          "printedPage": 219,
+          "quote": "La stimolazione simpatica del rene induce un rilascio di renina, il che comporta un aumento dei livelli\ncircolanti di angiotensina 2 e aldosterone, quindi si ha ritenzione di acqua e di sali - in particolare\nl’aldosterone tende a far risparmiare sodio. L’angiotensina 2 dà vasocostrizione dell’arteriola\nafferente a livello del glomerulo renale, per questo si ha l’aumento della ritenzione di acqua e di sali."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-6e09826fd5e2",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        220
+      ],
+      "level": "verifica",
+      "issue": "Rimodellamento descritto come sempre irreversibile: non usato.",
+      "check": "Il rimodellamento non è invariabilmente irreversibile: può verificarsi rimodellamento inverso con miglioramento della funzione e della geometria cardiaca.",
+      "passages": [
+        {
+          "page": 220,
+          "printedPage": 220,
+          "quote": "Nello schema a lato abbiamo una disfunzione barorecettoriale. I recettori sono a livello dei glomi\naortici e carotidei, a livello dell’arco aortico e intracardiologici. Si ha una caduta dei segnali afferenti\ninibitori ai centri vasomotori. Questo comporta un’iperattività del sistema nervoso simpatico ed\nun’ipersecrezione di renina, il che a sua volta comporta un’ipersecrezione di angiotensina 2 a\nlivello renale ed una maggiore secrezione di vasopressina. Queste agiscono sul rene causando\nuna diminuzione del flusso ematico renale e dando iperaldosteronismo secondario, il quale\ncausa un riassorbimento di sodio, che causa a sua volta un riassorbimento di acqua. Al contempo la\nvasocostrizione periferica dà un minor flusso ematico agli arti, quindi si ha uno squilibrio tra la\npressione osmotica e quella oncotica a livello degli arti inferiori: questa è fra le cause principali degli\nedemi declivi, uno dei primi segni dell’insufficienza venosa. Gli edemi declivi devono essere\ncorretti per togliere l’accumulo di liquidi nelle parti declivi dell’organismo organismo perché a lungo\nandare dà molti problemi.\n\nRimodellamento del ventricolo sinistro\nUna delle cause di insufficienza cardiaca è il rimodellamento ventricolare: è una variazione della\nmassa, del volume, della forma del ventricolo sinistro e della composizione strutturale,\nquindi anatomica, del cuore in seguito a un danno cardiaco e a condizioni anomale di carico\nemodinamico (vedi l’ipertensione). Quindi questo rimodellamento ventricolare è sempre legato ad\nun danno cardiaco, che può essere acuto o cronico, ed a condizioni di carico emodinamico\n=essenzialmente ipertensione arteriosa più tutte le altre patologie che abbiamo visto, ad esempio il\ndiabete; specialmente il diabete di tipo 2, che è una malattia metabolica estremamente gravosa dal\npunto di vista cardiovascolare, perché spesso e volentieri viene intercettata, quindi viene posta\ndiagnosi e quindi viene trattata, a 5/7 anni dall’esordio della malattia stessa. Quindi noi abbiamo un\nvuoto terapeutico ed essenzialmente di lesioni che si vengono a creare nelle quali noi non agiamo\nma che possono dare, ovviamente, dei grossi problemi.\n\nIl rimodellamento del ventricolo sinistro contribuisce in maniera indipendente alla progressione\ndell'insufficienza cardiaca perché i carichi meccanici che sono generati dalle variazioni della\ngeometria del ventricolo sinistro sono di per sé una causa di patologia – nel grafico di prima con i\n“tondini” rossi si vede come il ventricolo tende a perdere le sue caratteristiche.\n\n          -​     Le alterazioni del ventricolo sinistro, che in condizioni fisiologiche è un ellissoide\n               allungato e diventa una forma più sferica in corso di rimodellamento, provocano\n               un aumento della tensione mediana della parete, quindi proprio per un problema di\n               liquidi che spingono la parete si ha un sovraccarico meccanico ulteriore nel cuore\n               scompensato.\n          -​   L'aumento del volume telediastolico del ventricolo sinistro provoca progressivamente\n               un assottigliamento della parete, quindi una dilatazione. L’aumento del volume può\n               essere un aumento per sovraccarico emodinamico; quando noi trattiamo ipertensione\n               lo facciamo perché la pressione può avere degli effetti cardiologici e può avere degli\n               effetti cerebrali, ma soprattutto perché dobbiamo evitare che si inneschi questo\n               andamento che lentamente e progressivamente del tempo comporta il rimodellamento\n               del ventricolo sinistro (che una volta instaurato ovviamente non è reversibile).\n          -​   L'aumento del post-carico (sostanzialmente è la vasocostrizione periferica), creato\n               dalla dilatazione, si somma all’assottigliamento della parete e dà quello che si chiama il\n               mismatch funzionale del post- carico. Si ha perciò una diminuzione della gittata\n               sistolica, per cui arriva meno sangue in circolo.\n\n      L'elevata tensione telediastolica della parete causa:\n          ●​ un’ipoperfusione del sub-endocardio, nel quale si trova tutta la componente vagale\n             del cuore, e questo può innescare di per sé delle aritmie. Peraltro dà delle alterazioni di\n\n\n\n                                                                                                       220"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-2dfdd2def047",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        238
+      ],
+      "level": "errore",
+      "issue": "Numero elettrodi nove e V6 sulla linea ascellare posteriore. Mantenuti solo V1–V4 corretti.",
+      "check": "Un ECG standard a 12 derivazioni usa 10 elettrodi. V6 si pone sulla linea ascellare media sinistra, allo stesso livello orizzontale di V4 e V5.",
+      "passages": [
+        {
+          "page": 238,
+          "printedPage": 238,
+          "quote": "una coppia si usano nove elettrodi che combinati tra loro permettono di ottenere 12 derivazioni (per\nderivazioni si intende una coppia di elettrodi). Gli elettrodi vengono posizionati uno per arto, quello a\nlivello dell’arto inferiore destro non genera alcuna derivazione, ma funziona da messa a terra. I\ncolori con cui sono rappresentati colori sono convenzionali e vanno ricordati per non produrre un\nelettrocardiogramma fuorviante (terra-grigio/nero, avambraccio destro- rosso, avambraccio\nsinistro-giallo, gamba sinistra-verde). Per ricordare i colori si può usare la regola del semaforo:\nposizionato l’elettrodo nero, andando in senso antiorario avrò verde, giallo e rosso. A livello del\ntorace, invece gli elettrodi vengono posizionati nel seguente modo:\n          ●​ V1- Quarto spazio intercostale, al livello della linea parasternale destra;\n          ●​ V2- Quarto spazio intercostale, al livello della linea parasternale sinistra;\n          ●​ V3- Fra V2 e V4;\n          ●​ V4- Quinto spazio intercostale, al livello della linea emiclaveare sinistra;\n          ●​ V5- Quinto spazio intercostale, al livello della linea ascellare anteriore;\n          ●​ V6- Quinto spazio intercostale, al livello della linea ascellare posteriore.\nTutti questi elettrodi vengono usati per creare diverse derivazioni che misurano le diverse correnti\nelettriche che si propagano a livello del cuore. Le coppie sono costituite come illustrato in queste\ndue immagini."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-475b0b64a17c",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        240
+      ],
+      "level": "verifica",
+      "issue": "Intervallo PR confuso con segmento PR e depolarizzazione/ripolarizzazione improprie: escluse definizioni non affidabili.",
+      "check": "L’intervallo PR va dall’inizio di P all’inizio del QRS; il segmento PR va dalla fine di P all’inizio del QRS. Sono misure diverse.",
+      "passages": [
+        {
+          "page": 240,
+          "printedPage": 240,
+          "quote": "segmento ST e un’onda T, che corrispondono alla fase di ripolarizzazione del ventricolo. Il punto in\ncui il complesso QRS passa al segmento ST viene detto punto\nJ. Al termine dell’onda, la grande deflessione di ripolarizzazione, abbiamo un altro segmento\nisoelettrico in cui può comparire l’onda U, onda tardiva, espressione di una ripolarizzazione protratta\na livello ventricolare. Infine, il ciclo ricomincia con un’onda P."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-f991493e6ce7",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        245
+      ],
+      "level": "verifica",
+      "issue": "Reperi del pedidio imprecisi: usato solo tibiale posteriore.",
+      "check": "Verificare i reperi del polso pedidio: arteria dorsale del piede, generalmente lateralmente al tendine dell’estensore lungo dell’alluce.",
+      "passages": [
+        {
+          "page": 245,
+          "printedPage": 245,
+          "quote": "Per l’arto inferiore:\n-​ femorale - circa metà della piega inguinale, si posizionano le tre dita verticali\n-​ popliteo - ci sono due possibilità, o si posiziona il pz supino con il ginocchio leggermente\n   flesso e si posizionano tutte e due le mani, nella regione del cavo popliteo, con le tre dita di\n   una mano e dell'altra vicino e si sente il polso. Oppure con il paziente sempre supino bisogna\n   flettergli la gamba sulla coscia (perché se la flette da solo tende la fascia muscolare non\n   permette di sentire bene) e con l'altra mano sentite il polso.\n-​ tibiale posteriore - è quello interno, e si trova dietro al malleolo all'interno.\n-​ tibiale anteriore - che corrisponde al pedidio, è quello davanti, più o meno a metà\n   dell'avampiede, circa al terzo spazio intermetatarsale. Quindi questi sono i polsi periferici, ma\n   molte volte per essere più rapidi, per sapere se il paziente è arteriopatico, si va a sentire\n   subito un tibiale posteriore o un anteriore, e se li è presente, è ovvio che ci sarà anche il\n   popliteo e il femorale.\n   Se invece li non si sente, allora si va un po' più su e si vede dove si sente e dove non si sente\n   più. Si può fare uno schemino, cioè un'aorta, due iliache, e poi venire giù: femorale, poplitea e\n   tibiale e si mette più o meno, a seconda di dove si sente il polso: se si sente bene, oppure se\n   si sente cosi e cosi, o se proprio non si sente si mette \"meno\". Così si ha un proprio schemino\n   della situazine."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-735f4a82abab",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        250
+      ],
+      "level": "verifica",
+      "issue": "Lesioni trofiche indicate come caratteristica del Raynaud primario: non usato.",
+      "check": "Lesioni ischemiche e ulcere digitali fanno cercare una forma secondaria di Raynaud; non sono la caratteristica attesa della forma primaria.",
+      "passages": [
+        {
+          "page": 250,
+          "printedPage": 250,
+          "quote": "Possiamo far diagnosi di malattia di Raynaud nel momento in cui sono presenti alcune\ncaratteristiche:\n          -​ Problema bilaterale e simmetrico.\n          -​ Non ci devono essere lesioni occlusive, quindi non ci deve essere una causa che ha\n              determinato quel fenomeno.\n          -​ Ci devono essere delle lesioni trofiche, possono esserci lesioni parcellari o periferiche.\n          -​ Bisogna aver fatto due anni di osservazioni in cui non compaia una delle patologie che\n              possono provocare quel fenomeno."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-9e0d1599d028",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        256
+      ],
+      "level": "verifica",
+      "issue": "Homans/Perthes come conferma di TVP: esclusi per scarsa affidabilità e pratiche superate.",
+      "check": "Il segno di Homans non conferma né esclude una trombosi venosa profonda. La valutazione moderna usa probabilità clinica, D-dimero quando indicato ed ecografia venosa.",
+      "passages": [
+        {
+          "page": 256,
+          "printedPage": 256,
+          "quote": "Segno di Homans e Segno di Bauer\nVengono utilizzati come indice di trombosi venosa profonda\nprevalentemente localizzata negli arti inferiori (soprattutto al\npolpaccio).\nSegno di Homans è una dorsiflessione acuta del piede: il pz.\nstirando il muscolo gemelli prova dolore nel punto dove c’è la\nflebite o trombosi.\nSegno di Bauer è la compressione vera e propria del polpaccio\n(nel terzo superiore di gamba): in caso di flebite o trombosi il pz.\nha dolore."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-c5052bb3c12d",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        257
+      ],
+      "level": "errore",
+      "issue": "Filaria attribuita a mosca e cenni patogenetici impropri.",
+      "check": "La filariosi linfatica da Wuchereria bancrofti è trasmessa da zanzare; non va confusa con filariosi trasmesse da altri insetti.",
+      "passages": [
+        {
+          "page": 257,
+          "printedPage": 257,
+          "quote": "continente africano. La patologia è causata da una mosca che rilascia un verme, la filaria, che entra\nnei vasi linfatici: questo, finchè è vivo risale i vasi, ma non causa problematiche. Il problema si\nverifica a seguito di terapia antibiotica, quando muore e crea dei blocchi nel sistema linfatico.\nIn Italia invece prevalgono i linfedemi post-chirurgici e quelli primari su base congenita o\nmalformativa.\nLa patologia del sistema linfatico porta, siccome drena i liquidi\ninterstiziali, ad edema di natura linfatica che può avere due\norigini dal punto di vista fisiopatologico:\n          ●​ Linfostasi a genesi varia → la capacità di trasporto\n              linfatico è normale ma si ha una maggiore\n              produzione di linfa che il sistema linfatico non\n              riesce a compensare. Questo può verificarsi in\n              diversi casi come ad es. in pz. con insufficienza\n              venosa grave, con insufficienza epatica o con\n              sindrome nefrosica ovvero quadri clinici che\n              portano ad una produzione di liquidi interstiziali maggiore.\n          ●​ Linfedemi primari o secondari → la produzione di linfa è\n              normale ma la capacità di trasporto del sistema linfatico\n              è più bassa. Questo si verifica ad es. in donne operate\n              di tumore al seno (in cui hanno tolto linfonodi ascellari e\n              quindi hanno un ristagno di linfa al braccio) oppure\n              tumore della vulva o melanoma (in cui hanno tolto\n              linfonodi inguinali), oppure può essere di origine\n              congenita dove il bambino nasce con una situazione\n              linfatica anomala (displasia) che porta ad un drenaggio\n              linfatico ridotto. Primari: congeniti; secondari: acquisiti.\nUna complicanza rilevante del linfedema è la linfangite, spesso\nassociata a febbre elevata e brividi\nscuotenti.\nL'agente tipico è lo streptococco beta-emolitico di gruppo A; il quadro clinico prende il nome di\nerisipela o linfangite erisipeloide."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-8fe175784fa9",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        264
+      ],
+      "level": "verifica",
+      "issue": "Linfonodo sentinella positivo implica sempre dissezione: non usata tale generalizzazione terapeutica.",
+      "check": "Un linfonodo sentinella positivo non implica sempre dissezione completa: la gestione dipende dal tumore, dallo stadio e dal trattamento complessivo.",
+      "passages": [
+        {
+          "page": 264,
+          "printedPage": 264,
+          "quote": "sede più precoce di metastatizzazione linfonodale.\nAd es. per la mammella si inietta il tracciante radioisotopico in corrispondenza del tumore, si segue\ne si segna dove arriva il tracciante. Questo linfonodo è il primo che drena la zona del tumore e viene\nasportato. Se questo è positivo, cioè tumorale, vengono asportati anche gli altri linfonodi altrimenti ci\nsi ferma.\n\n\nIPERTENSIONE\nÈ la patologia più frequente nei paesi occidentali (si stima che un 30-40% della popolazione ne sia\naffetta). È anche il principale fattore di rischio per le patologie cardiovascolari, anche se le cause\nsono ancora oggi spesso sconosciute e la sua manifestazione può essere totalmente asintomatica;\nnon a caso, viene definita frequentemente come: “The Silent Killer”. Inoltre, nonostante così tante\npersone ne siano affette, più della metà degli affetti non sono adeguatamente controllati e\nsviluppano più spesso patologie cardiovascolari.\nI segni e i sintomi dell’ipertensione sono molteplici, ma aspecifici quali:\n         ●​ Cefalea retronucale: compare nel momento del risveglio, nelle prime ore nel mattino.\n         ●​ Grande faticabilità, con palpitazioni\n         ●​ Dispnea, difficoltà respiratorie\n         ●​ Vertigini, instabilità posturale (insieme a capogiri e cefalea si possono avere un\n            pressione molto alta o molto bassa)\n         ●​ Manifestazioni visive: fosfeni scintillanti (presenti con pressione molto alta o molto\n            bassa), che sono puntini scintillanti e amaurosi puntiformi, zone minuscole di cecità.\n         ●​ Acufeni\n         ●​ Disfunzione erettile, componente di danno vascolare legata ad aterosclerosi.\n\n\nSpesso questi sintomi possono essere però confusi con situazioni\nopposte all’ipertensione: ad esempio le vertigini ci possono essere\nanche in condizioni d’ipotensione. Sono tutti però poco specifici.\nAnche i segni sono aspecifici, tutti legati alle conseguenze\ndell’ipertensione: tipicamente ad un danno cardiaco, chiamato in\ngergo “danno d’organo”, che in un primo tempo è asintomatico,\nsoprattutto ipertrofia del ventricolo sinistro. Il danno d’organo può\npreludere a danni più gravi come: insufficienza renale, ischemia,\nictus… I segni caratteristici sono:\n           ●​ Spostamento dell’itto cardiaco\n           ●​ Aumento intensità di S2\n           ●​ Ipertrofia ventricolare sinistra\n           ●​ Soffio periombelicale sistodiastolico: può essere indicativo di stenosi renale e fare\n               diagnosi di ipertensione secondaria\nLa definizione d’ipertensione, associata al fatto che un aumento della pressione porta ad aumentato\nrischio cardiovascolare, mentre la sua riduzione porta ad un beneficio di salute, porta ai seguenti\nvalori: pressione sistolica (SBP)≥140 mmHg, pressione diastolica (DBP)≥90 mmHg.\nPer parlare d’ipertensione, basta che solo uno di questi sia sopra la soglia. Il rapporto tra rischio\ncerebrocardiovascolare e aumento di pressione ha andamento lineare lineare. Inoltre si parla anche\ndi:\n       ●​ Pressione Normale Alta: sistolica tra 130-139, diastolica 85-89. Anni fa era stata\n          battezzata come “Pre-Ipertensione” creando un grande allarme. In questi pazienti,\n          insieme ad altri fattori, si alza il rischio cardiovascolare e indicazione al trattamento\n       ●​ Pressione Ottimale: sistolica≤120, diastolica≤80 sempre.\nQuando sono aumentate se entrambe, si parla “d’innalzamento sisto-diastolico”, quando invece\naumenta esclusivamente la sistolica, si parla “d’ipertensione isolata”. Quest’ultima è tipica\n\n\n\n                                                                                                    264"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-0834dae22e21",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        267
+      ],
+      "level": "verifica",
+      "issue": "Diagnosi ABPM basata su percentuali fuori range e indicazioni terapeutiche assolute: non usate.",
+      "check": "Per il monitoraggio pressorio ambulatoriale contano soprattutto le medie pressorie nelle 24 ore, diurne e notturne; non basta una generica percentuale di misure oltre soglia.",
+      "passages": [
+        {
+          "page": 267,
+          "printedPage": 267,
+          "quote": "diastolica misurate a quel determinato orario, mentre le righe sono i valori di normalità per quelle\npressioni. Con questo monitoraggio, si sono rivisti i limiti pressori che identificano la normalità; si\nparla di: 135/85 di giorno e 120/70 di notte. Si evidenzia che al risveglio e nel primo pomeriggio, la\npressione sistolica è sempre superiore a quella di normalità, mentre si normalizza durante la\ngiornata, lo stesso per la diastolica. Il vantaggio della pressione delle 24 è che fornisce una misura\ndella pressione anche notturna, non effettuabile con quella tradizionale.\nAl referto sono correlate della analisi statistiche di base. Questi sono i valori riscontrati in un\npaziente; di solito gli si chiede anche di tenere un diario con tutti i valori che si riscontrano durante la\ngiornata con anche gli orari in cui si è andati a dormire e a che ora ci si è svegliati. In questo caso si\npuò vedere un’ipertensione sistolica isolata di giorno (139/82), con un’ipertensione sisto- diastolica\ndi notte (126/73). Di solito si guardano quante misurazioni sono fuori dal valore di normalità sul\ntotale delle misurazioni: se queste sono fino al 30%, il paziente è normoteso, quindi si considera\ncome cut-off un aumento oltre il 20-30% per definire l’ipertensione. L’aumento della pressione è\nnormale se il soggetto svolge esercizio fisico perché l’organismo cerca di compensare le richieste\nconseguenti all’esercizio.\nDurante la notte, normalmente la pressione s’abbassa e anche i\nvalori di riferimento della normalità sono più bassi perché è minore\nl’attività del simpatico e dei sistemi ormonali si quitano nelle ore\nnotturne. Il paziente iperteso però, può non mantenere un corretto\nritmo sonno-veglia, ecco perché vengono classificati in pazienti:\nDipper o Non-Dipper, a seconda del mantenimento del ritmo\ncircadiano della pressione. Il paziente è Dipper se i valori pressori\nregistrati durante il giorno, scendono almeno del 10% durante la\nnotte, mentre è Non-Dipper se i valori pressori variano di meno del\n10% durante la notte. Si parla di revers dipper se i valori\naumentano.\nNel primo grafico si vede un andamento chiaramente ipertensivo\ndella pressione, con i valori più bassi del 10% di quelli giornalieri\ndurante la notte: questo è il paziente Dipper. Nel secondo grafico\ninvece, i valori pressori sono alti, più o meno sulla stessa linea di quelli giornalieri.\nLa misurazione della cosiddetta “pressione office” è basata sui valori standard 140/90, quella\ngiornaliera dev’essere inferiore a 135/85, la notturna a 120/70, quella delle 24 ore a 130/80. Anche\nquella domiciliare ha dei cut-off diversi; dovrebbe rimanere inferiore a 135/85.\n\n\nTutti questi tipi diversi di misurazione della pressione sono complementari l’uno all’altro e la loro\nvalutazione combinata può definire diversi quadri di paziente iperteso:\n          ●​ Normotensione: paziente con pressione sempre nel range, sia in ambulatorio che a\n             casa con tutte le metodiche.\n          ●​ Ipertensione sostenuta: valori più alti del range normale sia in ambulatorio che a casa.\n          ●​ Ipertensione da camice bianco: pazienti con pressione domiciliare al di sotto del\n             normale e pressione in ambulatorio sopra al cut-off, che non devono essere trattati, ma\n             da tenere sotto stretta osservazione perché possono diventare ipertesi sostenuti\n             (10-15% degli ipertesi totali).\n          ●​ Ipertensione mascherata: in studio i pazienti hanno valori normali-alti in ambulatorio,\n             mentre a domicilio decisamente fuori range. Questi pazienti (10-15%) hanno un alto\n             rischio di sviluppare patologie cardiovascolari come i pazienti con ipertensione\n             sostenuta e quindi è necessario il trattamento.\nL’indicazione a misurare la pressione domiciliare dev’essere diffusa, anche se bisogna capire quali\npersone possono gestire questo compito, tipicamente persone non ansiose. È però indicativo anche\n\n\n\n\n                                                                                                       267"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-f8fda453c44a",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        268
+      ],
+      "level": "verifica",
+      "issue": "Riduzione pressione il più possibile: nessuna indicazione terapeutica riprodotta.",
+      "check": "La riduzione della pressione richiede obiettivi individualizzati e tollerati: “il più possibile” non è una regola terapeutica universale.",
+      "passages": [
+        {
+          "page": 268,
+          "printedPage": 268,
+          "quote": "Gestione del paziente iperteso\nÈ importante ridurre la pressione al paziente, anche se\nall’inizio potrebbe avere una sintomatologia ipotensiva, è più\ndebole e spossato, è necessario ridurla il più possibile, per\nevitare spiacevoli conseguenze: cardiache, cerebrali e renali.\nLa prognosi a lungo termine è correlata direttamente allo stato\nipertensivo, ma anche se c’è un peggioramento dovuto a fattori\ndi rischio, al danno d’organo e a condizioni predisponenti come\ndiabete. La valutazione deve essere approfondita per eventuali\naltri fattori di rischio che possono impattare sul rischio\ncardiovascolare.\nCVD= eventi cardiovascolari precoci"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-d18122cd4c25",
+      "book": "cm1",
+      "document": "CARLO MAGNO 1",
+      "documentId": "carlo-1",
+      "printedPages": [
+        275
+      ],
+      "level": "verifica",
+      "issue": "Blocco AV secondo grado confuso con dissociazione completa.",
+      "check": "Nel blocco AV di II grado alcuni impulsi atriali sono condotti e altri no; la dissociazione atrioventricolare completa è tipica del blocco AV completo, da distinguere da altre cause di dissociazione.",
+      "passages": [
+        {
+          "page": 275,
+          "printedPage": 275,
+          "quote": "atrio-ventricolare di secondo grado. Quest’ultimo si verifica quando la conduzione tra atri e ventricoli\nè del tutto disregolata, ognuno batte per il suo tempo. La FC viene dettata da dei focolai che\noriginano a livello del ventricolo e che appunto battono a 2025 bpm. Oppure possiamo avere una\nbradicardia sinusale, quindi un rallentamento della conduzione fisiologica che parte dal nodo\nsenoatriale il quale però batte più lentamente.\nNaturalmente di fronte a una frequenza bassa bisogna condurre\nuna corretta analisi farmacologica: ci possono essere dei farmaci\nche influenzano l’attività cardiaca. Il caso più comune è l’utilizzo del\nbeta-bloccante, esso ha proprio quello scopo, tuttavia il dosaggio e\nla tipologia devono essere guidati dagli effetti che ha sulla\nfrequenza cardiaca. Se io tratto un paziente con beta-bloccanti ma\nla frequenza è sotto 40 bisogna ridurre la posologia perché non si\npuò lasciarlo in questo stato.\nDeficit di polso: apprezzando contemporaneamente la\nfrequenza a livello cardiaco e quella periferica dovremmo trovare una condizione di sincronia\nfisiologicamente (magari il periferico giunge un pochino dopo del cardiaco però corrispondono).\nQuando abbiamo una frequenza cardiaca superiore rispetto alla periferica significa che siamo di\nfronte ad una sistole inadeguata: c’è stata una sistole (cioè una contrazione del ventricolo sx) in\ncondizioni di non ottimale riempimento ematico, quindi questo determina il fatto che potrebbero\ncrearsi delle onde sfigmiche di entità molto debole che possono non essere condotte e percepite in\nperiferia.\nCaso tipico dei deficit di polso è la presenza di fibrillazione atriale:\nessa è caratterizzata da un’attività del tutto irregolare dell’atrio, gli\nimpulsi elettrici anziché originare dal nodo del seno originano in\nvari foci atriali. Questo comporta che solo alcuni di questi impulsi\nvengano condotti in periferia. Spesso e volentieri la conduzione\ndell’impulso può avvenire in condizioni di non adeguato\nriempimento del ventricolo sx. Quindi molto spesso delle sistoli\natriali determinano l’insorgenza di un’onda sfigmica molto debole\nche non si apprezza in periferia.\nAltra cosa che può determinare un deficit di polso è la presenza di\nextrasistoli, esse sono dei battiti anticipati rispetto al ritmo di base.\nAnche qui un battito molto anticipato potrebbe portare a una\nsistole con riempimento non adeguato, e per tanto l’onda sfigmica\nnon viene condotta in periferia.\n2.​      RITMO\nBisogna sempre specificare se un polso è ritmico o aritmico,\nquesto permette di andare a fare delle diagnosi differenziali. La\nritmicità è legata all’intervallo che c’è tra le singole\nmisurazioni. Naturalmente si parla di un polso arterioso\nritmico quando gli intervalli tra le pulsazioni sono esattamente\nuguali tra di loro. Aritmico quando gli intervalli tra le varie\npulsazioni sono diversi."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-ab4bc6ba193e",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        288
+      ],
+      "level": "verifica",
+      "issue": "Murphy detto patognomonico di colica biliare; definizioni contrastanti. Non impiegato come diagnosi certa.",
+      "check": "Murphy orienta verso infiammazione colecistica nel contesto clinico appropriato; non è patognomonico di una colica biliare.",
+      "passages": [
+        {
+          "page": 9,
+          "printedPage": 288,
+          "quote": "Oltre ai punti appendicolari ci sono anche quelli cistici o colecistici. Segno di Murphy: segno\npatognomico di colica biliare. Bisogna distendere il pz, cercare il punto cistico di Murphy (al di sotto\ndell’arcata costale di destra, punto 3 in foto), gli si chiede di fare un respiro profondo e durante\nl’inspirazione si affonda la mano e se il pz smette di respirare= segno positivo. SE non smette di\nrespirare e dice solo che ha male non per forza il segno è positivo.                          Secondo\nil prof. Minuto il segno di Murphy ha una definizione strettamente semeiologica: è il dolore evocato\nalla palpazione profonda del margine inferiore epatico. Nella diagnosi differenziale dei pz con dolore\nacuto all’addome rientrano anche i punti urinari."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-84691d9f8f96",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        291
+      ],
+      "level": "verifica",
+      "issue": "Associazione automatica irriducibilità-strozzamento e diretta/indiretta; non riprodotta. Assenza di contenuto anatomico nel canale inguinale femminile inesatta.",
+      "check": "Un’ernia irriducibile non è automaticamente strozzata: lo strozzamento implica compromissione vascolare. Nel canale inguinale femminile decorre il legamento rotondo dell’utero.",
+      "passages": [
+        {
+          "page": 12,
+          "printedPage": 291,
+          "quote": "oppure nell’ernia crurale la lacuna dei vasi attraverso cui passano i vasi femorali, arteria e vena, nel\nloro decorso verso l'arto inferiore oppure dove erano presenti i vasi ombelicali durante la vita\nembrionale. Sono tutte zone appunto in cui si possono andare a insinuare delle digitazioni di\nperitoneo che contengono degli organi intraddominali e quindi vanno a creare la formazione\ndi un’ernia. L’ernia è costituita da una porta, che è proprio l’orifizio da cui fuoriesce l'organo, poi c’è\nun sacco che contiene l'organo che viene a erniarsi e questo sacco è diviso a sua volta in tre parti,\ne poi il contenuto solitamente è costituito da anse intestinali oppure da omento (porzione di grasso\nintraddominale). Nel momento in cui noi andiamo a palpare una massa, che, nel nostro caso,\npotrebbe essere un'ernia inguinale, con un paziente in clinostatismo (sdraiato), dobbiamo controllare\nse è riducibile o meno.\nGeneralmente con il paziente in clinostatismo l’ernia rientra nella sua sede (manovra di Taxis). In\n             questo caso si può attuare l'esplorazione del canale inguinale, nella quale il nostro\n             dito esploratore attraverso la sacca scrotale riesce ad inserirsi nel canale inguinale,\n             imbocca l'anello inguinale esterno e arriva fino all'anello inguinale interno; a questo\n             punto si chiederà al paziente di dare un colpo di tosse, in questo modo e si sentirà un\n             impulso sulla punta del dito oppure sul dorso. Sarà probabilmente un ernia obliqua\n             esterna\n\n            Esistono dei casi, per , in cui l'ernia non rientra nella cavità addominale (con il laparocele\n            è la stessa cosa). In questo caso l’ernia è andata incontro ad una complicasi, ci significa\n            che a furia di rimanere al di fuori della cavità addominale si è creata una stasi a livello\n            dell’ansa, in seguito un edema, poi una stasi venosa, si è creato un infarcimento\n            emorragico che ha aumenta ulteriormente la pressione e è andato incontro quindi a una\n            compressione dei vasi arteriosi, ci porta a ischemia e necrosi. Pertanto un paziente che\n            potrebbe essere operato con un intervento banale va incontro a una resezione\n            intestinale perché l'ansia che si necrotizza va resecata. Sarà probabilmente un’ernia\n            diretta che si sviluppa dalla parete posteriore.\n\nLe ernie inguinali sono le più frequenti, rappresentano circa il 75% dei casi e sono più frequenti\nnegli uomini.\nAttraverso il canale inguinale passano il dotto deferente e i vasi spermatici che vanno al testicolo,\nquindi nell'uomo questo canale è abitato da strutture anatomiche che vanno ad impegnarsi\nsull’orifizio, più precisamente sull’orifizio inguinale interno, il quale è localizzato a livello della\nfossetta esterna. Nelle donne, invece, questo canale è un lume virtuale e non è abitato da strutture\nanatomiche, motivo per cui l’ernia inguinale è molto più frequente nell’uomo.\n\nNella classificazione delle ernie bisogna anche distinguere in diretta e indiretta.\n    ● dirette sono quelle che nascono dalla fossetta mediale e quindi che si sviluppano per un\n       cedimento della parete posteriore del canale inguinale (sono meno frequenti).\n    ● Le ernie più frequenti sono quelle indirette oblique esterne che passano insieme ai vasi\n       spermatici del dotto spermatico, quindi imboccano il canale inguinale dall'alto, dall'orifizio\n       inguinale interno.\n    ● Le ernie più rare sono le ernie oblique interne ovvero quelle nelle quali si va ad impegnare\n       la vescica.\n\nUn'altra classificazione invece è andare a vedere quanto queste ernie si impegnano nel canale\ninguinale:\n    - Punta d’ernia, se l’ernia rimane all'imbocco dell'orifizio inguinale\n    - Ernia interstiziale, se va ad impegnarsi più in basso ma rimane nell'ambito del canale\n        inguinale\n    - Ernia inguino-scrotale, se arriva ad uscire dall'orifizio inguinale esterno e quindi arriva nella\n        sacca scrotale\n\n\n\n\n                                                                                                              291"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-3bd5e4c364f1",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        303
+      ],
+      "level": "verifica",
+      "issue": "Classificazione incompleta pulito/contaminato/sporco; affermazione che solo l’assenza totale di aria/feci dimostri occlusione troppo assoluta. Non usate.",
+      "check": "Occlusione completa e incompleta vanno distinte: l’emissione di feci o gas, specialmente iniziale, non esclude ogni occlusione. Verificare anche la classificazione delle ferite chirurgiche.",
+      "passages": [
+        {
+          "page": 24,
+          "printedPage": 303,
+          "quote": "sala operatoria perché c’è un un’infiammazione sistemica che è probabilmente un’infezione data la\n neutrofilia evidente, non si parla più di infiammazione localizzata ad un organo perché si è espansa\n ed è diventata quindi sistemica.\n\n Questo quindi ci dice che è importante guardare il paziente nella sua globalità, non basta fermarsi\n all’addome perché se lo stesso paziente avesse avuto 7-8 mila globuli bianchi non sarebbe stato\n operato probabilmente, ma visti i 18 mila globuli bianchi e PCR aumentata è chiaro che sia\n necessario l’intervento chirurgico. Le tac/ecografia eseguite in precedenza danno la certezza che la\n colpevole del malessere del paziente è l’appendice, che si presenta evidente e spessa, si nota anche\n un po’ di ascesso periappendicolare e del liquido nello scavo pelvico, questo è un quadro vero di\n addome acuto.\n\n Quindi da un problema d’organo si passa ad un’infiammazione d’organo la quale diventerà\n un’infiammazione diffusa prima e sistemica poi, necessitando dunque di essere trattata. Questo è\n un tipico caso da pronto soccorso.\n\n Esistono 3 tipi di intervento:\n\n• Pulito: in questo tipo di intervento non si reseca alcun tipo di organo cavo e non c’è incontro con\n  materiale contaminato. Esempio tiroidectomia e safenectomia.\n• Contaminato: intervento in cui vi è un’apertura di un viscere cavo, ci sarà infatti un momento in cui\n  verranno esposte due superfici mucose che, per quanto ben preparate, contengono materiale\n  batterico. Esempio emicolectomia destra.\n• Sporco: è un intervento che viene eseguito su una regione che è già stata esposta ai batteri, quasi\n  tutti gli interventi in urgenza, a parte quelli vascolari, sono interventi sporchi. Esempio\n  appendicectomia eseguita su appendice perforata già in peritonite.\n\n Occlusione intestinale o ileo\n\n Si parla di occlusione intestinale quando il paziente non è canalizzato ad aria e feci (altrimenti non è\n occluso!), è una condizione in cui non c’è transito intestinale e in un paziente con occlusione\n intestinale l’intestino si gonfia a monte dell’ostruzione. Cosa succede quando un paziente è occluso:\n\n     1. L’alvo non è canalizzato da un po’ di tempo ad aria e feci\n     2. L’addome sarà diffusamente globoso per meteorismo in quanto c’è un’enorme cupola d’aria;\n        le pareti dell’intestino sono sottilissime, l’intestino quindi è pieno d’aria e alla percussione si\n        sentirà un timpanismo con meteorismo (si sente solo aria). Si sa già che il paziente quanto\n        meno è suboccluso perché l’addome si gonfia.\n     3. Ileo: può essere paralitico se l’organo non funziona, si è bloccato per un problema alla\n        muscolatura quindi in questo caso si parla di un problema d’organo. Oppure si parla di\n        ileomeccanico quando c’è un’ostruzione.\n\n\n ALTERAZIONI DELL’ALVO\n\n Le alterazioni dell’alvo rappresentano un passaggio importante dell’anamnesi dopo aver valutato\n dolore e vomito. Si chiede al paziente: “Di corpo va regolare?”, e le risposte vanno classificate con\n precisione.\n\n  Tipi di alterazioni:\n     ●   Diarrea: evacuazione di feci liquide più di 3 volte al giorno. (Spesso i pazienti confondono\n         feci molli con vera diarrea).\n     ●   Stipsi (stitichezza): meno di 3 evacuazioni a settimana e necessità di sforzo importante per\n         defecare.\n     ●   Tenesmo: sensazione di evacuazione incompleta, come se non si fosse “andati del tutto”.\n\n\n\n                                                                                                              303"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-8729b1f2c655",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        313
+      ],
+      "level": "verifica",
+      "issue": "Vomito caffeano attribuito a porzioni basse, colon occluso senza vomito, stomaco sterile e altre semplificazioni.",
+      "check": "Il vomito caffeano indica sangue alterato e orienta verso un sanguinamento digestivo alto. Il vomito può comparire anche nell’occlusione colica; lo stomaco non è rigorosamente sterile.",
+      "passages": [
+        {
+          "page": 34,
+          "printedPage": 313,
+          "quote": "●   Vomito caffeano: sangue digerito con un tipico colore nerastro, situazione di sanguinamento\n    più o meno cronico all’interno dello stomaco, è tipicamente presente nell’ulcera gastrica o\n    duodenale, bisogna prestare molta attenzione in questo caso perché potrebbe avere varici\n    esofagee sanguinanti in maniera anche lieve, anch’esso come il fecaloide è facile da\n    inquadrare. La sanguinazione non è recente e interessa le porzioni più basse del tubo digerente."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-99375f2b6f08",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        317
+      ],
+      "level": "verifica",
+      "issue": "Percorso diagnostico rigidamente RX poi endoscopia e stadi dell’esofagite non presentati come linee guida attuali.",
+      "check": "L’ordine degli esami dipende dal quesito clinico e dai segni d’allarme. Le classificazioni dell’esofagite e le indicazioni all’endoscopia richiedono un riferimento aggiornato.",
+      "passages": [
+        {
+          "page": 38,
+          "printedPage": 317,
+          "quote": "Come facciamo a fare diagnosi di malattia da reflusso gastroesofageo?"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-d0fb82981111",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        319
+      ],
+      "level": "verifica",
+      "issue": "Falsa spiegazione della disfagia paradossa con il peso di liquidi/solidi. Non riprodotta.",
+      "check": "La disfagia paradossa orienta verso disturbi motori, non si spiega semplicemente con il “peso” diverso di liquidi e solidi.",
+      "passages": [
+        {
+          "page": 40,
+          "printedPage": 319,
+          "quote": "Il sintomo principale è la disfagia, cioè la difficoltà nel passaggio del bolo\n    alimentare. Nella acalasia, la disfagia è tipicamente paradossa, poiché si\n    manifesta inizialmente per i liquidi e solo successivamente per i solidi. Questo\n    avviene perché i cibi solidi, più pesanti, riescono a forzare meglio lo sfintere\n    contratto, mentre i liquidi, più leggeri, non esercitano la stessa pressione. Il\n    paziente può avvertire la sensazione che il cibo si arresti dietro lo sterno, in\n    prossimità dello sfintere esofageo inferiore. La disfagia è un sintomo che noi\n    abbiamo nell’acalasia, ma anche nella malattia da reflusso gastro-\n    esofageo, nelle neoplasie esofagee, quindi saper distinguere la\n    disfagia classica dei pazienti tumorali dalla disfagia paradossa può\n    permettere di fare diagnosi."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-1aecb3790f9b",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        321
+      ],
+      "level": "errore",
+      "issue": "Rivestimento cilindrico normale del tratto distale esofageo e assenza assoluta di tumori benigni mucosi.",
+      "check": "La mucosa esofagea normale è pavimentosa pluristratificata non cheratinizzata; la metaplasia intestinale definisce il Barrett. Non affermare l’assenza assoluta di neoplasie benigne.",
+      "passages": [
+        {
+          "page": 42,
+          "printedPage": 321,
+          "quote": "L’esofago presenta due tipi di rivestimento epiteliale:\n●  Nei tre quarti superiori, è rivestito da epitelio pavimentoso stratificato → in questa sede si sviluppano\n   i carcinomi a cellule squamose.\n● Nella porzione terminale, vicina alla giunzione gastroesofagea, l’epitelio diventa cilindrico\n   (batiprismatico) come quello gastrico → qui si sviluppano adenocarcinomi.\n● Questa distinzione è molto importante perché I carcinomi a cellule squamose e gli adenocarcinomi hanno\n   comportamenti biologici diversi. Differiscono per aggressività, risposta terapeutica e trattamento: ad\n   esempio, la radioterapia risulta più efficace sui carcinomi a cellule squamose rispetto agli\n   adenocarcinomi.\n   Dal punto di vista anatomo-patologico, il carcinoma è per il 90% squamo-cellulare e per l’8% è un\n   adenocarcinoma."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-a58b52c4538e",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        325
+      ],
+      "level": "errore",
+      "issue": "Carcinoma in situ confuso con invasione sottomucosa; percentuali e indicazioni chirurgiche semplificate.",
+      "check": "Il carcinoma in situ non invade la sottomucosa. L’invasione oltre la mucosa cambia l’inquadramento e non va chiamata in situ.",
+      "passages": [
+        {
+          "page": 46,
+          "printedPage": 325,
+          "quote": "Perchè l'endoscopista quando rimuove un polipo lo manda ad analizzare?\nQuesto polipo rappresenta la storia della degenerazione verso il carcinoma, quindi può vedere un\npolipo adenomatosa (un adenoma) e nel paziente sfortunato all'interno dello stesso c'è l'ulteriore\ntrasformazione in carcinoma quindi la degenerazione maligna. Quindi, sempre perchè l'endoscopia\nè uno degli esami più importanti se non il più importante quando si parla di neoplasia colorettali, se\nil polipo è un tipo di lesione asportabile completamente l'anatomopatologo vi deve dire ovviamente\nse all'interno c'è un adenoma che tipicamente avrà una displasia che\npuò essere lieve o moderata quindi di basso grado non ancora\ndiventata un carcinoma, una displasia invece che può essere grave o\nsevera quindi di alto grado ed è quella che in pratica precede\nimmediatamente la formazione del carcinoma. Quindi all'interno del\npolipo l'anatomopatologo deve andare a ricercare la zona e il punto\ndove la displasia è maggiore, più severa perchè lì potrebbe incontrare\ndelle isole di tessuto carcinomatoso che è quello che comanda poi il\ntrattamento. Se presente solo la displasia, la rimozione del polipo\nrappresenta la fine del mio trattamento, se invece c'è un carcinoma in\nsitu bisogna fare ulteriori indagini, poiché potrebbe avere un epitelio\nche si approfonda nella muscolaris mucosae e poi nella sottomucosa\nche è ricca di capillari linfatici e quindi la possibile diffusione di cellule neoplastiche, se arriva alla\nsottomucosa, aumenta grandemente e potrebbe quindi non essere sufficiente l'asportazione del\nsingolo polipo perchè le cellule neoplastiche si sarebbero già diffuse. Questa istologicamente: la\nforma del polipo, la presenza di cancerizzazione al suo interno."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-96df017e6051",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        330
+      ],
+      "level": "errore",
+      "issue": "Afferma che il Crohn non cancerizzi, che le fistole siano solo Crohn e generalizza resezioni/steroidi cronici: non usato.",
+      "check": "Anche il Crohn colico può aumentare il rischio di carcinoma colorettale. Le fistole non sono esclusive del Crohn; terapia e resezioni non seguono una regola assoluta unica.",
+      "passages": [
+        {
+          "page": 51,
+          "printedPage": 330,
+          "quote": "2. COLITE ULCEROSA\nLa localizzazione principale è a partenza retto sigma (40%), tutto il colon (10%) e poi essenzialmente\nha un andamento ascendente perchè dove nasce poi tende a salire, quindi indietro in continuità,\nsenza zone di normalità. Mentre nel Crohn si hanno ulcere che si approfondano a tutto spessore e\narrivano alla sierosa che possono bucare generando fistole, nella colite ulcerosa le ulcere si\narrestano alla mucosa. Saranno quindi ulcere larghe, delle zone erose della mucosa facilmente\nsanguinanti, ma senza approfondarsi e senza rischio di generare fistole o perforazioni salvo per una\ncomplicanza gravissima che è il cosiddetto megacolon tossico in cui questo colon diventa atonico,\nsi lascia distendere dai gas, spesso è preda di un'infezione da parte di batteri della parete\naddominale che così distesa può perforarsi in quanto estremamente fragile.\nUn'altra differenza importante è che la colite ulcerosa può cancerizzare mentre il Crohn no. Quindi\nun paziente con la classica colite ulcerosa che parte dal retto deve essere monitorato strettamente\ncon una rettoscopia periodica, probabilmente anche con la colonscopia, perchè questa zona di\nerosione è considerata una lesione precancerosa che può quindi cancerizzare. Anche in questo\ncaso si ha anemia, sangue che solitamente è occulto (difficilmente si ha un sanguinamento cospicuo\nda rettorragia), il paziente ha tenesmo, ha dolore poiché anche questo intestino si lascia distendere\ndai gas."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-fcc1285341e5",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        331
+      ],
+      "level": "errore",
+      "issue": "Colite ulcerosa senza ascessi criptici è erroneo. Testo sugli incapsulati li raggruppa come cocchi Gram positivi; non riprodotto.",
+      "check": "La colite ulcerosa può presentare ascessi criptici. I patogeni capsulati non sono tutti cocchi Gram-positivi: ad esempio Haemophilus influenzae è Gram-negativo.",
+      "passages": [
+        {
+          "page": 52,
+          "printedPage": 331,
+          "quote": "L'aspetto endoscopico assomiglia a un tappeto, ma è un'erosione di tutta la mucosa in continuità\n    quindi senza zone di interruzione, per fortuna senza ascessi criptici, senza ulcere che si\n    approfondano (immagine a sinistra). Anche in questo caso si hanno pseudopolipi infiammatori.\n    (immagine a destra)"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-62558ec8207e",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        337
+      ],
+      "level": "errore",
+      "issue": "Legamento gastrosplenico chiamato piccolo omento: non riprodotto.",
+      "check": "Il legamento gastrosplenico appartiene alle pieghe peritoneali collegate al grande omento; non coincide con il piccolo omento.",
+      "passages": [
+        {
+          "page": 58,
+          "printedPage": 337,
+          "quote": "●   Legamento spleno-colico: Collega il polo inferiore della milza al colon. È chiamato anche\n    sustentaculum lienis perché funge da sostegno. Deve essere abbassato per liberare il campo\n    operatorio.\n●   Legamento gastro-splenico (Piccolo Omento): Unisce lo stomaco alla milza. La sua sezione\n    permette l'accesso alla retrocavità degli epiploon. Al suo interno si trovano i vasi gastrici brevi,\n    che diventano molto grandi in caso di ipertensione portale e ci sono dei circoli collaterali in cui i vasi\n    fanno da shunt porto-cavale.\n●   Legamenti spleno-diaframmatico e spleno-renale: Collegano l'organo rispettivamente al\n    diaframma e al rene (situato in piano retroperitoneale, avvolto dal grasso)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-190eb80b4517",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        340
+      ],
+      "level": "verifica",
+      "issue": "Soglie portali, indicazione al trapianto da B7 e equivalenza Child B/C con stato sempre scompensato sono troppo assolute.",
+      "check": "Child-Pugh, scompenso clinico, MELD e indicazione al trapianto sono aspetti distinti. Un singolo punteggio B7 non stabilisce automaticamente necessità di trapianto.",
+      "passages": [
+        {
+          "page": 61,
+          "printedPage": 340,
+          "quote": "Un paziente normale ha un punteggio di: A5, tutti i\n    punteggi superiori sono indice di un certo grado di insufficienza epatica. Il trapianto di fegato è\n    indicato a partire da B7."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-0d35d9c7fe4a",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        342
+      ],
+      "level": "verifica",
+      "issue": "Eliminazione urinaria di bilirubina ed etichette pre/postepatico semplificate; non impiegate come regole universali.",
+      "check": "La bilirubina non coniugata è legata all’albumina e non è normalmente eliminata con le urine. La bilirubinuria riguarda la quota coniugata; distinguere da urobilinogeno.",
+      "passages": [
+        {
+          "page": 63,
+          "printedPage": 342,
+          "quote": "La bilirubina viene suddivisa in: diretta/ coniugata + indiretta: non coniugata\nViene proprio chiesta questa suddivisione al laboratorio poiché dall’esame obiettivo\nnon si può sapere. Ad esempio in un paziente con sclere e cute itteriche, bisogna\nsapere su 6/7 mg di bilirubina quanto è la componente diretta e quanto quella\nindiretta. Vi sono infatti situazioni in cui aumenta una piuttosto che l’altra.\nLa bilirubina viene coniugata, eliminata con la bile attraverso immissione a livello\nintestinale.\n     ● una componente viene eliminata con le urine (quella coniugata visto che è solubile)\n     ● 20 % passa il sistema portale e viene riescreta dal fegato\n     ● 80% viene idrolizzata ed escreta come non coniugata nelle feci"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-a3777d487ae9",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        350
+      ],
+      "level": "verifica",
+      "issue": "Perclorato di potassio inserito nella RM.",
+      "check": "Il perclorato di potassio appartiene a specifici contesti della medicina nucleare e del metabolismo iodico; non è un elemento ordinario di una risonanza magnetica epatica.",
+      "passages": [
+        {
+          "page": 71,
+          "printedPage": 350,
+          "quote": "Le principali indicazioni della RM includono:\n         ● caratterizzazione delle lesioni indeterminate viste a ecografia o TAC;\n         ● monitoraggio di epatopatie croniche;\n         ● controllo nel follow-up di una lesione già nota (dimensioni, margini, comportamento);\n         ● valutazione della risposta alla terapia e identificazione di eventuali recidive;\n         ● esecuzione dell’esame quando è presente una controindicazione al mezzo di contrasto iodato\n             della TAC;\n         ● uso preferenziale in pazienti pediatrici, allergici o con nefropatie, anche se il mezzo di contrasto\n             della RM (a base di gadolinio) non è totalmente esente da rischi.\n    La RM consente di visualizzare con grande dettaglio: parenchima epatico; vasi portali e vene\n    sovraepatiche; arteria epatica; dotti biliari; colecisti (sempre ben visibile); grasso negli spazi portali e nei\n    legamenti.\n    Viene fatta con il perclorato di potassio che antagonizza lo iodio che altrimenti potrebbe essere\n    utilizzato dalla tiroide per la neosintesi di ormoni)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-82d4117e74b9",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        359
+      ],
+      "level": "verifica",
+      "issue": "Double duct sign descritto come entrambi ristretti, senza distinguere dilatazione a monte: non usato.",
+      "check": "Il double-duct sign indica la dilatazione concomitante del dotto pancreatico e della via biliare, generalmente a monte di un’ostruzione; non la semplice descrizione di entrambi come ristretti.",
+      "passages": [
+        {
+          "page": 80,
+          "printedPage": 359,
+          "quote": "Una volta trattata la via biliare, la colecisti rimane comunque piena di calcoli: per evitare recidive, si\n    esegue una colecistectomia sequenziale, generalmente entro un mese, a completamento del\n    trattamento.\n    Quando durante esame endoscopico si incanula il coledoco, è possibile eseguire una colangiografia,\n    cioè l’iniezione di mezzo di contrasto all’interno della via biliare per visualizzarne il contenuto.\n●   Calcoli: appaiono come minus di riempimento, cioè aree rotondeggianti, ben definite e regolari che non\n    vengono riempite dal contrasto.\n●   Neoplasie: se invece l’immagine mostra un’area non tondeggiante, irregolare, non omogenea e\n    dall’aspetto      simile    a      tessuto,       bisogna      sospettare       una      lesione     tumorale.\n\n\n    ERCP con alcuni esempi in foto.\n    In una delle immagini descritte (foto 3), si vede una via biliare\n    principale normale, ma una colecisti piena di calcoli:\n    appaiono come numerosi minus di riempimento scuri,\n    tondeggianti e ben definiti, caratteristici delle litiasi.\n    All’opposto, quando le immagini mostrano difetti irregolari,\n    non tondeggianti e disomogenei, si sospetta una neoplasia.\n\n    Una delle applicazioni fondamentali dell’ERCP è nel\n    colangio-carcinoma(foto centrale) o nelle neoplasie delle\n    vie biliari principali che causano ittero ostruttivo.\n    Durante l’ERCP, l’endoscopista può:\n●   introdurre una pinza bioptica per raccogliere un frammento di tessuto;\n●   oppure usare un brushing, cioè uno spazzolino che gratta la mucosa del\n    coledoco            per        ottenere           materiale  citologico.\n\n    Dopo la diagnosi (o anche prima, se necessario per l’ittero), viene\n    posizionato uno stent o endoprotesi biliare: un tubicino che\n    attraversa la stenosi e permette alla bile di defluire nell’intestino.\n    Questo stent può avere due ruoli:\n    1. Trattamento ponte= Quando la neoplasia potrà essere potenzialmente\n    resecata chirurgicamente.\n    2. Trattamento definitivo= Quando il tumore è inoperabile (per\n    infiltrazione o metastasi), lo stent rimane l’unico modo per controllare\n    l’ittero.\n    Nella terza foto la via biliare è normale ma la colecisti è piena di calcoli (si vedono in foto tutti i\n    calcoli in scuro, i famosi minus di riempimento ben definiti e tondeggianti).\n\n    Nella “foto 3” è mostrato un colangioscopio che fuoriesce dal canale dell’endoscopio. Permette una\n    visualizzazione diretta dell’interno del coledoco.Oggi, però, è una tecnica molto meno usata perché\n    sostituita da metodi più efficaci e meno complessi.Nella 2A un esempio del tubicino che prima viene\n    citato, inserito dopo ad esempio una biopsia o dopo un brushing con cui si gratta il coledoco, per un\n    esame citologico.\n\n\n  In una delle immagini descritte si vede il segno del doppio dotto (double duct sign): coledoco e dotto\n  di Wirsung risultano entrambi ristretti. Tipico di:\n● tumore della papilla, foto in basso a destr\n● tumore della testa pancreatica.\n  A destra un’immagine di una endoprotesi.\n\n    QUANDO L’ERCP NON È POSSIBILE: NEOPLASIE ILARI\n    Il problema quando ci troviamo di fronte ad una ostruzione distale, del coledoco, si può usare una\n\n\n\n\n                                                                                                               359"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-60b12aa10ecd",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        361
+      ],
+      "level": "verifica",
+      "issue": "PTC/PTBD attribuite all’endoscopista; procedura assegnata ai radiologi nella pagina precedente. Nessuna domanda su operatore obbligatorio.",
+      "check": "PTC e PTBD sono accessi percutanei tipicamente di radiologia interventistica; vanno distinti dalle procedure endoscopiche come ERCP.",
+      "passages": [
+        {
+          "page": 82,
+          "printedPage": 361,
+          "quote": "L’endoscopista cosa fa? Fa delle procedure PTC-PTBD."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-457870560c4e",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        362
+      ],
+      "level": "verifica",
+      "issue": "Amilasi/lipasi proporzionali alla gravità e dosaggio fecale per funzione pancreatica cronica. Domanda limitata al dosaggio ematico nella sospetta pancreatite acuta.",
+      "check": "L’entità di amilasi e lipasi non misura da sola la gravità della pancreatite. Per insufficienza pancreatica esocrina si usa, tra gli esami, l’elastasi fecale.",
+      "passages": [
+        {
+          "page": 83,
+          "printedPage": 362,
+          "quote": "pari passo con la gravità dell’episodio.\nNelle pancreatiti croniche, per diagnostica una\ninsufficienza cronica esocrina, si possono dosare\ndirettamente amilasi e lipasi a livello delle feci, per\nvalutare funzionalmente il pancreas."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-73c2174a7057",
+      "book": "cm2p1",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part1",
+      "printedPages": [
+        409
+      ],
+      "level": "errore",
+      "issue": "Prolattina indicata come stimolata dalla somatostatina.",
+      "check": "La prolattina è soprattutto sotto inibizione tonica dopaminergica. La somatostatina inibisce soprattutto GH e TSH: non è il suo fisiologico ormone stimolante.",
+      "passages": [
+        {
+          "page": 130,
+          "printedPage": 409,
+          "quote": "- ACTH = stimolato dal CRH\n- TSH = stimolato dal TRH\n- PRL = stimolata dalla somatostatina"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-64114162cf4d",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        456
+      ],
+      "level": "verifica",
+      "issue": "Albumina di 9 g/dL indicata come ipoalbuminemia marcata.",
+      "check": "9 g/dL non corrisponde a ipoalbuminemia: ricontrollare refuso e unità; potrebbe trattarsi di g/L, ma non va corretto senza verificare il caso originale.",
+      "passages": [
+        {
+          "page": 7,
+          "printedPage": 456,
+          "quote": "● proteinuria >10 g/L (soglia diagnostica >3,5 g/L)\n● ipoalbuminemia marcata (9 g/dl)\n● ipercolesterolemia (colesterolo 308 mg/dl)"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-fa844ee7f3b2",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        456
+      ],
+      "level": "verifica",
+      "issue": "La soglia nefrosica è scritta come 3,5 g/L invece di una perdita rapportata al tempo.",
+      "check": "La soglia classica adulta è una proteinuria oltre 3,5 g nelle 24 ore, o un rapporto urinario validato. Una concentrazione in g/L non è intercambiabile con g/24 ore.",
+      "passages": [
+        {
+          "page": 7,
+          "printedPage": 456,
+          "quote": "● proteinuria >10 g/L (soglia diagnostica >3,5 g/L)\n● ipoalbuminemia marcata (9 g/dl)\n● ipercolesterolemia (colesterolo 308 mg/dl)"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-c17dfdde3587",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        459
+      ],
+      "level": "errore",
+      "issue": "Papula, pomfo e vescicola vengono sovrapposti, attribuendo contenuto liquido alla papula.",
+      "check": "La papula è una piccola lesione solida rilevata; la vescicola contiene liquido; il pomfo è un rilievo edematoso transitorio.",
+      "passages": [
+        {
+          "page": 10,
+          "printedPage": 459,
+          "quote": "Poi è essenziale determinare il tipo di lesione: macula ovvero una macchia, papula ovvero un ponfo\no vescicola, a contenuto liquido. Al di sopra o accanto ci possono essere lesioni da grattamento che\npossono confondere il quadro; sono lesioni aggiuntive che non hanno niente a che vedere con la\ncausa primaria, ad esempio la varicella, che causa la comparsa di papule pruriginose."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-64515b558f66",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        522
+      ],
+      "level": "verifica",
+      "issue": "Radiografie e immagini endoscopiche definite non ufficiali e conservabili per 20 anni come regola generale.",
+      "check": "Controllare norme e regolamenti applicabili: documentazione clinica, immagini e referti hanno obblighi distinti e il termine non è universalmente di 20 anni. Le immagini possono avere valore documentale e medico-legale.",
+      "passages": [
+        {
+          "page": 73,
+          "printedPage": 522,
+          "quote": "●   Le cartelle elettroniche devono essere integre, autentiche, accessibili nel tempo, e conservate\n      in modo sicuro anche dopo eventuali modifiche. Deve garantire la disponibilità a lungo termine.\n  ●   Le cartelle fisiche non vengono distrutte, ma digitalizzate e conservate in formato elettronico.\n  ●   I primi 40 anni di archivio sono “correnti”, quindi facilmente accessibili; dopo, possono essere\n      spostate in sezioni d’archivio separate.\n  ●   Radiografie e immagini endoscopiche non sono atti ufficiali e si conservano per 20 anni.\n  ●   In caso di chiusura della struttura, il materiale sanitario viene depositato presso il Comune per\n      garantirne la reperibilità."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-a9dce584a8ba",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        523
+      ],
+      "level": "verifica",
+      "issue": "Il cambiamento del quadro clinico è descritto come perdita automatica di valore del dissenso, con esempio sulle trasfusioni.",
+      "check": "Non è una regola automatica. Occorre valutare validità e pertinenza della volontà, capacità, eventuali disposizioni anticipate e urgenza secondo la normativa: controllare con il docente la legge 219/2017.",
+      "passages": [
+        {
+          "page": 74,
+          "printedPage": 523,
+          "quote": "●   libero: senza costrizioni; non deve essere sottoposto a obblighi\n   ●   competente: la persona deve avere capacità di intendere e volere (sopra i 16 anni può già essere\n       raccolto in certi casi; se interdetto decide il tutore);\n   ●   informato: non basta la firma su un modulo precompilato — l’informazione deve essere chiara e\n       comprensibile; la mancanza di adeguata informazione rende il consenso nullo, invalido e privo di\n       valore legale; sono allegate le informazioni relative ai rischi e ai benefici dell’atto medico.\n   ●   personale: ciascuno firma il proprio consenso;\n   ●   attuale: il consenso deve essere raccolto al momento dell’atto (salvo eccezioni quando non vi\n       sono cambiamenti clinici intervenuti); se successivamente la situazione cambia un eventuale\n       dissenso non ha più valore. Quando il pz viene ricoverato ed è in grado di intendere e di volere\n       deve esprimere un consenso o dissenso quindi riformare.\n   ●   manifesto: documentato per iscritto e sottoscritto dal pz\n   ●   specifico: diretto a quel preciso atto."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-89c252142128",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        523
+      ],
+      "level": "verifica",
+      "issue": "Il consenso è presentato come necessariamente scritto e sottoscritto.",
+      "check": "La documentazione del consenso può avere forme diverse; per determinati atti la legge richiede forme specifiche. Controllare la legge 219/2017 e la disciplina della singola procedura.",
+      "passages": [
+        {
+          "page": 74,
+          "printedPage": 523,
+          "quote": "●   libero: senza costrizioni; non deve essere sottoposto a obblighi\n   ●   competente: la persona deve avere capacità di intendere e volere (sopra i 16 anni può già essere\n       raccolto in certi casi; se interdetto decide il tutore);\n   ●   informato: non basta la firma su un modulo precompilato — l’informazione deve essere chiara e\n       comprensibile; la mancanza di adeguata informazione rende il consenso nullo, invalido e privo di\n       valore legale; sono allegate le informazioni relative ai rischi e ai benefici dell’atto medico.\n   ●   personale: ciascuno firma il proprio consenso;\n   ●   attuale: il consenso deve essere raccolto al momento dell’atto (salvo eccezioni quando non vi\n       sono cambiamenti clinici intervenuti); se successivamente la situazione cambia un eventuale\n       dissenso non ha più valore. Quando il pz viene ricoverato ed è in grado di intendere e di volere\n       deve esprimere un consenso o dissenso quindi riformare.\n   ●   manifesto: documentato per iscritto e sottoscritto dal pz\n   ●   specifico: diretto a quel preciso atto."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-3395197f00e0",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        523
+      ],
+      "level": "verifica",
+      "issue": "L’età di 16 anni è richiamata come riferimento generale per il consenso sanitario.",
+      "check": "Non esiste una regola generale italiana che renda sempre autonomo il consenso sanitario a 16 anni. Distinguere regola sui minori, coinvolgimento secondo maturità ed eccezioni specifiche; verificare la legge 219/2017, art. 3.",
+      "passages": [
+        {
+          "page": 74,
+          "printedPage": 523,
+          "quote": "●   libero: senza costrizioni; non deve essere sottoposto a obblighi\n   ●   competente: la persona deve avere capacità di intendere e volere (sopra i 16 anni può già essere\n       raccolto in certi casi; se interdetto decide il tutore);\n   ●   informato: non basta la firma su un modulo precompilato — l’informazione deve essere chiara e\n       comprensibile; la mancanza di adeguata informazione rende il consenso nullo, invalido e privo di\n       valore legale; sono allegate le informazioni relative ai rischi e ai benefici dell’atto medico.\n   ●   personale: ciascuno firma il proprio consenso;\n   ●   attuale: il consenso deve essere raccolto al momento dell’atto (salvo eccezioni quando non vi\n       sono cambiamenti clinici intervenuti); se successivamente la situazione cambia un eventuale\n       dissenso non ha più valore. Quando il pz viene ricoverato ed è in grado di intendere e di volere\n       deve esprimere un consenso o dissenso quindi riformare.\n   ●   manifesto: documentato per iscritto e sottoscritto dal pz\n   ●   specifico: diretto a quel preciso atto."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-c2c18f7331bd",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        533
+      ],
+      "level": "verifica",
+      "issue": "Il testo afferma che fino a 50.000 piastrine non accade nulla.",
+      "check": "Il rischio emorragico dipende da causa, funzionalità piastrinica, farmaci, traumi e procedure; una soglia isolata non garantisce assenza di rischio.",
+      "passages": [
+        {
+          "page": 84,
+          "printedPage": 533,
+          "quote": "- Fino a valori di 50.000 non accade nulla e i pazienti possono condurre una vita normale\n - Tra 20.000 e 50.000 si verificano sanguinamenti minori\n - Sotto le 20.000 inizia ad essere una piastrinopenia severa e il rischio di sanguinamento è\n   maggiore\n - Sotto le 5.000 -10.000 si ritiene potenzialmente pericolosa per la vita."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-76d0056bc465",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        543
+      ],
+      "level": "verifica",
+      "issue": "Gli schistociti sono presentati come reperto caratteristico della piastrinopenia indotta da vaccino.",
+      "check": "Gli schistociti indicano frammentazione eritrocitaria e orientano verso una microangiopatia nel contesto appropriato; non definiscono da soli la trombocitopenia trombotica da vaccino.",
+      "passages": [
+        {
+          "page": 94,
+          "printedPage": 543,
+          "quote": "Si esegue uno striscio di sangue per confermare ulteriormente la piastrinopenia (senza la variabile\ndell’anticoagulante in provetta) e per osservare la scarsità di piastrine. In questo caso si osserva anche\nla mancanza di schistociti, presenti nella piastrinopenia indotta da vaccino. In questo caso non vi era\ninoltre nessun segno che facesse ipotizzare una trombocitopenia che si manifesta con ??? o con\ninsufficienza renale. Gli schistociti sono globuli rossi frammentati a causa dei micro-trombi di fibrina."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-d07962ee79e2",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        544
+      ],
+      "level": "verifica",
+      "issue": "La normalità del fibrinogeno viene usata come esclusione automatica della coagulazione intravascolare disseminata.",
+      "check": "Un fibrinogeno normale non esclude sempre la CID, soprattutto nelle fasi iniziali o con risposta di fase acuta. Serve il quadro clinico e laboratoristico complessivo.",
+      "passages": [
+        {
+          "page": 95,
+          "printedPage": 544,
+          "quote": "● TTP (mancano gli schistociti, si tratta infatti della trombocitopenia discussa precedentemente)\n ● CID (la presenza di fibrinogeno normale porta all’esclusione della coagulazione intravasale\n   disseminata)."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-e1150bafa3e2",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        584
+      ],
+      "level": "errore",
+      "issue": "La leucemia è definita mediante una soglia di globuli bianchi sopra 50.000/mm³.",
+      "check": "La leucemia non si diagnostica con una soglia unica di leucociti: può presentarsi con leucocitosi, conta normale o leucopenia. Servono morfologia, immunofenotipo e studi appropriati.",
+      "passages": [
+        {
+          "page": 135,
+          "printedPage": 584,
+          "quote": "● Agranulocitosi: <300-400/mm³,\n  con particolare riduzione dei\n  neutrofili (80% dei leucociti\n  circolanti)\n● Leucopenia: <5000/mm³\n● Leucocitosi:             >8000/mm³;\n  significativa     tra    15.000  e\n  40.000/mm³\n● Leucemia: >50.000/mm³, spesso\n  con elementi immaturi neoplastici\n● Leucemoidi: forme reattive fino a\n  60.000/mm³, ad esempio in\n  pazienti settici anziani"
+        }
+      ]
+    },
+    {
+      "id": "source-issue-1edb13de561f",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        594
+      ],
+      "level": "errore",
+      "issue": "Noduli di Gottron indicati come reperto del lupus.",
+      "check": "Papule e segno di Gottron sono caratteristici della dermatomiosite; la stessa dispensa li descrive correttamente nel capitolo delle miositi a pagina stampata 601.",
+      "passages": [
+        {
+          "page": 145,
+          "printedPage": 594,
+          "quote": "● AR: deviazione ulnare, sublussazione MCF, flessione fissa “dita a bottone”, estensione fissa\n    “collo di cigno”, tumefazioni, noduli di Gottron (LES).\n  ● Osteoartrosi: nodi di Heberden e Bouchard.\n  ● Fenomeno di Raynaud: spasmi arteriosi periferici."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-ece12269a383",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        602
+      ],
+      "level": "verifica",
+      "issue": "Il test di Schirmer usa 10 mm in 5 minuti senza distinguere finalità e criteri.",
+      "check": "Per i criteri classificativi ACR/EULAR 2016 della malattia di Sjögren il riferimento è ≤5 mm in 5 minuti. Soglie diverse possono essere usate per valutazioni più generali della secchezza oculare.",
+      "passages": [
+        {
+          "page": 153,
+          "printedPage": 602,
+          "quote": "Test lacrimali: Test di Schirmer: si posiziona una striscia di carta da filtro nella palpebra inferiore; un\ninumidimento <10 mm in 5 minuti indica ridotta produzione lacrimale."
+        }
+      ]
+    },
+    {
+      "id": "source-issue-8e166e5d6cc4",
+      "book": "cm2p2",
+      "document": "CARLO MAGNO 2",
+      "documentId": "carlo-2-part2",
+      "printedPages": [
+        603
+      ],
+      "level": "errore",
+      "issue": "La poliarterite nodosa viene associata a glomerulonefrite come manifestazione renale caratteristica.",
+      "check": "La PAN interessa arterie di medio calibro e può causare ischemia renale e ipertensione; la glomerulonefrite non è la sua manifestazione tipica e orienta verso altre vasculiti.",
+      "passages": [
+        {
+          "page": 154,
+          "printedPage": 603,
+          "quote": "● Vasculiti dei Vasi di Medio Calibro\nQuesta sezione centrale descrive patologie che colpiscono le arterie di media grandezza che irrorano\n  gli organi.\n- Poliarterite Nodosa\n     ★ Sintomi renali: Glomerulonefrite (infiammazione dei reni).\n     ★ Sintomi cardiaci: Coronarite.\n     ★ Sintomi gastrointestinali: Dolore addominale ed emorragia.\n     ★ Sintomi neurologici: Neuropatia (es. piede cadente).\n     ★ Sintomi cutanei: Vasculite digitale, gangrena, rash (in particolare livedo reticularis).\n- Malattia di Kawasaki\nÈ una vasculite pediatrica.\n     ★ Sintomi oculari: Congiuntivite.\n     ★ Sintomi orali/facciali: Bocca secca, dolente, labbra screpolate (\"lingua a fragola\" non citata\n        esplicitamente ma tipica), linfonodi cervicali megalici e dolenti.\n     ★ Sintomi cardiaci: Coronarite (rischio di aneurismi coronarici).\n     ★ Sintomi cutanei: Rash polimorfico diffuso; palmi delle mani e piante dei piedi rossi e gonfi."
+        }
+      ]
+    }
+  ],
+  "count": 72,
+  "quizCorrections": [
+    {
+      "cardId": "complete-b94d58ef0517",
+      "document": "CARLO MAGNO 1",
+      "printedPage": 28,
+      "issue": "L'alias costocondrite viene valutato come identico alla sindrome di Tietze, mentre la sindrome di Tietze è caratterizzata dalla tumefazione locale e non coincide con la comune costocondrite.",
+      "status": "Corretto nel quiz; ID e progressi conservati."
+    },
+    {
+      "cardId": "complete-4363a5a38430",
+      "document": "CARLO MAGNO 2",
+      "printedPage": 596,
+      "issue": "L'alias condrocalcinosi viene valutato come identico all'artrite acuta da CPPD/pseudogotta. La condrocalcinosi può essere soltanto un reperto radiologico asintomatico.",
+      "status": "Corretto nel quiz; ID e progressi conservati."
+    },
+    {
+      "cardId": "complete-b027129a9ca9",
+      "document": "CARLO MAGNO 1",
+      "printedPage": 72,
+      "issue": "Per la domanda sull'ipertermia e il set-point, l'alias non necessariamente attenua impropriamente la distinzione fondamentale rispetto alla febbre.",
+      "status": "Corretto nel quiz; ID e progressi conservati."
+    },
+    {
+      "cardId": "complete-cm1early-1ea213f4830b",
+      "document": "CARLO MAGNO 1",
+      "printedPage": 65,
+      "issue": "La riduzione della mimica si definisce ipomimia; amimia indica assenza. La fonte usa Amimia in modo impreciso.",
+      "status": "Corretto nel quiz; ID e progressi conservati."
+    }
+  ]
+}

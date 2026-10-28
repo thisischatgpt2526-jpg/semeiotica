@@ -1,7 +1,7 @@
 {
   "document": "CARLO MAGNO 2",
   "pageCount": 325,
-  "questionCount": 552,
+  "questionCount": 844,
   "chapters": [
     {
       "id": "topografia",
@@ -24,9 +24,15 @@
         "cm2p1-completa-le-tre-regioni-della-fila-superiore-delladdom-21a222",
         "cm2p1-completa-le-tre-regioni-della-fila-inferiore-9b495a",
         "cm2p1-scrivi-i-quattro-quadranti-della-suddivisione-chirurgi-9a21b1",
-        "complete-dda08bd36c1c"
+        "complete-dda08bd36c1c",
+        "complete-cm2firstgi-ee1e58a7741e",
+        "complete-cm2firstgi-be5db835380d",
+        "complete-cm2firstgi-e20f63f24207",
+        "complete-cm2firstgi-281eef4347bd",
+        "complete-cm2firstgi-5e071e4bfe65",
+        "complete-cm2firstgi-003c5d14daf3"
       ],
-      "count": 14
+      "count": 20
     },
     {
       "id": "eo-addome",
@@ -60,9 +66,18 @@
         "complete-9a3291706f3d",
         "complete-b192886f868a",
         "complete-22a43a21bb8a",
-        "complete-f4e9f3d8ccac"
+        "complete-f4e9f3d8ccac",
+        "complete-cm2firstgi-8405dad754ab",
+        "complete-cm2firstgi-0b21ce9fdef0",
+        "complete-cm2firstgi-738a66d3c073",
+        "complete-cm2firstgi-db77a9ee1cd0",
+        "complete-cm2firstgi-78545b983f34",
+        "complete-cm2firstgi-4e3a136f8fb9",
+        "complete-cm2firstgi-fa55013ea19e",
+        "complete-cm2firstgi-c7690d714f82",
+        "complete-cm2firstgi-65f7eb912f18"
       ],
-      "count": 25
+      "count": 34
     },
     {
       "id": "addome-acuto",
@@ -82,9 +97,14 @@
         "cm2p1-dolore-in-fossa-iliaca-destra-difesa-addominale-e-leuc-cc1404",
         "complete-2cf45df884d8",
         "complete-8487a0c2ec0a",
-        "complete-c3d83291a2ea"
+        "complete-c3d83291a2ea",
+        "complete-cm2firstgi-6f74df72d7be",
+        "complete-cm2firstgi-6f16de918bd8",
+        "complete-cm2firstgi-7c17120e304b",
+        "complete-cm2firstgi-ee3a7a21923e",
+        "complete-cm2firstgi-ce26cdf046c4"
       ],
-      "count": 11
+      "count": 16
     },
     {
       "id": "esofago",
@@ -116,9 +136,37 @@
         "complete-f38c0264309c",
         "complete-b797659994d2",
         "complete-86de54926e94",
-        "complete-a5f9fdbe98a4"
+        "complete-a5f9fdbe98a4",
+        "complete-cm2firstgi-dc8e698c2c5f",
+        "complete-cm2firstgi-7e12e1939488",
+        "complete-cm2firstgi-659519e2aff5",
+        "complete-cm2firstgi-d051887ba7f6",
+        "complete-cm2firstgi-71067530a709",
+        "complete-cm2firstgi-7c5a95931dac",
+        "complete-cm2firstgi-f549c9999897",
+        "complete-cm2firstgi-767c31fde159",
+        "complete-cm2firstgi-10ad8dbd5afd",
+        "complete-cm2firstgi-cc55cd30cbda",
+        "complete-cm2firstgi-ee656dd1c355",
+        "complete-cm2firstgi-c1b48fed2dfd",
+        "complete-cm2firstgi-f3a68d6a4f61",
+        "complete-cm2firstgi-caa75b48d787",
+        "complete-cm2firstgi-29ce5c4522c2",
+        "complete-cm2firstgi-318209eef119",
+        "complete-cm2firstgi-67f090ed738a",
+        "complete-cm2firstgi-1c6ab89be240",
+        "complete-cm2firstgi-0abc91de1ee8",
+        "complete-cm2firstgi-0f7d2c9250f8",
+        "complete-cm2firstgi-f1d16442245d",
+        "complete-cm2firstgi-f603e21426e8",
+        "complete-cm2firstgi-a392b43ed037",
+        "complete-cm2firstgi-70fc59b87c8d",
+        "complete-cm2firstgi-f3412bb2cf9b",
+        "complete-cm2firstgi-7403d387cd9d",
+        "complete-cm2firstgi-058f8dee5196",
+        "complete-cm2firstgi-d838840c6de2"
       ],
-      "count": 23
+      "count": 51
     },
     {
       "id": "colon-mici",
@@ -139,9 +187,17 @@
         "cm2p1-completa-le-differenze-di-distribuzione-delle-mici-a5b3a3",
         "cm2p1-scrivi-tre-complicanze-caratteristiche-del-crohn-40add5",
         "cm2p1-diarrea-e-fistole-perianali-persistenti-limaging-mostr-836987",
-        "complete-f1b4ec3b6077"
+        "complete-f1b4ec3b6077",
+        "complete-cm2firstgi-884217184ac8",
+        "complete-cm2firstgi-266638315334",
+        "complete-cm2firstgi-2a29085c9034",
+        "complete-cm2firstgi-5d3642816c0c",
+        "complete-cm2firstgi-aefdf6d78fe6",
+        "complete-cm2firstgi-efc1f0dbd396",
+        "complete-cm2firstgi-99d0e4c92d74",
+        "complete-cm2firstgi-5f5147926f6d"
       ],
-      "count": 12
+      "count": 20
     },
     {
       "id": "milza",
@@ -159,9 +215,13 @@
         "cm2p1-ematoma-con-capsula-splenica-integra-il-sangue-e-gia-l-e7e324",
         "cm2p1-quale-sacchetto-raccoglie-la-milza-durante-la-splenect-86126e",
         "cm2p1-completa-i-tre-batteri-incapsulati-richiamati-nel-cont-ea971d",
-        "cm2p1-dopo-un-trauma-addominale-la-tc-documenta-una-raccolta-cdb694"
+        "cm2p1-dopo-un-trauma-addominale-la-tc-documenta-una-raccolta-cdb694",
+        "complete-cm2firstgi-81d65c5f18e9",
+        "complete-cm2firstgi-81226554d16b",
+        "complete-cm2firstgi-2d3946132fc1",
+        "complete-cm2firstgi-bb071319fe19"
       ],
-      "count": 9
+      "count": 13
     },
     {
       "id": "fegato",
@@ -190,9 +250,21 @@
         "complete-44e1c4ceb259",
         "complete-7059e623807b",
         "complete-8161a56524bf",
-        "complete-5510450e4717"
+        "complete-5510450e4717",
+        "complete-cm2firstgi-1bfb6e660a48",
+        "complete-cm2firstgi-15bdcd3a4106",
+        "complete-cm2firstgi-aec1427d85e6",
+        "complete-cm2firstgi-fa3a287853d1",
+        "complete-cm2firstgi-08e193a474bd",
+        "complete-cm2firstgi-9d8520c7c835",
+        "complete-cm2firstgi-9d32adc7e000",
+        "complete-cm2firstgi-775ecb17c988",
+        "complete-cm2firstgi-95a6635be31d",
+        "complete-cm2firstgi-8f67d19f6a8e",
+        "complete-cm2firstgi-f2436d1edbf5",
+        "complete-cm2firstgi-317440169d31"
       ],
-      "count": 20
+      "count": 32
     },
     {
       "id": "biliare-pancreas",
@@ -218,9 +290,22 @@
         "cm2p1-dolore-in-ipocondrio-destro-e-reperto-ecografico-indic-dd9701",
         "cm2p1-allecografia-compare-materiale-biliare-denso-e-declive-bb469f",
         "complete-32698fcc1eb5",
-        "complete-579bed02e0bd"
+        "complete-579bed02e0bd",
+        "complete-cm2firstgi-148113808942",
+        "complete-cm2firstgi-2927be924d7e",
+        "complete-cm2firstgi-350b452300bd",
+        "complete-cm2firstgi-f65f97f9da5e",
+        "complete-cm2firstgi-f269e3b40b9d",
+        "complete-cm2firstgi-5a82fc6d5c65",
+        "complete-cm2firstgi-8b3a4561979c",
+        "complete-cm2firstgi-d9bc40bda127",
+        "complete-cm2firstgi-d5fbd6ccec82",
+        "complete-cm2firstgi-317c83a19977",
+        "complete-cm2firstgi-34baba8e4ae6",
+        "complete-cm2firstgi-d850d09a0047",
+        "complete-cm2firstgi-66a2a77b9407"
       ],
-      "count": 17
+      "count": 30
     },
     {
       "id": "diabete",
@@ -250,9 +335,28 @@
         "complete-c1c1e79f7142",
         "complete-c53cbefbcb7e",
         "complete-92f763710024",
-        "complete-a05fd79dddef"
+        "complete-a05fd79dddef",
+        "complete-cm2first-07c109ba2cf4",
+        "complete-cm2first-f9a748028c1c",
+        "complete-cm2first-7fc82f423021",
+        "complete-cm2first-260c11047eb4",
+        "complete-cm2first-b9cc3df09e13",
+        "complete-cm2first-d671266860c2",
+        "complete-cm2first-5690806da304",
+        "complete-cm2first-75408785816e",
+        "complete-cm2first-e1e4a8f75064",
+        "complete-cm2first-346f9b862fd0",
+        "complete-cm2first-04ac63d514d4",
+        "complete-cm2first-3f4ee6b825e4",
+        "complete-cm2first-e75c1d6f490b",
+        "complete-cm2first-9dde8ea4eaeb",
+        "complete-cm2first-730dc281e4a5",
+        "complete-cm2first-4e1a30b1f18d",
+        "complete-cm2first-eefb9e23856a",
+        "complete-cm2first-989223f2ccdf",
+        "complete-cm2first-0884392d446e"
       ],
-      "count": 21
+      "count": 40
     },
     {
       "id": "emorragie-alvo",
@@ -274,9 +378,19 @@
         "complete-1fe499593f50",
         "complete-5a2ac863dc45",
         "complete-03199eeca6a0",
-        "complete-3ec3ce491714"
+        "complete-3ec3ce491714",
+        "complete-cm2first-64ede8c545a0",
+        "complete-cm2first-f03aef24ab4a",
+        "complete-cm2first-70e1b4ea6d7d",
+        "complete-cm2first-a3ef797c6fa5",
+        "complete-cm2first-a1f201766283",
+        "complete-cm2first-117b88fbac46",
+        "complete-cm2first-7fb8398eff72",
+        "complete-cm2first-463b02ad8e2f",
+        "complete-cm2first-fa085ab591d3",
+        "complete-cm2first-3b6ff9dc1939"
       ],
-      "count": 13
+      "count": 23
     },
     {
       "id": "neuro-forza",
@@ -301,9 +415,19 @@
         "complete-2a0a716febe6",
         "complete-c29b38493fdb",
         "complete-4f77e7c1f959",
-        "complete-335c9a3d924c"
+        "complete-335c9a3d924c",
+        "complete-cm2first-2670b581aeb0",
+        "complete-cm2first-f0d7c37f212f",
+        "complete-cm2first-e49117e63a23",
+        "complete-cm2first-9d2bda332b71",
+        "complete-cm2first-d78b4920f640",
+        "complete-cm2first-71703ee3e289",
+        "complete-cm2first-6c3fc431f812",
+        "complete-cm2first-3d3951e7020d",
+        "complete-cm2first-8edabd8845d2",
+        "complete-cm2first-cf877e390e0e"
       ],
-      "count": 16
+      "count": 26
     },
     {
       "id": "neuro-coscienza",
@@ -334,9 +458,23 @@
         "complete-236acfe08d47",
         "complete-9441237271d0",
         "complete-d277675a0953",
-        "complete-8d0f9e234141"
+        "complete-8d0f9e234141",
+        "complete-cm2first-d0009d9264b9",
+        "complete-cm2first-04f7debe5c50",
+        "complete-cm2first-762e266d2c4a",
+        "complete-cm2first-3c9a08066105",
+        "complete-cm2first-92ba5ba4c2e5",
+        "complete-cm2first-f652c3a8e6fc",
+        "complete-cm2first-f282ae9b983f",
+        "complete-cm2first-b8a99bdb918c",
+        "complete-cm2first-554eede427a9",
+        "complete-cm2first-5ee5a580cc52",
+        "complete-cm2first-80ee6cb7e888",
+        "complete-cm2first-7042160266b7",
+        "complete-cm2first-c5548eb1db10",
+        "complete-cm2first-e01dac7f38d4"
       ],
-      "count": 22
+      "count": 36
     },
     {
       "id": "endocrino",
@@ -384,9 +522,28 @@
         "complete-e9666cd45773",
         "complete-24efd0a24e19",
         "complete-93ee125f8c2f",
-        "complete-0d5b2b15f9ba"
+        "complete-0d5b2b15f9ba",
+        "complete-cm2first-579ed1cbadce",
+        "complete-cm2first-f9da5b4bbd84",
+        "complete-cm2first-ad92a608e12c",
+        "complete-cm2first-04cb43e01076",
+        "complete-cm2first-1655b7f0d356",
+        "complete-cm2first-88b2489e58b6",
+        "complete-cm2first-0872cd1c4d17",
+        "complete-cm2first-e85c6d6138f9",
+        "complete-cm2first-68208a847460",
+        "complete-cm2first-ea113a1f1473",
+        "complete-cm2first-45770dc9c8a8",
+        "complete-cm2first-558d2a086dc7",
+        "complete-cm2first-a37f991dd0a1",
+        "complete-cm2first-3ce1792c46b7",
+        "complete-cm2first-c2e5d7f63c35",
+        "complete-cm2first-c41d851dece7",
+        "complete-cm2first-37e54991d8a3",
+        "complete-cm2first-1e63f4f88368",
+        "complete-cm2first-c8093c10fa27"
       ],
-      "count": 39
+      "count": 58
     },
     {
       "id": "genitourinario",
@@ -405,9 +562,13 @@
         "cm2p1-urine-rossastre-significano-sempre-ematuria-9a4881",
         "cm2p1-impossibilita-improvvisa-di-urinare-dolore-sovrapubico-88fb33",
         "complete-676b2a077f3b",
-        "complete-3575bddf676b"
+        "complete-3575bddf676b",
+        "complete-cm2first-97c0ecc9e5e9",
+        "complete-cm2first-3d8fb12fced0",
+        "complete-cm2first-88fedf3db94b",
+        "complete-cm2first-4ac13089074c"
       ],
-      "count": 10
+      "count": 14
     },
     {
       "id": "nefropatie",
@@ -441,9 +602,26 @@
         "complete-d2be6a138216",
         "complete-68510855a0b2",
         "complete-865bc2dfc9c5",
-        "complete-605f40465c83"
+        "complete-605f40465c83",
+        "complete-cm2first-9b7e3add6f95",
+        "complete-cm2first-7d240490d529",
+        "complete-cm2first-cce608661674",
+        "complete-cm2first-5d613c8dfadb",
+        "complete-cm2first-258d9f1bc493",
+        "complete-cm2first-e1487045389e",
+        "complete-cm2first-93ac97530af5",
+        "complete-cm2first-588cfcfd7d47",
+        "complete-cm2first-b4cf49de76e8",
+        "complete-cm2first-fd1545c78c2f",
+        "complete-cm2first-409c54c7d36a",
+        "complete-cm2first-a1f704f99ee0",
+        "complete-cm2first-05e3e07953b3",
+        "complete-cm2first-3e79626a7959",
+        "complete-cm2first-4b4f359cefd8",
+        "complete-cm2first-1a8174ffa012",
+        "complete-cm2first-098c51271b08"
       ],
-      "count": 25
+      "count": 42
     },
     {
       "id": "p2-rene",
@@ -465,9 +643,13 @@
         "cm2p2-donna-anziana-con-diarrea-e-vomito-protratti-scarso-in-6ffe5b",
         "cm2p2-proteinuria-importante-ipoalbuminemia-marcata-ed-edema-0fb8fb",
         "complete-79e7f2490485",
-        "complete-12463ddcd6f9"
+        "complete-12463ddcd6f9",
+        "complete-cm2second-2faab5aca5b3",
+        "complete-cm2second-d322847ecd11",
+        "complete-cm2second-56f721a39535",
+        "complete-cm2second-2065d6780fac"
       ],
-      "count": 11
+      "count": 15
     },
     {
       "id": "p2-gineco",
@@ -509,9 +691,14 @@
         "cm2p2-quale-scala-considera-esplicitamente-frizione-e-scivol-3ddc28",
         "cm2p2-completa-i-cinque-domini-della-scala-di-norton-29ca67",
         "cm2p2-completa-i-primi-tre-domini-della-scala-di-braden-c6193d",
-        "cm2p2-completa-gli-altri-tre-domini-della-scala-di-braden-6a749b"
+        "cm2p2-completa-gli-altri-tre-domini-della-scala-di-braden-6a749b",
+        "complete-cm2second-b308f1bfbb8c",
+        "complete-cm2second-d69d118c07df",
+        "complete-cm2second-f40edf12f974",
+        "complete-cm2second-5fe41c81ae07",
+        "complete-cm2second-1925dac880eb"
       ],
-      "count": 9
+      "count": 14
     },
     {
       "id": "p2-mediastino",
@@ -533,9 +720,10 @@
         "cm2p2-una-massa-del-collo-o-del-mediastino-si-associa-a-mios-d170e9",
         "cm2p2-neoplasia-toracica-con-congestione-venosa-del-volto-e--5458b8",
         "complete-26887aa8b43e",
-        "complete-91eac25cee10"
+        "complete-91eac25cee10",
+        "complete-cm2second-b5dc6b77bcc2"
       ],
-      "count": 11
+      "count": 12
     },
     {
       "id": "p2-pleura",
@@ -555,9 +743,14 @@
         "cm2p2-quale-rumore-aspro-puo-comparire-sia-in-inspirazione-s-46737e",
         "cm2p2-crepitio-come-neve-fresca-alla-palpazione-cutanea-qual-0b5d91",
         "cm2p2-associa-i-due-meccanismi-fondamentali-dei-versamenti-ccc2c3",
-        "cm2p2-associa-il-contenuto-al-nome-della-raccolta-pleurica-c4eb7c"
+        "cm2p2-associa-il-contenuto-al-nome-della-raccolta-pleurica-c4eb7c",
+        "complete-cm2second-49b4562a34ed",
+        "complete-cm2second-68cbcc877fd7",
+        "complete-cm2second-a5557b645ab8",
+        "complete-cm2second-8e44f381b252",
+        "complete-cm2second-65f5138d07a7"
       ],
-      "count": 9
+      "count": 14
     },
     {
       "id": "p2-pericardio",
@@ -574,9 +767,14 @@
         "cm2p2-liquido-pericardico-che-ostacola-il-riempimento-cardia-114ba6",
         "cm2p2-calo-inspiratorio-esagerato-della-pressione-sistolica--9f9a00",
         "cm2p2-quale-esame-mostra-il-versamento-e-le-alterazioni-del--2602e2",
-        "cm2p2-pericardio-fibroso-e-rigido-che-limita-il-riempimento--fb70e6"
+        "cm2p2-pericardio-fibroso-e-rigido-che-limita-il-riempimento--fb70e6",
+        "complete-cm2second-4e0887df9d41",
+        "complete-cm2second-d7751cd4919d",
+        "complete-cm2second-d3661edbe082",
+        "complete-cm2second-bccff7194976",
+        "complete-cm2second-22943a5491c4"
       ],
-      "count": 6
+      "count": 11
     },
     {
       "id": "p2-casi-polmone",
@@ -599,9 +797,13 @@
         "cm2p2-come-si-chiama-la-degradazione-della-fibrina-4bd818",
         "cm2p2-scrivi-tre-fattori-di-rischio-tromboembolico-richiamat-16ae61",
         "cm2p2-durante-il-ricovero-compare-dolore-toracico-langio-tc--3debb6",
-        "cm2p2-fumatore-con-dispnea-cronica-fev1-fvc-del43-e-dlco-rid-df825c"
+        "cm2p2-fumatore-con-dispnea-cronica-fev1-fvc-del43-e-dlco-rid-df825c",
+        "complete-cm2second-1c9b587bcae8",
+        "complete-cm2second-8e7691269198",
+        "complete-cm2second-449434f7ee70",
+        "complete-cm2second-08322d8525f7"
       ],
-      "count": 12
+      "count": 16
     },
     {
       "id": "p2-reuma",
@@ -640,9 +842,14 @@
         "complete-e0532167f7be",
         "complete-3288a0778652",
         "complete-d9258964af5d",
-        "complete-992aba462090"
+        "complete-992aba462090",
+        "complete-cm2second-4d66ca12fb47",
+        "complete-cm2second-a3d11ecffa5f",
+        "complete-cm2second-5b4df0df68b1",
+        "complete-cm2second-e02065967e9e",
+        "complete-cm2second-73c81d5e20a4"
       ],
-      "count": 28
+      "count": 33
     },
     {
       "id": "p2-onco",
@@ -660,9 +867,14 @@
         "cm2p2-come-si-chiamano-i-controlli-seriali-dopo-il-trattamen-bea557",
         "cm2p2-quale-terapia-e-somministrata-dopo-il-trattamento-loca-f138fa",
         "cm2p2-quale-approccio-pone-al-centro-controllo-dei-sintomi-e-4e6ef1",
-        "cm2p2-completa-i-tre-quesiti-oncologici-centrali-della-dispe-aa65ab"
+        "cm2p2-completa-i-tre-quesiti-oncologici-centrali-della-dispe-aa65ab",
+        "complete-cm2second-d148822b3f70",
+        "complete-cm2second-6ece02f0f150",
+        "complete-cm2second-695a5f65cbbd",
+        "complete-cm2second-ff438a7237dd",
+        "complete-cm2second-cad90bba8478"
       ],
-      "count": 7
+      "count": 12
     },
     {
       "id": "p2-anziano",
@@ -686,9 +898,14 @@
         "complete-17ec6c0ad39f",
         "complete-6d8c36a12a73",
         "complete-5e4661c39b58",
-        "complete-a769e0f042cc"
+        "complete-a769e0f042cc",
+        "complete-cm2second-2ed008619141",
+        "complete-cm2second-2fcd1d0cbca2",
+        "complete-cm2second-9bf394b210bf",
+        "complete-cm2second-a07ff3b38b68",
+        "complete-cm2second-8ca7476ed075"
       ],
-      "count": 13
+      "count": 18
     },
     {
       "id": "p2-cartella",
@@ -759,9 +976,22 @@
         "complete-f4dde7c914c8",
         "complete-291d02db8653",
         "complete-9bf79a17e67b",
-        "complete-93f5ad7b11a5"
+        "complete-93f5ad7b11a5",
+        "complete-cm2second-3295b941d3b6",
+        "complete-cm2second-f43f71609009",
+        "complete-cm2second-661120aec24d",
+        "complete-cm2second-b223fb698263",
+        "complete-cm2second-bc7a2b75e939",
+        "complete-cm2second-91f3bfaa2a11",
+        "complete-cm2second-a6b930196eef",
+        "complete-cm2second-345a51fc5607",
+        "complete-cm2second-1466e980b5f7",
+        "complete-cm2second-06be3c3a231c",
+        "complete-cm2second-569a503364dc",
+        "complete-cm2second-a72886dcd814",
+        "complete-cm2second-60237553264e"
       ],
-      "count": 36
+      "count": 49
     },
     {
       "id": "p2-casi-emato",
@@ -782,9 +1012,10 @@
         "cm2p2-anemia-con-mcv120-e-riduzione-anche-di-leucociti-e-pia-16ca17",
         "cm2p2-adulto-con-leucocitosi-neutrofila-elementi-immaturi-e--e5063b",
         "cm2p2-petecchie-e-sanguinamento-orale-con-piastrinopenia-iso-9db821",
-        "cm2p2-anemia-microcitica-con-ferro-e-ferritina-bassi-e-trans-050409"
+        "cm2p2-anemia-microcitica-con-ferro-e-ferritina-bassi-e-trans-050409",
+        "complete-cm2second-106747c65c02"
       ],
-      "count": 10
+      "count": 11
     },
     {
       "id": "p2-eco",
@@ -813,9 +1044,15 @@
         "cm2p2-associa-struttura-e-artefatto-posteriore-e3fd7d",
         "cm2p2-nella-cavita-mostrata-si-osserva-contenuto-nero-omogen-1e4f31",
         "cm2p2-lecografia-toracica-mostra-uno-spazio-liquido-anecogen-4200ae",
-        "cm2p2-quali-artefatti-ecografici-verticali-originati-dalla-l-892a22"
+        "cm2p2-quali-artefatti-ecografici-verticali-originati-dalla-l-892a22",
+        "complete-cm2second-4ab1537aea58",
+        "complete-cm2second-a1ad2ac02215",
+        "complete-cm2second-0051a9b67989",
+        "complete-cm2second-ccd545ad1398",
+        "complete-cm2second-0f1a0f00328c",
+        "complete-cm2second-f074833ac39d"
       ],
-      "count": 18
+      "count": 24
     },
     {
       "id": "p2-errore",
@@ -834,9 +1071,12 @@
         "cm2p2-quale-metodo-permette-di-esercitarsi-in-scenari-senza--1cedc9",
         "cm2p2-quale-parametro-urinario-e-richiamato-tra-i-controlli--5560e9",
         "cm2p2-igiene-delle-mani-e-procedure-condivise-sono-esempi-di-bff027",
-        "cm2p2-scrivi-i-tre-parametri-della-checklist-basilare-citata-24efa6"
+        "cm2p2-scrivi-i-tre-parametri-della-checklist-basilare-citata-24efa6",
+        "complete-cm2second-4850769162b3",
+        "complete-cm2second-270d992066f3",
+        "complete-cm2second-298a14cd9b01"
       ],
-      "count": 8
+      "count": 11
     },
     {
       "id": "p2-omiche",
@@ -853,9 +1093,10 @@
         "cm2p2-quale-gene-e-mutato-nella-sindrome-vexas-descritta-91d376",
         "cm2p2-le-mutazioni-responsabili-della-vexas-sono-germinali-o-b243cf",
         "cm2p2-uomo-con-infiammazione-sistemica-condrite-auricolare-c-11e1cf",
-        "complete-281f6abcccab"
+        "complete-281f6abcccab",
+        "complete-cm2second-66cdb9a2ff9e"
       ],
-      "count": 6
+      "count": 7
     },
     {
       "id": "p2-organi-immune",
@@ -876,9 +1117,29 @@
         "cm2p2-linfonodi-ingranditi-in-piu-distretti-quale-distribuzi-91f63d",
         "cm2p2-sequestro-splenico-aumentato-con-citopenie-quale-quadr-da8c97",
         "cm2p2-associa-risposta-rapida-e-memoria-al-sistema-prevalent-ab1011",
-        "cm2p2-distingui-i-due-principali-prelievi-midollari-7e7c11"
+        "cm2p2-distingui-i-due-principali-prelievi-midollari-7e7c11",
+        "complete-cm2second-6095fd69d0a3",
+        "complete-cm2second-748ce67b1d90",
+        "complete-cm2second-28cd4671d576",
+        "complete-cm2second-4dd7ccf83084",
+        "complete-cm2second-3204f168535e",
+        "complete-cm2second-878adaae1e6f",
+        "complete-cm2second-a2e257653f2d",
+        "complete-cm2second-c6d55e1ca723",
+        "complete-cm2second-5c2340ef86cd",
+        "complete-cm2second-974b05354407",
+        "complete-cm2second-d889dad5a792",
+        "complete-cm2second-0d7540dab3e2",
+        "complete-cm2second-672367df0f6f",
+        "complete-cm2second-4a3db1559b4b",
+        "complete-cm2second-ffc537759959",
+        "complete-cm2second-5ef42c22149e",
+        "complete-cm2second-bb38ba1a2f62",
+        "complete-cm2second-6f23b99d90c8",
+        "complete-cm2second-b6df69a9c0ec",
+        "complete-cm2second-9aa6ad5b096c"
       ],
-      "count": 10
+      "count": 30
     },
     {
       "id": "p2-emocromo",
@@ -898,9 +1159,18 @@
         "cm2p2-quale-mutazione-viene-citata-nelle-sindromi-mieloproli-86a270",
         "cm2p2-aumento-delle-piastrine-quale-termine-generale-d23ede",
         "complete-15c2b27b5444",
-        "complete-1a68d31db800"
+        "complete-1a68d31db800",
+        "complete-cm2second-a4f471716674",
+        "complete-cm2second-019a85a6b243",
+        "complete-cm2second-f2dca434d1b5",
+        "complete-cm2second-1bbac8d6cbaa",
+        "complete-cm2second-f1d1d06bc5b3",
+        "complete-cm2second-582b55b7aac6",
+        "complete-cm2second-2663bb81db1f",
+        "complete-cm2second-d450da07c433",
+        "complete-cm2second-fbfb08f3f04d"
       ],
-      "count": 9
+      "count": 18
     },
     {
       "id": "p2-mediatori",
@@ -920,9 +1190,19 @@
         "cm2p2-nellautoimmunita-prevale-la-disfunzione-dellimmunita-i-0d03ae",
         "cm2p2-nelle-malattie-autoinfiammatorie-prevale-limmunita-inn-6a6893",
         "cm2p2-completa-tre-famiglie-di-mediatori-09fa65",
-        "cm2p2-quali-sono-le-tre-vie-di-attivazione-del-complemento-d52a07"
+        "cm2p2-quali-sono-le-tre-vie-di-attivazione-del-complemento-d52a07",
+        "complete-cm2second-f0caaf2ac660",
+        "complete-cm2second-c504a918e4e8",
+        "complete-cm2second-aa9480d8f58e",
+        "complete-cm2second-2bfd91de7f86",
+        "complete-cm2second-f4a9d9079053",
+        "complete-cm2second-446d8df7162d",
+        "complete-cm2second-923842a63b1a",
+        "complete-cm2second-7953616d49cd",
+        "complete-cm2second-459f97495a17",
+        "complete-cm2second-1aa91f2ae5aa"
       ],
-      "count": 9
+      "count": 19
     },
     {
       "id": "p2-eo-immune",
@@ -989,9 +1269,21 @@
         "complete-6173c8eaf2f4",
         "complete-64e5c046483c",
         "complete-f2c721573f8a",
-        "complete-724cf171fa82"
+        "complete-724cf171fa82",
+        "complete-cm2second-68d717711658",
+        "complete-cm2second-60a943031f03",
+        "complete-cm2second-8d51e6d9aea2",
+        "complete-cm2second-76fb18f4ecb5",
+        "complete-cm2second-0eda8ca819de",
+        "complete-cm2second-854aeea694c2",
+        "complete-cm2second-83d4f6e2bf18",
+        "complete-cm2second-c58dda473e70",
+        "complete-cm2second-dde9092d9ee9",
+        "complete-cm2second-31e4452465ea",
+        "complete-cm2second-b810738d46ef",
+        "complete-cm2second-ddb6476cf07a"
       ],
-      "count": 30
+      "count": 42
     }
   ]
 }

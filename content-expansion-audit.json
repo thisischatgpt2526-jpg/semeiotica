@@ -1,15 +1,17 @@
 {
-  "newCards": 284,
+  "newCards": 833,
   "byBook": {
-    "carlo-1": 153,
-    "carlo-2-part1": 70,
-    "carlo-2-part2": 61
+    "carlo-1": 410,
+    "carlo-2-part1": 248,
+    "carlo-2-part2": 175
   },
   "byLearningType": {
-    "termini": 95,
-    "diagnosi": 120,
-    "patologie": 69
+    "termini": 227,
+    "diagnosi": 473,
+    "patologie": 133
   },
   "sourcePagesAvailable": 604,
-  "note": "Le pagine sono consultabili integralmente. Il numero di schede non dimostra che ogni concetto abbia una domanda: la copertura rimane verificabile sul testo."
+  "latestAdditionCount": 549,
+  "latestDetailedAudit": "gap-coverage-audit.json",
+  "note": "Schede aggiunte alle raccolte iniziali; revisione per sezioni con citazioni verificabili, senza equivalenza tra numero di schede e copertura esaustiva."
 }
