@@ -1,0 +1,15 @@
+{
+  "newCards": 284,
+  "byBook": {
+    "carlo-1": 153,
+    "carlo-2-part1": 70,
+    "carlo-2-part2": 61
+  },
+  "byLearningType": {
+    "termini": 95,
+    "diagnosi": 120,
+    "patologie": 69
+  },
+  "sourcePagesAvailable": 604,
+  "note": "Le pagine sono consultabili integralmente. Il numero di schede non dimostra che ogni concetto abbia una domanda: la copertura rimane verificabile sul testo."
+}

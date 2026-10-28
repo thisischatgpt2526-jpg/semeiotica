@@ -1,7 +1,7 @@
 {
   "document": "CARLO MAGNO 2",
   "pageCount": 325,
-  "questionCount": 421,
+  "questionCount": 552,
   "chapters": [
     {
       "id": "topografia",
@@ -23,9 +23,10 @@
         "cm2p1-il-solo-elenco-dei-sintomi-basta-per-diagnosticare-un--f16abf",
         "cm2p1-completa-le-tre-regioni-della-fila-superiore-delladdom-21a222",
         "cm2p1-completa-le-tre-regioni-della-fila-inferiore-9b495a",
-        "cm2p1-scrivi-i-quattro-quadranti-della-suddivisione-chirurgi-9a21b1"
+        "cm2p1-scrivi-i-quattro-quadranti-della-suddivisione-chirurgi-9a21b1",
+        "complete-dda08bd36c1c"
       ],
-      "count": 13
+      "count": 14
     },
     {
       "id": "eo-addome",
@@ -55,9 +56,13 @@
         "cm2p1-completa-cinque-caratteristiche-da-descrivere-in-una-m-1eddfc",
         "cm2p1-distingui-tre-tipi-di-fuoriuscita-viscerale-e3cc8d",
         "cm2p1-associa-i-reperti-auscultatori-9deb51",
-        "cm2p1-tumefazione-riducibile-sotto-una-vecchia-cicatrice-lap-036bd7"
+        "cm2p1-tumefazione-riducibile-sotto-una-vecchia-cicatrice-lap-036bd7",
+        "complete-9a3291706f3d",
+        "complete-b192886f868a",
+        "complete-22a43a21bb8a",
+        "complete-f4e9f3d8ccac"
       ],
-      "count": 21
+      "count": 25
     },
     {
       "id": "addome-acuto",
@@ -74,9 +79,12 @@
         "cm2p1-quale-torsione-intestinale-puo-causare-strozzamento-2b0a74",
         "cm2p1-quale-esame-permette-di-apprezzare-fecalomi-e-lesioni--2c3922",
         "cm2p1-contrattura-involontaria-e-persistente-della-parete-qu-39bb90",
-        "cm2p1-dolore-in-fossa-iliaca-destra-difesa-addominale-e-leuc-cc1404"
+        "cm2p1-dolore-in-fossa-iliaca-destra-difesa-addominale-e-leuc-cc1404",
+        "complete-2cf45df884d8",
+        "complete-8487a0c2ec0a",
+        "complete-c3d83291a2ea"
       ],
-      "count": 8
+      "count": 11
     },
     {
       "id": "esofago",
@@ -101,9 +109,16 @@
         "cm2p1-quale-esame-con-bario-mostra-bene-la-morfologia-dei-di-e8885c",
         "cm2p1-disfagia-progressiva-prima-per-solidi-e-poi-per-liquid-ecabf1",
         "cm2p1-disfagia-soprattutto-per-i-liquidi-dilatazione-delleso-4e7c90",
-        "cm2p1-disfagia-rigurgito-tardivo-di-cibo-e-alitosi-si-docume-c94c78"
+        "cm2p1-disfagia-rigurgito-tardivo-di-cibo-e-alitosi-si-docume-c94c78",
+        "complete-ff4ed69d1757",
+        "complete-2d2c90d5658c",
+        "complete-d687a16978ca",
+        "complete-f38c0264309c",
+        "complete-b797659994d2",
+        "complete-86de54926e94",
+        "complete-a5f9fdbe98a4"
       ],
-      "count": 16
+      "count": 23
     },
     {
       "id": "colon-mici",
@@ -123,9 +138,10 @@
         "cm2p1-dilatazione-tossica-del-colon-nella-colite-grave-quale-bc5687",
         "cm2p1-completa-le-differenze-di-distribuzione-delle-mici-a5b3a3",
         "cm2p1-scrivi-tre-complicanze-caratteristiche-del-crohn-40add5",
-        "cm2p1-diarrea-e-fistole-perianali-persistenti-limaging-mostr-836987"
+        "cm2p1-diarrea-e-fistole-perianali-persistenti-limaging-mostr-836987",
+        "complete-f1b4ec3b6077"
       ],
-      "count": 11
+      "count": 12
     },
     {
       "id": "milza",
@@ -168,9 +184,15 @@
         "cm2p1-per-caratterizzare-un-nodulo-epatico-la-tc-usa-spesso--6daa1a",
         "cm2p1-scrivi-quattro-conseguenze-dellipertensione-portale-5cf2f4",
         "cm2p1-completa-gli-indicatori-richiamati-per-la-funzione-epa-23179a",
-        "cm2p1-quali-due-enzimi-sono-indici-di-colestasi-f85272"
+        "cm2p1-quali-due-enzimi-sono-indici-di-colestasi-f85272",
+        "complete-cd76f4cfa368",
+        "complete-ac88de984bbf",
+        "complete-44e1c4ceb259",
+        "complete-7059e623807b",
+        "complete-8161a56524bf",
+        "complete-5510450e4717"
       ],
-      "count": 14
+      "count": 20
     },
     {
       "id": "biliare-pancreas",
@@ -194,9 +216,11 @@
         "cm2p1-il-succo-pancreatico-e-prevalentemente-acido-o-alcalin-7fd39c",
         "cm2p1-completa-i-tre-segni-della-triade-di-charcot-3c57a9",
         "cm2p1-dolore-in-ipocondrio-destro-e-reperto-ecografico-indic-dd9701",
-        "cm2p1-allecografia-compare-materiale-biliare-denso-e-declive-bb469f"
+        "cm2p1-allecografia-compare-materiale-biliare-denso-e-declive-bb469f",
+        "complete-32698fcc1eb5",
+        "complete-579bed02e0bd"
       ],
-      "count": 15
+      "count": 17
     },
     {
       "id": "diabete",
@@ -220,9 +244,15 @@
         "cm2p1-nel-tipo-2-le-complicanze-possono-essere-gia-presenti--75f009",
         "cm2p1-completa-i-valori-diagnostici-riportati-inserisci-solo-2061a1",
         "cm2p1-completa-le-due-principali-emergenze-iperglicemiche-cb24cc",
-        "cm2p1-scrivi-le-tre-complicanze-microvascolari-principali-de-b5300b"
+        "cm2p1-scrivi-le-tre-complicanze-microvascolari-principali-de-b5300b",
+        "complete-a1597d81f7c8",
+        "complete-0ffe16d96f03",
+        "complete-c1c1e79f7142",
+        "complete-c53cbefbcb7e",
+        "complete-92f763710024",
+        "complete-a05fd79dddef"
       ],
-      "count": 15
+      "count": 21
     },
     {
       "id": "emorragie-alvo",
@@ -240,9 +270,13 @@
         "cm2p1-emissione-di-sangue-con-il-vomito-quale-termine-b15ada",
         "cm2p1-vomito-di-sangue-digerito-simile-a-fondi-di-caffe-qual-2eacc8",
         "cm2p1-addome-disteso-e-arresto-di-feci-e-gas-quale-quadro-va-a82d63",
-        "cm2p1-associa-laspetto-del-sanguinamento-al-termine-42bbe0"
+        "cm2p1-associa-laspetto-del-sanguinamento-al-termine-42bbe0",
+        "complete-1fe499593f50",
+        "complete-5a2ac863dc45",
+        "complete-03199eeca6a0",
+        "complete-3ec3ce491714"
       ],
-      "count": 9
+      "count": 13
     },
     {
       "id": "neuro-forza",
@@ -261,9 +295,15 @@
         "cm2p1-una-paralisi-spastica-e-iperreflessica-orienta-a-defic-1045a3",
         "cm2p1-la-distribuzione-dei-deficit-serve-prima-a-stabilire-l-f861b1",
         "cm2p1-quale-meccanismo-di-ictus-deriva-da-un-embolo-di-origi-794178",
-        "cm2p1-completa-tre-segni-classici-di-lesione-motoria-central-3c5700"
+        "cm2p1-completa-tre-segni-classici-di-lesione-motoria-central-3c5700",
+        "complete-2c974e82a381",
+        "complete-e26dd425af85",
+        "complete-2a0a716febe6",
+        "complete-c29b38493fdb",
+        "complete-4f77e7c1f959",
+        "complete-335c9a3d924c"
       ],
-      "count": 10
+      "count": 16
     },
     {
       "id": "neuro-coscienza",
@@ -287,9 +327,16 @@
         "cm2p1-afasia-non-fluente-quale-area-classica-e-coinvolta-273eff",
         "cm2p1-afasia-fluente-con-deficit-di-comprensione-quale-area--cab7f2",
         "cm2p1-quali-tre-componenti-valuta-la-glasgow-coma-scale-bb6151",
-        "cm2p1-associa-la-forma-di-afasia-alla-sede-classica-dd1e26"
+        "cm2p1-associa-la-forma-di-afasia-alla-sede-classica-dd1e26",
+        "complete-f5e9751413ab",
+        "complete-08f3ae3a8944",
+        "complete-ac2fa2749638",
+        "complete-236acfe08d47",
+        "complete-9441237271d0",
+        "complete-d277675a0953",
+        "complete-8d0f9e234141"
       ],
-      "count": 15
+      "count": 22
     },
     {
       "id": "endocrino",
@@ -324,9 +371,22 @@
         "cm2p1-quali-tre-sintomi-adrenergici-sono-tipici-del-feocromo-63fcee",
         "cm2p1-uomo-di-46-anni-con-astenia-ipotensione-e-colorito-ins-f6d989",
         "cm2p1-paziente-in-terapia-prolungata-con-cortisone-facies-ar-1e1b99",
-        "cm2p1-aumentano-progressivamente-misura-delle-scarpe-diametr-838f6d"
+        "cm2p1-aumentano-progressivamente-misura-delle-scarpe-diametr-838f6d",
+        "complete-e6f2a08f238e",
+        "complete-962e9f9a82f2",
+        "complete-b3207d9e08ba",
+        "complete-5fa248a63951",
+        "complete-51ef602fedb0",
+        "complete-89d85bf5a60b",
+        "complete-4b48c27c500e",
+        "complete-9c0a82ca8c92",
+        "complete-3a5f0fe58435",
+        "complete-e9666cd45773",
+        "complete-24efd0a24e19",
+        "complete-93ee125f8c2f",
+        "complete-0d5b2b15f9ba"
       ],
-      "count": 26
+      "count": 39
     },
     {
       "id": "genitourinario",
@@ -343,9 +403,11 @@
         "cm2p1-presenza-di-sangue-nelle-urine-quale-termine-7c0950",
         "cm2p1-ematuria-rilevabile-solo-con-esame-macroscopica-o-micr-c1348e",
         "cm2p1-urine-rossastre-significano-sempre-ematuria-9a4881",
-        "cm2p1-impossibilita-improvvisa-di-urinare-dolore-sovrapubico-88fb33"
+        "cm2p1-impossibilita-improvvisa-di-urinare-dolore-sovrapubico-88fb33",
+        "complete-676b2a077f3b",
+        "complete-3575bddf676b"
       ],
-      "count": 8
+      "count": 10
     },
     {
       "id": "nefropatie",
@@ -371,9 +433,17 @@
         "cm2p1-compaiono-urine-ematiche-ipertensione-edema-e-riduzion-e5c444",
         "cm2p1-proteinuria-di-8-g-nelle-24-ore-albumina-bassa-ed-edem-01d7c4",
         "cm2p1-dopo-importanti-perdite-di-liquidi-peggiorano-rapidame-4f1f58",
-        "cm2p1-creatinina-in-aumento-e-vescica-molto-distesa-per-ostr-854d6f"
+        "cm2p1-creatinina-in-aumento-e-vescica-molto-distesa-per-ostr-854d6f",
+        "complete-ea985f8cbca6",
+        "complete-085f0e1204b5",
+        "complete-d88cc4d7b82b",
+        "complete-2977b335f95a",
+        "complete-d2be6a138216",
+        "complete-68510855a0b2",
+        "complete-865bc2dfc9c5",
+        "complete-605f40465c83"
       ],
-      "count": 17
+      "count": 25
     },
     {
       "id": "p2-rene",
@@ -393,9 +463,11 @@
         "cm2p2-quale-anemia-si-associa-al-danno-renale-cronico-7677f0",
         "cm2p2-perdite-digestive-protratte-possono-causare-quale-aki--42c22e",
         "cm2p2-donna-anziana-con-diarrea-e-vomito-protratti-scarso-in-6ffe5b",
-        "cm2p2-proteinuria-importante-ipoalbuminemia-marcata-ed-edema-0fb8fb"
+        "cm2p2-proteinuria-importante-ipoalbuminemia-marcata-ed-edema-0fb8fb",
+        "complete-79e7f2490485",
+        "complete-12463ddcd6f9"
       ],
-      "count": 9
+      "count": 11
     },
     {
       "id": "p2-gineco",
@@ -413,9 +485,11 @@
         "cm2p2-sanguinamento-non-correlato-al-ciclo-mestruale-quale-t-766116",
         "cm2p2-dolore-mestruale-particolarmente-intenso-quale-termine-282596",
         "cm2p2-dolore-a-meta-ciclo-puo-orientare-verso-quale-evento-f-6312a9",
-        "cm2p2-separa-tre-informazioni-del-ciclo-mestruale-df1242"
+        "cm2p2-separa-tre-informazioni-del-ciclo-mestruale-df1242",
+        "complete-504540bd30f2",
+        "complete-0347b78c9bec"
       ],
-      "count": 7
+      "count": 9
     },
     {
       "id": "p2-cute",
@@ -457,9 +531,11 @@
         "cm2p2-quale-vena-offre-unimportante-via-collaterale-nellostr-a88d8a",
         "cm2p2-quali-due-segni-oculari-sono-richiamati-per-horner-bf2e04",
         "cm2p2-una-massa-del-collo-o-del-mediastino-si-associa-a-mios-d170e9",
-        "cm2p2-neoplasia-toracica-con-congestione-venosa-del-volto-e--5458b8"
+        "cm2p2-neoplasia-toracica-con-congestione-venosa-del-volto-e--5458b8",
+        "complete-26887aa8b43e",
+        "complete-91eac25cee10"
       ],
-      "count": 9
+      "count": 11
     },
     {
       "id": "p2-pleura",
@@ -555,9 +631,18 @@
         "cm2p2-associa-il-numero-di-articolazioni-al-termine-8f8761",
         "cm2p2-distingui-i-noduli-artrosici-delle-dita-6d8432",
         "cm2p2-dolore-intenso-arrossamento-e-tumefazione-della-prima--ea72d5",
-        "cm2p2-dolore-infiammatorio-e-rigidita-prolungata-di-mani-e-p-14ca09"
+        "cm2p2-dolore-infiammatorio-e-rigidita-prolungata-di-mani-e-p-14ca09",
+        "complete-d77272f13f69",
+        "complete-5becdafe5999",
+        "complete-7d0957b1e8dc",
+        "complete-91d85fd74fac",
+        "complete-179006909dfc",
+        "complete-e0532167f7be",
+        "complete-3288a0778652",
+        "complete-d9258964af5d",
+        "complete-992aba462090"
       ],
-      "count": 19
+      "count": 28
     },
     {
       "id": "p2-onco",
@@ -597,9 +682,13 @@
         "cm2p2-riduzione-di-massa-e-funzione-muscolare-nellanziano-qu-f5669e",
         "cm2p2-quale-sensazione-orale-puo-favorire-difficolta-di-alim-e05690",
         "cm2p2-scrivi-tre-dimensioni-da-valutare-oltre-alle-singole-m-c26208",
-        "cm2p2-unanziana-prima-autonoma-sviluppa-confusione-acuta-dur-e96382"
+        "cm2p2-unanziana-prima-autonoma-sviluppa-confusione-acuta-dur-e96382",
+        "complete-17ec6c0ad39f",
+        "complete-6d8c36a12a73",
+        "complete-5e4661c39b58",
+        "complete-a769e0f042cc"
       ],
-      "count": 9
+      "count": 13
     },
     {
       "id": "p2-cartella",
@@ -618,9 +707,12 @@
         "cm2p2-quale-anamnesi-raccoglie-abitudini-di-vita-e-funzioni--9df7f5",
         "cm2p2-quale-anamnesi-raccoglie-le-malattie-presenti-nei-fami-e79ba2",
         "cm2p2-quali-quattro-abitudini-indaghi-nellanamnesi-fisiologi-75f05c",
-        "cm2p2-nellanamnesi-farmacologica-quali-tre-informazioni-sul--7d7647"
+        "cm2p2-nellanamnesi-farmacologica-quali-tre-informazioni-sul--7d7647",
+        "complete-92686d8bc39b",
+        "complete-f7325659b91f",
+        "complete-f859484a51c9"
       ],
-      "count": 8
+      "count": 11
     },
     {
       "id": "p2-emato",
@@ -647,9 +739,29 @@
         "cm2p2-distingui-le-anemie-in-base-al-mcv-612806",
         "cm2p2-completa-il-profilo-marziale-atteso-nella-sideropenia-600cf8",
         "cm2p2-scrivi-tre-manifestazioni-emorragiche-mucocutanee-dell-75adcd",
-        "cm2p2-completa-cinque-voci-dellemocromo-e-il-loro-significat-2bdbed"
+        "cm2p2-completa-cinque-voci-dellemocromo-e-il-loro-significat-2bdbed",
+        "complete-dad0d19cf2a3",
+        "complete-804b4e10f2b9",
+        "complete-7956a682a8ec",
+        "complete-a67e6076bf7b",
+        "complete-00b846a4b831",
+        "complete-4219fbd6b34e",
+        "complete-c86ead1de9b7",
+        "complete-91e2ef39e0e5",
+        "complete-3e0f58491159",
+        "complete-aaff98dd678c",
+        "complete-bcc694a4a888",
+        "complete-0faf489cca78",
+        "complete-829e8e43fed2",
+        "complete-0e750e629bce",
+        "complete-6052658b3986",
+        "complete-0c526e3c898a",
+        "complete-f4dde7c914c8",
+        "complete-291d02db8653",
+        "complete-9bf79a17e67b",
+        "complete-93f5ad7b11a5"
       ],
-      "count": 16
+      "count": 36
     },
     {
       "id": "p2-casi-emato",
@@ -740,9 +852,10 @@
         "cm2p2-quale-segnale-delle-sonde-puo-riflettere-la-quantita-d-096644",
         "cm2p2-quale-gene-e-mutato-nella-sindrome-vexas-descritta-91d376",
         "cm2p2-le-mutazioni-responsabili-della-vexas-sono-germinali-o-b243cf",
-        "cm2p2-uomo-con-infiammazione-sistemica-condrite-auricolare-c-11e1cf"
+        "cm2p2-uomo-con-infiammazione-sistemica-condrite-auricolare-c-11e1cf",
+        "complete-281f6abcccab"
       ],
-      "count": 5
+      "count": 6
     },
     {
       "id": "p2-organi-immune",
@@ -783,9 +896,11 @@
         "cm2p2-secondo-la-dispensa-sotto-quanti-neutrofili-per-microl-31f6f2",
         "cm2p2-quali-piccole-lesioni-emorragiche-sono-tipiche-della-p-709500",
         "cm2p2-quale-mutazione-viene-citata-nelle-sindromi-mieloproli-86a270",
-        "cm2p2-aumento-delle-piastrine-quale-termine-generale-d23ede"
+        "cm2p2-aumento-delle-piastrine-quale-termine-generale-d23ede",
+        "complete-15c2b27b5444",
+        "complete-1a68d31db800"
       ],
-      "count": 7
+      "count": 9
     },
     {
       "id": "p2-mediatori",
@@ -825,9 +940,15 @@
         "cm2p2-quali-autoanticorpi-sono-tipici-del-lupus-e-utili-nel--cfc4de",
         "cm2p2-quale-anticorpo-riconosce-la-porzione-fc-delle-igg-4c6a65",
         "cm2p2-quali-due-componenti-del-complemento-si-dosano-spesso--b2610d",
-        "cm2p2-cristalli-aghiformi-di-urato-nel-liquido-sinoviale-sug-e6d5a2"
+        "cm2p2-cristalli-aghiformi-di-urato-nel-liquido-sinoviale-sug-e6d5a2",
+        "complete-cabe3e067dbb",
+        "complete-4363a5a38430",
+        "complete-d1c6168a799b",
+        "complete-4d7d23e8de11",
+        "complete-ed56de693cb2",
+        "complete-de2e0aeaef51"
       ],
-      "count": 7
+      "count": 13
     },
     {
       "id": "p2-sistemiche",
@@ -858,9 +979,19 @@
         "cm2p2-fenomeno-di-raynaud-eritema-malare-e-autoanticorpi-ant-20373b",
         "cm2p2-debolezza-muscolare-prossimale-rash-eliotropo-e-papule-61cc51",
         "cm2p2-secchezza-oculare-e-orale-persistente-in-un-contesto-a-f55d38",
-        "cm2p2-asma-ad-esordio-adulto-eosinofilia-e-neuropatia-perife-f32654"
+        "cm2p2-asma-ad-esordio-adulto-eosinofilia-e-neuropatia-perife-f32654",
+        "complete-6318d8b85c13",
+        "complete-475bc7b09599",
+        "complete-b1dbd7282b88",
+        "complete-e01fdcf79c24",
+        "complete-4217e9f55a44",
+        "complete-e418de636ed0",
+        "complete-6173c8eaf2f4",
+        "complete-64e5c046483c",
+        "complete-f2c721573f8a",
+        "complete-724cf171fa82"
       ],
-      "count": 20
+      "count": 30
     }
   ]
 }
