@@ -1,0 +1,287 @@
+[
+  {
+    "id": "case-gozzo-compressivo",
+    "apparato": "Casi clinici",
+    "organo": "Tiroide e collo",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Uomo di 74 anni con gozzo noto, dispnea da sdraiato, disfagia per solidi ed edema del volto. La TC mostra una massa tiroidea nel mediastino che comprime trachea ed esofago. Quale diagnosi?",
+    "term": "Gozzo multinodulare a sviluppo cervico-mediastinico",
+    "accepted": [
+      "gozzo multinodulare cervico-mediastinico",
+      "gozzo cervicomediastinico",
+      "gozzo cervico mediastinico",
+      "gozzo multinodulare retrosternale",
+      "gozzo retrosternale",
+      "gozzo multinodulare eutiroideo a sviluppo cervico-mediastinico"
+    ],
+    "explanation": "Il caso della dispensa conclude per un gozzo multinodulare eutiroideo cervico-mediastinico: l’espansione retrosternale spiega i sintomi compressivi e la congestione venosa.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 120,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "gozzo multinodulare eutiroideo a sviluppo cervico-mediastinico",
+      "pages": [
+        117,
+        118,
+        119,
+        120
+      ]
+    },
+    "image": {
+      "src": "assets/cases/tc-collo-mediastino.webp",
+      "alt": "TC assiale del collo e del mediastino dal caso della dispensa",
+      "caption": "TC originale del caso: CARLO MAGNO 1, p.119.",
+      "sourcePage": 119
+    }
+  },
+  {
+    "id": "case-nodulo-tossico",
+    "apparato": "Casi clinici",
+    "organo": "Tiroide e collo",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Donna di 42 anni: calo ponderale, palpitazioni e intolleranza al caldo. TSH soppresso, ormoni tiroidei alti; ecografia con nodulo unico destro di 3,2 cm. Quale ipotesi diagnostica?",
+    "term": "Gozzo uninodulare tossico (adenoma tossico di Plummer)",
+    "accepted": [
+      "gozzo uninodulare tossico",
+      "nodulo tossico",
+      "adenoma tossico",
+      "adenoma di Plummer",
+      "morbo di Plummer",
+      "adenoma tossico di Plummer",
+      "nodulo tiroideo autonomo"
+    ],
+    "explanation": "L’associazione fra ipertiroidismo e nodulo unico orienta verso un nodulo autonomo. La dispensa propone la scintigrafia per confermare che l’iperfunzione provenga da quel nodulo.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 121,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "Ipertiroidismo causato da un singolo nodulo iperfunzionante.",
+      "pages": [
+        120,
+        121
+      ]
+    }
+  },
+  {
+    "id": "case-basedow-eco",
+    "apparato": "Casi clinici",
+    "organo": "Tiroide e collo",
+    "cartella": "Ecografie e immagini",
+    "kind": "case",
+    "def": "TSH soppresso, ormoni tiroidei alti e TRAb positivi. La tiroide è diffusamente iperfunzionante e ipervascolarizzata, senza noduli. Quale diagnosi è più probabile?",
+    "term": "Morbo di Basedow-Graves",
+    "accepted": [
+      "morbo di Basedow",
+      "morbo di Graves",
+      "malattia di Graves",
+      "Basedow",
+      "Graves",
+      "Basedow Graves",
+      "gozzo tossico diffuso"
+    ],
+    "explanation": "Gli anticorpi anti-recettore del TSH stimolano diffusamente la tiroide. Il quadro è quello del gozzo tossico diffuso; la figura è un esempio ecografico-Doppler didattico della stessa sezione.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 113,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "morbo di Basedow o gozzo tossico diffuso"
+    },
+    "image": {
+      "src": "assets/cases/eco-tiroide-doppler.webp",
+      "alt": "Pannello ecografico-Doppler tiroideo originale della dispensa",
+      "caption": "Esempio ecografico-Doppler didattico originale: p.113.",
+      "sourcePage": 113
+    }
+  },
+  {
+    "id": "case-linfonodi-eco",
+    "apparato": "Casi clinici",
+    "organo": "Tiroide e collo",
+    "cartella": "Ecografie e immagini",
+    "kind": "case",
+    "def": "Nel controllo di un nodulo tiroideo, alcuni linfonodi cervicali sono tondeggianti, con margini irregolari, microcalcificazioni e ilo vascolare alterato. Quale coinvolgimento sospetti?",
+    "term": "Metastasi linfonodali",
+    "accepted": [
+      "metastasi linfonodali",
+      "metastasi linfonodale",
+      "linfonodi metastatici",
+      "coinvolgimento linfonodale metastatico",
+      "linfoadenopatie metastatiche",
+      "sospette metastasi linfonodali"
+    ],
+    "explanation": "Questi caratteri ecografici rendono i linfonodi sospetti per metastasi e richiedono approfondimento. L’ecografia indica un sospetto: da sola non conferma l’istologia.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 115,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "Presentano tutti i segni ecografici che sono altamente sospetti per la presenza di metastasi linfonodali."
+    },
+    "image": {
+      "src": "assets/cases/eco-linfonodi-collo.webp",
+      "alt": "Pannelli ecografici originali di linfonodi cervicali",
+      "caption": "Pannelli ecografici didattici della dispensa: p.115.",
+      "sourcePage": 115
+    }
+  },
+  {
+    "id": "case-scompenso",
+    "apparato": "Casi clinici",
+    "organo": "Cuore e circolo",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Ortopnea, edemi declivi e congestione dei vasi polmonari alla radiografia. Quale sindrome può unificare questi reperti?",
+    "term": "Scompenso cardiaco",
+    "accepted": [
+      "scompenso cardiaco",
+      "insufficienza cardiaca",
+      "scompenso cardiaco congestizio",
+      "insufficienza cardiaca congestizia"
+    ],
+    "explanation": "L’insieme di ortopnea, edemi e sovraccarico vascolare polmonare orienta verso scompenso cardiaco. L’ecocardiogramma serve a caratterizzarne la funzione e le possibili cause.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 147,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "una possibile diagnosi di scompenso cardiaco."
+    }
+  },
+  {
+    "id": "case-polmonite",
+    "apparato": "Casi clinici",
+    "organo": "Apparato respiratorio",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Febbre, tosse e dolore toracico puntorio. In una zona del torace trovi FVT aumentato, ipofonesi e broncofonia. Quale processo del parenchima polmonare sospetti?",
+    "term": "Polmonite con consolidamento alveolare",
+    "accepted": [
+      "polmonite",
+      "polmonite lobare",
+      "polmonite alveolare",
+      "consolidamento polmonare",
+      "addensamento polmonare",
+      "polmonite con consolidamento alveolare"
+    ],
+    "explanation": "Il consolidamento del parenchima favorisce la trasmissione delle vibrazioni vocali e della voce, mentre riduce la sonorità alla percussione. Il quadro orienta verso polmonite.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 137,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "I sintomi tipici sono la febbre, il dolore puntorio in sede (soprattutto se interessa la pleura), tosse."
+    }
+  },
+  {
+    "id": "case-nodulo-bpco",
+    "apparato": "Casi clinici",
+    "organo": "Apparato respiratorio",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Un paziente con BPCO presenta un addensamento nodulare nel campo medio sinistro alla radiografia. Quale esame viene proposto nella dispensa per caratterizzare meglio la lesione?",
+    "term": "TC del torace",
+    "accepted": [
+      "TC torace",
+      "TC del torace",
+      "TAC torace",
+      "TAC del torace",
+      "tomografia computerizzata del torace",
+      "TC torace con contrasto",
+      "TC del torace con mezzo di contrasto",
+      "TAC torace con contrasto"
+    ],
+    "explanation": "Nel caso della dispensa la TC del torace permette di definire sede, margini e caratteristiche della lesione. Il riscontro radiografico non basta per assegnarle una diagnosi.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 139,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "Per approfondire, facciamo una TC, è meglio con mezzo di contrasto, se non sappiamo di che patologia si tratta."
+    }
+  },
+  {
+    "id": "case-ritenzione",
+    "apparato": "Casi clinici",
+    "organo": "Apparato urinario",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Un paziente urina pochissimo, ma alla palpazione è presente un globo vescicale e l’ecografia mostra una vescica molto distesa. Quale alterazione sospetti?",
+    "term": "Ritenzione urinaria",
+    "accepted": [
+      "ritenzione urinaria",
+      "ritenzione acuta di urina",
+      "ritenzione acuta urinaria",
+      "ritenzione di urina",
+      "ritenzione vescicale"
+    ],
+    "explanation": "La vescica piena indica che l’urina viene prodotta ma non eliminata correttamente. Questo orienta verso ritenzione, anziché una ridotta produzione renale come unica causa.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 91,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "una vescica fortemente dilatata che mi delinea una patologia ostruttiva con ritenzione urinaria."
+    }
+  },
+  {
+    "id": "case-diuresi-osmotica",
+    "apparato": "Casi clinici",
+    "organo": "Apparato urinario",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Un paziente diabetico ha poliuria: il glucosio filtrato supera la capacità di riassorbimento renale e trattiene acqua nelle urine. Quale meccanismo spiega la poliuria?",
+    "term": "Diuresi osmotica",
+    "accepted": [
+      "diuresi osmotica",
+      "poliuria osmotica",
+      "diuresi da carico di soluti",
+      "diuresi osmotica da glucosio"
+    ],
+    "explanation": "Il glucosio non riassorbito agisce come soluto osmoticamente attivo e aumenta l’escrezione di acqua. È il meccanismo di diuresi osmotica descritto nel testo.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 89,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "è una diuresi da carico di soluti o diuresi osmotica"
+    }
+  },
+  {
+    "id": "case-angina-stabile",
+    "apparato": "Casi clinici",
+    "organo": "Cuore e circolo",
+    "cartella": "Casi dalla dispensa",
+    "kind": "case",
+    "def": "Dolore retrosternale oppressivo che compare sotto sforzo, dura pochi minuti e scompare interrompendo lo sforzo. Quale forma di dolore coronarico descrive la dispensa?",
+    "term": "Angina pectoris stabile",
+    "accepted": [
+      "angina pectoris stabile",
+      "angina stabile",
+      "angina da sforzo",
+      "angina pectoris da sforzo"
+    ],
+    "explanation": "Il carattere prevedibile legato allo sforzo, la breve durata e la regressione con il riposo sono il profilo descritto per l’angina stabile.",
+    "generated": true,
+    "source": {
+      "document": "CARLO MAGNO 1",
+      "page": 26,
+      "generated": true,
+      "adaptation": "Sintesi didattica del testo della dispensa",
+      "quote": "scompare da solo al termine dello sforzo."
+    }
+  }
+]

@@ -1,0 +1,2923 @@
+{
+  "schemaVersion": 1,
+  "title": "Ripasso rapido: schede focalizzate",
+  "replacements": [
+    {
+      "replaces": [
+        "pdf-appunti-1"
+      ],
+      "cards": [
+        {
+          "def": "Quali sono le 3 vie di attivazione del complemento?",
+          "term": "Classica; Alternativa; Lectinica",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Via 1",
+              "answer": "Classica",
+              "accepted": [
+                "Classica",
+                "via classica"
+              ]
+            },
+            {
+              "label": "Via 2",
+              "answer": "Alternativa",
+              "accepted": [
+                "Alternativa",
+                "via alternativa"
+              ]
+            },
+            {
+              "label": "Via 3",
+              "answer": "Lectinica",
+              "accepted": [
+                "Lectinica",
+                "via lectinica",
+                "via della lectina"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-complemento-vie",
+          "apparato": "Semeiotica generale",
+          "organo": "Immunologia e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 18,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 1,
+            "sourceId": "appunti-1"
+          },
+          "sourceId": "pdf-appunti-1",
+          "curated": true
+        },
+        {
+          "def": "Quali immunoglobuline attivano soprattutto la via classica?",
+          "term": "IgM e IgG",
+          "kind": "term",
+          "accepted": [
+            "IgM e IgG",
+            "IgG e IgM"
+          ],
+          "id": "rapid-complemento-classica",
+          "apparato": "Semeiotica generale",
+          "organo": "Immunologia e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 18,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 1,
+            "sourceId": "appunti-1"
+          },
+          "sourceId": "pdf-appunti-1",
+          "curated": true
+        },
+        {
+          "def": "La via alternativa richiede anticorpi?",
+          "term": "No",
+          "kind": "term",
+          "accepted": [
+            "No",
+            "non richiede anticorpi"
+          ],
+          "id": "rapid-complemento-alternativa",
+          "apparato": "Semeiotica generale",
+          "organo": "Immunologia e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 18,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 1,
+            "sourceId": "appunti-1"
+          },
+          "sourceId": "pdf-appunti-1",
+          "curated": true
+        },
+        {
+          "def": "Quale proteina lega il mannosio nella via lectinica?",
+          "term": "MBL",
+          "kind": "term",
+          "accepted": [
+            "MBL",
+            "mannose binding lectin",
+            "lectina legante il mannosio"
+          ],
+          "id": "rapid-complemento-lectinica",
+          "apparato": "Semeiotica generale",
+          "organo": "Immunologia e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 18,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 1,
+            "sourceId": "appunti-1"
+          },
+          "sourceId": "pdf-appunti-1",
+          "curated": true
+        },
+        {
+          "def": "Completa le due C3 convertasi.",
+          "term": "C4b2a; C3bBb",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Via classica / lectinica",
+              "answer": "C4b2a",
+              "accepted": [
+                "C4b2a"
+              ]
+            },
+            {
+              "label": "Via alternativa",
+              "answer": "C3bBb",
+              "accepted": [
+                "C3bBb"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-complemento-convertasi",
+          "apparato": "Semeiotica generale",
+          "organo": "Immunologia e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 18,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 1,
+            "sourceId": "appunti-1"
+          },
+          "sourceId": "pdf-appunti-1",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-2"
+      ],
+      "cards": [
+        {
+          "def": "Da quanto tempo persiste il dolore fibromialgico cronico descritto?",
+          "term": "Almeno 3 mesi",
+          "kind": "term",
+          "accepted": [
+            "Almeno 3 mesi",
+            "3 mesi",
+            "tre mesi"
+          ],
+          "id": "rapid-fibromialgia-durata",
+          "apparato": "Apparato locomotore",
+          "organo": "Muscoli e dolore diffuso",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 2,
+            "sourceId": "appunti-2"
+          },
+          "sourceId": "pdf-appunti-2",
+          "curated": true
+        },
+        {
+          "def": "Come si distribuisce il dolore della fibromialgia?",
+          "term": "È diffuso, interessa più regioni corporee e spesso entrambi i lati.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-fibromialgia-distribuzione",
+          "apparato": "Apparato locomotore",
+          "organo": "Muscoli e dolore diffuso",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 2,
+            "sourceId": "appunti-2"
+          },
+          "sourceId": "pdf-appunti-2",
+          "curated": true
+        },
+        {
+          "def": "Uno stimolo doloroso provoca un dolore più intenso del normale. Quale termine?",
+          "term": "Iperalgesia",
+          "kind": "term",
+          "accepted": [
+            "Iperalgesia"
+          ],
+          "id": "rapid-iperalgesia",
+          "apparato": "Apparato locomotore",
+          "organo": "Muscoli e dolore diffuso",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 2,
+            "sourceId": "appunti-2"
+          },
+          "sourceId": "pdf-appunti-2",
+          "curated": true
+        },
+        {
+          "def": "Uno stimolo normalmente non doloroso provoca dolore. Quale termine?",
+          "term": "Allodinia",
+          "kind": "term",
+          "accepted": [
+            "Allodinia"
+          ],
+          "id": "rapid-allodinia",
+          "apparato": "Apparato locomotore",
+          "organo": "Muscoli e dolore diffuso",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 2,
+            "sourceId": "appunti-2"
+          },
+          "sourceId": "pdf-appunti-2",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-3"
+      ],
+      "cards": [
+        {
+          "def": "L’ernia lombare può dare dolore irradiato a gluteo e arto inferiore. Come si chiama?",
+          "term": "Sciatalgia o cruralgia",
+          "kind": "term",
+          "accepted": [
+            "Sciatalgia o cruralgia",
+            "sciatalgia",
+            "cruralgia"
+          ],
+          "id": "rapid-ernia-lombare",
+          "apparato": "Apparato locomotore",
+          "organo": "Colonna e radici nervose",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 3,
+            "sourceId": "appunti-3"
+          },
+          "sourceId": "pdf-appunti-3",
+          "curated": true
+        },
+        {
+          "def": "Come si chiama il dolore da ernia cervicale irradiato a spalla, braccio e mano?",
+          "term": "Cervicobrachialgia",
+          "kind": "term",
+          "accepted": [
+            "Cervicobrachialgia"
+          ],
+          "id": "rapid-ernia-cervicale",
+          "apparato": "Apparato locomotore",
+          "organo": "Colonna e radici nervose",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 3,
+            "sourceId": "appunti-3"
+          },
+          "sourceId": "pdf-appunti-3",
+          "curated": true
+        },
+        {
+          "def": "Quali manovre possono aggravare il dolore da ernia discale?",
+          "term": "Tosse, starnuto e manovra di Valsalva.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-ernia-aggravamento",
+          "apparato": "Apparato locomotore",
+          "organo": "Colonna e radici nervose",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 3,
+            "sourceId": "appunti-3"
+          },
+          "sourceId": "pdf-appunti-3",
+          "curated": true
+        },
+        {
+          "def": "Completa i 4 possibili disturbi associati a un’ernia discale.",
+          "term": "Parestesie; Ipoestesia; Deficit di forza; Riduzione dei riflessi",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Formicolii",
+              "answer": "Parestesie",
+              "accepted": [
+                "Parestesie"
+              ]
+            },
+            {
+              "label": "Sensibilità ridotta",
+              "answer": "Ipoestesia",
+              "accepted": [
+                "Ipoestesia"
+              ]
+            },
+            {
+              "label": "Forza",
+              "answer": "Deficit di forza",
+              "accepted": [
+                "Deficit di forza",
+                "debolezza"
+              ]
+            },
+            {
+              "label": "Riflessi",
+              "answer": "Riduzione dei riflessi",
+              "accepted": [
+                "Riduzione dei riflessi",
+                "iporeflessia",
+                "abolizione dei riflessi",
+                "areflessia"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-ernia-segni",
+          "apparato": "Apparato locomotore",
+          "organo": "Colonna e radici nervose",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 19,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 3,
+            "sourceId": "appunti-3"
+          },
+          "sourceId": "pdf-appunti-3",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-4",
+        "pdf-appunti-5"
+      ],
+      "cards": [
+        {
+          "def": "Come si chiama la perdita completa dell’olfatto?",
+          "term": "Anosmia",
+          "kind": "term",
+          "accepted": [
+            "Anosmia"
+          ],
+          "id": "rapid-anosmia",
+          "apparato": "Sistema nervoso",
+          "organo": "Olfatto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 20,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 4,
+            "sourceId": "appunti-4"
+          },
+          "sourceId": "pdf-appunti-4",
+          "curated": true,
+          "warning": "La voce originale sull’ipofisite contiene testo copiato sui disturbi dell’olfatto. Qui si ripassano solo i termini olfattivi descritti; il testo originale resta nell’archivio."
+        },
+        {
+          "def": "Come si chiama la riduzione dell’olfatto?",
+          "term": "Iposmia",
+          "kind": "term",
+          "accepted": [
+            "Iposmia"
+          ],
+          "id": "rapid-iposmia",
+          "apparato": "Sistema nervoso",
+          "organo": "Olfatto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 20,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 4,
+            "sourceId": "appunti-4"
+          },
+          "sourceId": "pdf-appunti-4",
+          "curated": true,
+          "warning": "La voce originale sull’ipofisite contiene testo copiato sui disturbi dell’olfatto. Qui si ripassano solo i termini olfattivi descritti; il testo originale resta nell’archivio."
+        },
+        {
+          "def": "Come si chiama l’aumento della sensibilità agli odori?",
+          "term": "Iperosmia",
+          "kind": "term",
+          "accepted": [
+            "Iperosmia"
+          ],
+          "id": "rapid-iperosmia",
+          "apparato": "Sistema nervoso",
+          "organo": "Olfatto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 20,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 4,
+            "sourceId": "appunti-4"
+          },
+          "sourceId": "pdf-appunti-4",
+          "curated": true,
+          "warning": "La voce originale sull’ipofisite contiene testo copiato sui disturbi dell’olfatto. Qui si ripassano solo i termini olfattivi descritti; il testo originale resta nell’archivio."
+        },
+        {
+          "def": "Come si chiama la percezione distorta di un odore presente?",
+          "term": "Parosmia",
+          "kind": "term",
+          "accepted": [
+            "Parosmia"
+          ],
+          "id": "rapid-parosmia",
+          "apparato": "Sistema nervoso",
+          "organo": "Olfatto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 20,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 4,
+            "sourceId": "appunti-4"
+          },
+          "sourceId": "pdf-appunti-4",
+          "curated": true,
+          "warning": "La voce originale sull’ipofisite contiene testo copiato sui disturbi dell’olfatto. Qui si ripassano solo i termini olfattivi descritti; il testo originale resta nell’archivio."
+        },
+        {
+          "def": "Come si chiama la percezione di un odore in assenza di uno stimolo reale?",
+          "term": "Fantosmia",
+          "kind": "term",
+          "accepted": [
+            "Fantosmia"
+          ],
+          "id": "rapid-fantosmia",
+          "apparato": "Sistema nervoso",
+          "organo": "Olfatto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 20,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 4,
+            "sourceId": "appunti-4"
+          },
+          "sourceId": "pdf-appunti-4",
+          "curated": true,
+          "warning": "La voce originale sull’ipofisite contiene testo copiato sui disturbi dell’olfatto. Qui si ripassano solo i termini olfattivi descritti; il testo originale resta nell’archivio."
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-8"
+      ],
+      "cards": [
+        {
+          "def": "Che cosa significa OGTT?",
+          "term": "Test da carico orale di glucosio",
+          "kind": "term",
+          "accepted": [
+            "Test da carico orale di glucosio",
+            "oral glucose tolerance test",
+            "curva da carico orale di glucosio"
+          ],
+          "id": "rapid-ogtt-significato",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 21,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 8,
+            "sourceId": "appunti-8"
+          },
+          "sourceId": "pdf-appunti-8",
+          "curated": true
+        },
+        {
+          "def": "Completa i 3 dati della procedura OGTT nell’adulto descritta.",
+          "term": "8 ore; 75 g; 2 ore",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Digiuno minimo",
+              "answer": "8 ore",
+              "accepted": [
+                "8 ore",
+                "8",
+                "otto ore"
+              ]
+            },
+            {
+              "label": "Glucosio per os",
+              "answer": "75 g",
+              "accepted": [
+                "75 g",
+                "75",
+                "75 grammi"
+              ]
+            },
+            {
+              "label": "Controllo dopo il carico",
+              "answer": "2 ore",
+              "accepted": [
+                "2 ore",
+                "2",
+                "due ore"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-ogtt-procedura",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 21,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 8,
+            "sourceId": "appunti-8"
+          },
+          "sourceId": "pdf-appunti-8",
+          "curated": true
+        },
+        {
+          "def": "Completa le categorie della glicemia a 2 ore dopo OGTT secondo la scheda.",
+          "term": "Normale; Ridotta tolleranza al glucosio; Diabete mellito",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "< 140 mg/dL",
+              "answer": "Normale",
+              "accepted": [
+                "Normale",
+                "normalità"
+              ]
+            },
+            {
+              "label": "140–199 mg/dL",
+              "answer": "Ridotta tolleranza al glucosio",
+              "accepted": [
+                "Ridotta tolleranza al glucosio",
+                "IGT",
+                "prediabete"
+              ]
+            },
+            {
+              "label": "≥ 200 mg/dL",
+              "answer": "Diabete mellito",
+              "accepted": [
+                "Diabete mellito",
+                "diabete"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-ogtt-soglie",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 21,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 8,
+            "sourceId": "appunti-8"
+          },
+          "sourceId": "pdf-appunti-8",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-9"
+      ],
+      "cards": [
+        {
+          "def": "Quale pressione diminuisce nell’edema da grave ipoalbuminemia?",
+          "term": "Pressione oncotica plasmatica",
+          "kind": "term",
+          "accepted": [
+            "Pressione oncotica plasmatica",
+            "pressione oncotica",
+            "pressione colloidosmotica"
+          ],
+          "id": "rapid-ipoalbuminemia-edema",
+          "apparato": "Semeiotica generale",
+          "organo": "Esame obiettivo e laboratorio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 22,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 9,
+            "sourceId": "appunti-9"
+          },
+          "sourceId": "pdf-appunti-9",
+          "curated": true,
+          "warning": "La scheda originale riporta un’unità di misura dell’albumina incoerente. Il ripasso riguarda il meccanismo dell’edema, non quel valore numerico."
+        },
+        {
+          "def": "La pressione idrostatica capillare favorisce quale movimento dell’acqua?",
+          "term": "Favorisce l’uscita di acqua dal capillare verso l’interstizio.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-pressione-idrostatica",
+          "apparato": "Semeiotica generale",
+          "organo": "Esame obiettivo e laboratorio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 22,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 9,
+            "sourceId": "appunti-9"
+          },
+          "sourceId": "pdf-appunti-9",
+          "curated": true,
+          "warning": "La scheda originale riporta un’unità di misura dell’albumina incoerente. Il ripasso riguarda il meccanismo dell’edema, non quel valore numerico."
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-182"
+      ],
+      "cards": [
+        {
+          "def": "Scrivi il nome delle 5 lesioni descritte.",
+          "term": "Macula; Papula; Nodulo; Vescicola; Pustola",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Non rilevata; cambia il colore",
+              "answer": "Macula",
+              "accepted": [
+                "Macula",
+                "macchia"
+              ]
+            },
+            {
+              "label": "Piccola, rilevata e solida",
+              "answer": "Papula",
+              "accepted": [
+                "Papula"
+              ]
+            },
+            {
+              "label": "Solida e più profonda",
+              "answer": "Nodulo",
+              "accepted": [
+                "Nodulo"
+              ]
+            },
+            {
+              "label": "Piccola, con liquido chiaro",
+              "answer": "Vescicola",
+              "accepted": [
+                "Vescicola"
+              ]
+            },
+            {
+              "label": "Con liquido torbido o purulento",
+              "answer": "Pustola",
+              "accepted": [
+                "Pustola"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-cute-lesioni-caselle",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 40,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 182,
+            "sourceId": "appunti-182"
+          },
+          "sourceId": "pdf-appunti-182",
+          "curated": true
+        },
+        {
+          "def": "Come si chiama una lesione a contenuto liquido più grande di una vescicola?",
+          "term": "Bolla",
+          "kind": "term",
+          "accepted": [
+            "Bolla"
+          ],
+          "id": "rapid-cute-bolla",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 40,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 182,
+            "sourceId": "appunti-182"
+          },
+          "sourceId": "pdf-appunti-182",
+          "curated": true
+        },
+        {
+          "def": "Le petecchie scompaiono alla vitropressione?",
+          "term": "No",
+          "kind": "term",
+          "accepted": [
+            "No",
+            "non scompaiono"
+          ],
+          "id": "rapid-petecchie-vitropressione",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 40,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 182,
+            "sourceId": "appunti-182"
+          },
+          "sourceId": "pdf-appunti-182",
+          "curated": true
+        },
+        {
+          "def": "Perché le petecchie non scompaiono alla vitropressione?",
+          "term": "Il sangue è fuori dai vasi, nei tessuti.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-petecchie-meccanismo",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 40,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 182,
+            "sourceId": "appunti-182"
+          },
+          "sourceId": "pdf-appunti-182",
+          "curated": true
+        },
+        {
+          "def": "L’eritema da vasodilatazione tende a sbiancare alla vitropressione?",
+          "term": "Sì",
+          "kind": "term",
+          "accepted": [
+            "Sì",
+            "si",
+            "sbianca"
+          ],
+          "id": "rapid-eritema-vitropressione",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 40,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 182,
+            "sourceId": "appunti-182"
+          },
+          "sourceId": "pdf-appunti-182",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-190"
+      ],
+      "cards": [
+        {
+          "def": "Risalita passiva del contenuto gastrico o esofageo in bocca, senza conati: quale termine?",
+          "term": "Rigurgito",
+          "kind": "term",
+          "accepted": [
+            "Rigurgito"
+          ],
+          "id": "rapid-rigurgito",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 190,
+            "sourceId": "appunti-190"
+          },
+          "sourceId": "pdf-appunti-190",
+          "curated": true
+        },
+        {
+          "def": "Quale differenza distingue rigurgito e vomito?",
+          "term": "Il rigurgito è passivo; il vomito è un’espulsione attiva, generalmente con nausea e conati.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-rigurgito-vomito",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 190,
+            "sourceId": "appunti-190"
+          },
+          "sourceId": "pdf-appunti-190",
+          "curated": true
+        },
+        {
+          "def": "Rigurgito ripetuto del cibo seguito da rimasticazione: quale termine?",
+          "term": "Ruminazione",
+          "kind": "term",
+          "accepted": [
+            "Ruminazione"
+          ],
+          "id": "rapid-ruminazione",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 190,
+            "sourceId": "appunti-190"
+          },
+          "sourceId": "pdf-appunti-190",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-192"
+      ],
+      "cards": [
+        {
+          "def": "Come varia la temperatura nella febbre remittente descritta?",
+          "term": "Oscilla di oltre 1 °C, senza tornare ai valori normali nella giornata.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-febbre-remittente",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 192,
+            "sourceId": "appunti-192"
+          },
+          "sourceId": "pdf-appunti-192",
+          "curated": true
+        },
+        {
+          "def": "Quale pattern febbrile alterna rialzi e ritorno a valori normali?",
+          "term": "Febbre intermittente",
+          "kind": "term",
+          "accepted": [
+            "Febbre intermittente",
+            "intermittente"
+          ],
+          "id": "rapid-febbre-intermittente",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 192,
+            "sourceId": "appunti-192"
+          },
+          "sourceId": "pdf-appunti-192",
+          "curated": true
+        },
+        {
+          "def": "Cita due associazioni classiche della febbre remittente nella scheda.",
+          "term": "Endocardite infettiva e tubercolosi; è citata anche la sepsi.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-febbre-remittente-associazioni",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 42,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 192,
+            "sourceId": "appunti-192"
+          },
+          "sourceId": "pdf-appunti-192",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-201"
+      ],
+      "cards": [
+        {
+          "def": "Quale intossicazione è chiamata saturnismo?",
+          "term": "Intossicazione da piombo",
+          "kind": "term",
+          "accepted": [
+            "Intossicazione da piombo",
+            "piombo",
+            "accumulo di piombo"
+          ],
+          "id": "rapid-saturnismo",
+          "apparato": "Semeiotica generale",
+          "organo": "Argomenti trasversali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 201,
+            "sourceId": "appunti-201"
+          },
+          "sourceId": "pdf-appunti-201",
+          "curated": true
+        },
+        {
+          "def": "Come si chiama la linea blu-nerastra gengivale associata al saturnismo?",
+          "term": "Linea di Burton",
+          "kind": "term",
+          "accepted": [
+            "Linea di Burton",
+            "Burton"
+          ],
+          "id": "rapid-linea-burton",
+          "apparato": "Semeiotica generale",
+          "organo": "Argomenti trasversali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 201,
+            "sourceId": "appunti-201"
+          },
+          "sourceId": "pdf-appunti-201",
+          "curated": true
+        },
+        {
+          "def": "Quale tipo di anemia è indicato tra i segni classici del saturnismo?",
+          "term": "Anemia sideroblastica",
+          "kind": "term",
+          "accepted": [
+            "Anemia sideroblastica",
+            "sideroblastica"
+          ],
+          "id": "rapid-saturnismo-anemia",
+          "apparato": "Semeiotica generale",
+          "organo": "Argomenti trasversali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 201,
+            "sourceId": "appunti-201"
+          },
+          "sourceId": "pdf-appunti-201",
+          "curated": true
+        },
+        {
+          "def": "Come si chiama la colica addominale da intossicazione da piombo?",
+          "term": "Colica saturnina",
+          "kind": "term",
+          "accepted": [
+            "Colica saturnina",
+            "colica da piombo"
+          ],
+          "id": "rapid-saturnismo-colica",
+          "apparato": "Semeiotica generale",
+          "organo": "Argomenti trasversali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 201,
+            "sourceId": "appunti-201"
+          },
+          "sourceId": "pdf-appunti-201",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-203"
+      ],
+      "cards": [
+        {
+          "def": "Ptosi fluttuante che peggiora con lo sforzo: quale causa suggerisce la scheda?",
+          "term": "Miastenia gravis",
+          "kind": "term",
+          "accepted": [
+            "Miastenia gravis",
+            "miastenia"
+          ],
+          "id": "rapid-ptosi-miastenia",
+          "apparato": "Sistema nervoso",
+          "organo": "Esame neurologico e sintomi",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 45,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 203,
+            "sourceId": "appunti-203"
+          },
+          "sourceId": "pdf-appunti-203",
+          "curated": true
+        },
+        {
+          "def": "Quali sono i 3 segni della sindrome di Horner riportati?",
+          "term": "Ptosi; Miosi; Anidrosi",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Segno 1",
+              "answer": "Ptosi",
+              "accepted": [
+                "Ptosi",
+                "ptosi palpebrale"
+              ]
+            },
+            {
+              "label": "Segno 2",
+              "answer": "Miosi",
+              "accepted": [
+                "Miosi"
+              ]
+            },
+            {
+              "label": "Segno 3",
+              "answer": "Anidrosi",
+              "accepted": [
+                "Anidrosi"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-horner-triade",
+          "apparato": "Sistema nervoso",
+          "organo": "Esame neurologico e sintomi",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 45,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 203,
+            "sourceId": "appunti-203"
+          },
+          "sourceId": "pdf-appunti-203",
+          "curated": true
+        },
+        {
+          "def": "Quale meccanismo aponeurotico è descritto nella ptosi senile?",
+          "term": "Disinserzione del tendine dell’elevatore",
+          "kind": "term",
+          "accepted": [
+            "Disinserzione del tendine dell’elevatore",
+            "disinserzione aponeurotica",
+            "disinserzione dell’aponeurosi dell’elevatore"
+          ],
+          "id": "rapid-ptosi-senile",
+          "apparato": "Sistema nervoso",
+          "organo": "Esame neurologico e sintomi",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 45,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 203,
+            "sourceId": "appunti-203"
+          },
+          "sourceId": "pdf-appunti-203",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-204"
+      ],
+      "cards": [
+        {
+          "def": "Completa i 3 meccanismi centrali della sclerosi sistemica.",
+          "term": "Autoimmunità; Vasculopatia; Fibrosi",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Meccanismo 1",
+              "answer": "Autoimmunità",
+              "accepted": [
+                "Autoimmunità",
+                "autoimmunita"
+              ]
+            },
+            {
+              "label": "Meccanismo 2",
+              "answer": "Vasculopatia",
+              "accepted": [
+                "Vasculopatia"
+              ]
+            },
+            {
+              "label": "Meccanismo 3",
+              "answer": "Fibrosi",
+              "accepted": [
+                "Fibrosi"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-sclerosi-sistemica-meccanismi",
+          "apparato": "Cute e tegumenti",
+          "organo": "Esame della cute e del volto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 204,
+            "sourceId": "appunti-204"
+          },
+          "sourceId": "pdf-appunti-204",
+          "curated": true
+        },
+        {
+          "def": "Quale alterazione dei fibroblasti contribuisce alla fibrosi nella sclerosi sistemica?",
+          "term": "Produzione eccessiva di collagene, con ispessimento e indurimento dei tessuti.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-sclerosi-sistemica-fibrosi",
+          "apparato": "Cute e tegumenti",
+          "organo": "Esame della cute e del volto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 204,
+            "sourceId": "appunti-204"
+          },
+          "sourceId": "pdf-appunti-204",
+          "curated": true
+        },
+        {
+          "def": "A quali manifestazioni contribuisce la vasculopatia della sclerosi sistemica?",
+          "term": "Ischemia dei tessuti, fenomeno di Raynaud e ulcere digitali.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-sclerosi-sistemica-vasi",
+          "apparato": "Cute e tegumenti",
+          "organo": "Esame della cute e del volto",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 204,
+            "sourceId": "appunti-204"
+          },
+          "sourceId": "pdf-appunti-204",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-206"
+      ],
+      "cards": [
+        {
+          "def": "Qual è il primo esame misurato nel TSH reflex?",
+          "term": "TSH",
+          "kind": "term",
+          "accepted": [
+            "TSH"
+          ],
+          "id": "rapid-tsh-reflex-primo",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Tiroide",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 206,
+            "sourceId": "appunti-206"
+          },
+          "sourceId": "pdf-appunti-206",
+          "curated": true
+        },
+        {
+          "def": "Nel percorso TSH reflex descritto, cosa accade se il TSH è alterato?",
+          "term": "Il laboratorio esegue automaticamente FT4 e, secondo il protocollo, talvolta FT3.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-tsh-reflex-secondo",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Tiroide",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 206,
+            "sourceId": "appunti-206"
+          },
+          "sourceId": "pdf-appunti-206",
+          "curated": true
+        },
+        {
+          "def": "Associa il pattern ormonale al quadro tiroideo primitivo.",
+          "term": "Ipotiroidismo; Ipertiroidismo",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "TSH alto, FT4 basso",
+              "answer": "Ipotiroidismo",
+              "accepted": [
+                "Ipotiroidismo",
+                "ipotiroidismo primitivo"
+              ]
+            },
+            {
+              "label": "TSH basso, FT4 alto",
+              "answer": "Ipertiroidismo",
+              "accepted": [
+                "Ipertiroidismo",
+                "ipertiroidismo primitivo"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-tiroide-pattern",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Tiroide",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 46,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 206,
+            "sourceId": "appunti-206"
+          },
+          "sourceId": "pdf-appunti-206",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-207"
+      ],
+      "cards": [
+        {
+          "def": "Che cosa indica FUO?",
+          "term": "Febbre di origine sconosciuta",
+          "kind": "term",
+          "accepted": [
+            "Febbre di origine sconosciuta",
+            "fever of unknown origin"
+          ],
+          "id": "rapid-fuo-acronimo",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 47,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 207,
+            "sourceId": "appunti-207"
+          },
+          "sourceId": "pdf-appunti-207",
+          "curated": true
+        },
+        {
+          "def": "Completa i 3 criteri classici FUO riportati nella scheda.",
+          "term": "38,3 °C; 3 settimane; 1 settimana",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Temperatura superiore a",
+              "answer": "38,3 °C",
+              "accepted": [
+                "38,3 °C",
+                "38.3",
+                "38,3"
+              ]
+            },
+            {
+              "label": "Durata superiore a",
+              "answer": "3 settimane",
+              "accepted": [
+                "3 settimane",
+                "tre settimane",
+                "3"
+              ]
+            },
+            {
+              "label": "Accertamenti senza diagnosi per almeno",
+              "answer": "1 settimana",
+              "accepted": [
+                "1 settimana",
+                "una settimana",
+                "1"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-fuo-criteri-classici",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 47,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 207,
+            "sourceId": "appunti-207"
+          },
+          "sourceId": "pdf-appunti-207",
+          "curated": true
+        },
+        {
+          "def": "Quali sono i 3 grandi gruppi di cause FUO riportati?",
+          "term": "Infezioni; Neoplasie; Malattie infiammatorie o autoimmuni",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Gruppo 1",
+              "answer": "Infezioni",
+              "accepted": [
+                "Infezioni",
+                "cause infettive"
+              ]
+            },
+            {
+              "label": "Gruppo 2",
+              "answer": "Neoplasie",
+              "accepted": [
+                "Neoplasie",
+                "tumori",
+                "cause neoplastiche"
+              ]
+            },
+            {
+              "label": "Gruppo 3",
+              "answer": "Malattie infiammatorie o autoimmuni",
+              "accepted": [
+                "Malattie infiammatorie o autoimmuni",
+                "malattie autoimmuni",
+                "malattie infiammatorie"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-fuo-cause",
+          "apparato": "Semeiotica generale",
+          "organo": "Febbre, infezioni e infiammazione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 47,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 207,
+            "sourceId": "appunti-207"
+          },
+          "sourceId": "pdf-appunti-207",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-211"
+      ],
+      "cards": [
+        {
+          "def": "Qual è la funzione del liquido pericardico?",
+          "term": "Riduce l’attrito e permette lo scorrimento del cuore durante i movimenti.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-liquido-pericardico-funzione",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Cuore e pericardio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 211,
+            "sourceId": "appunti-211"
+          },
+          "sourceId": "pdf-appunti-211",
+          "curated": true
+        },
+        {
+          "def": "Qual è la quantità normale di liquido pericardico indicata nella scheda?",
+          "term": "15–50 mL",
+          "kind": "term",
+          "accepted": [
+            "15–50 mL",
+            "15-50 ml",
+            "da 15 a 50 ml"
+          ],
+          "id": "rapid-liquido-pericardico-quantita",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Cuore e pericardio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 211,
+            "sourceId": "appunti-211"
+          },
+          "sourceId": "pdf-appunti-211",
+          "curated": true
+        },
+        {
+          "def": "Come si chiama l’aumento patologico del liquido pericardico?",
+          "term": "Versamento pericardico",
+          "kind": "term",
+          "accepted": [
+            "Versamento pericardico"
+          ],
+          "id": "rapid-versamento-pericardico",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Cuore e pericardio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 211,
+            "sourceId": "appunti-211"
+          },
+          "sourceId": "pdf-appunti-211",
+          "curated": true
+        },
+        {
+          "def": "Il liquido pericardico comprime il cuore e ne compromette il riempimento: quale emergenza?",
+          "term": "Tamponamento cardiaco",
+          "kind": "term",
+          "accepted": [
+            "Tamponamento cardiaco",
+            "tamponamento"
+          ],
+          "id": "rapid-tamponamento",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Cuore e pericardio",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 211,
+            "sourceId": "appunti-211"
+          },
+          "sourceId": "pdf-appunti-211",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-212"
+      ],
+      "cards": [
+        {
+          "def": "Quale sigla indica il DNA libero circolante nel sangue?",
+          "term": "cfDNA",
+          "kind": "term",
+          "accepted": [
+            "cfDNA",
+            "circulating free DNA"
+          ],
+          "id": "rapid-cfdna",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 212,
+            "sourceId": "appunti-212"
+          },
+          "sourceId": "pdf-appunti-212",
+          "curated": true
+        },
+        {
+          "def": "Quale sigla indica la componente tumorale del DNA libero circolante?",
+          "term": "ctDNA",
+          "kind": "term",
+          "accepted": [
+            "ctDNA",
+            "DNA tumorale circolante"
+          ],
+          "id": "rapid-ctdna",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 212,
+            "sourceId": "appunti-212"
+          },
+          "sourceId": "pdf-appunti-212",
+          "curated": true
+        },
+        {
+          "def": "Completa 3 ambiti di impiego del cfDNA citati nella scheda.",
+          "term": "Biopsia liquida; NIPT; DNA del donatore",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Tumori",
+              "answer": "Biopsia liquida",
+              "accepted": [
+                "Biopsia liquida",
+                "oncologia"
+              ]
+            },
+            {
+              "label": "Screening prenatale",
+              "answer": "NIPT",
+              "accepted": [
+                "NIPT",
+                "test prenatale non invasivo"
+              ]
+            },
+            {
+              "label": "Trapianti",
+              "answer": "DNA del donatore",
+              "accepted": [
+                "DNA del donatore",
+                "monitoraggio del rifiuto"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-cfdna-applicazioni",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 48,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 212,
+            "sourceId": "appunti-212"
+          },
+          "sourceId": "pdf-appunti-212",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-213"
+      ],
+      "cards": [
+        {
+          "def": "Completa le alterazioni della frequenza delle mestruazioni.",
+          "term": "Polimenorrea; Oligomenorrea; Amenorrea",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Cicli ravvicinati",
+              "answer": "Polimenorrea",
+              "accepted": [
+                "Polimenorrea"
+              ]
+            },
+            {
+              "label": "Cicli distanziati",
+              "answer": "Oligomenorrea",
+              "accepted": [
+                "Oligomenorrea"
+              ]
+            },
+            {
+              "label": "Assenza di mestruazioni",
+              "answer": "Amenorrea",
+              "accepted": [
+                "Amenorrea"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-mestruazioni-frequenza",
+          "apparato": "Apparato genitale",
+          "organo": "Ciclo mestruale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 49,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 213,
+            "sourceId": "appunti-213"
+          },
+          "sourceId": "pdf-appunti-213",
+          "curated": true,
+          "warning": "Termini tradizionali della dispensa. Quantità del flusso, giorni di sanguinamento e intervallo fra cicli sono ripassati separatamente."
+        },
+        {
+          "def": "Completa le alterazioni della quantità del flusso.",
+          "term": "Ipermenorrea; Ipomenorrea",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Flusso abbondante, durata normale",
+              "answer": "Ipermenorrea",
+              "accepted": [
+                "Ipermenorrea"
+              ]
+            },
+            {
+              "label": "Flusso scarso",
+              "answer": "Ipomenorrea",
+              "accepted": [
+                "Ipomenorrea"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-mestruazioni-quantita",
+          "apparato": "Apparato genitale",
+          "organo": "Ciclo mestruale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 49,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 213,
+            "sourceId": "appunti-213"
+          },
+          "sourceId": "pdf-appunti-213",
+          "curated": true,
+          "warning": "Termini tradizionali della dispensa. Quantità del flusso, giorni di sanguinamento e intervallo fra cicli sono ripassati separatamente."
+        },
+        {
+          "def": "Flusso abbondante e prolungato: quale termine usa la scheda?",
+          "term": "Menorragia",
+          "kind": "term",
+          "accepted": [
+            "Menorragia"
+          ],
+          "id": "rapid-mestruazioni-durata",
+          "apparato": "Apparato genitale",
+          "organo": "Ciclo mestruale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 49,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 213,
+            "sourceId": "appunti-213"
+          },
+          "sourceId": "pdf-appunti-213",
+          "curated": true,
+          "warning": "Termini tradizionali della dispensa. Quantità del flusso, giorni di sanguinamento e intervallo fra cicli sono ripassati separatamente."
+        },
+        {
+          "def": "Sanguinamento fra una mestruazione e l’altra: quale termine usa la scheda?",
+          "term": "Metrorragia",
+          "kind": "term",
+          "accepted": [
+            "Metrorragia"
+          ],
+          "id": "rapid-mestruazioni-intermestruale",
+          "apparato": "Apparato genitale",
+          "organo": "Ciclo mestruale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 49,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 213,
+            "sourceId": "appunti-213"
+          },
+          "sourceId": "pdf-appunti-213",
+          "curated": true,
+          "warning": "Termini tradizionali della dispensa. Quantità del flusso, giorni di sanguinamento e intervallo fra cicli sono ripassati separatamente."
+        },
+        {
+          "def": "Frequenza del ciclo e durata del flusso: che cosa misurano?",
+          "term": "La frequenza riguarda l’intervallo fra mestruazioni; la durata riguarda i giorni di sanguinamento.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-mestruazioni-distinzioni",
+          "apparato": "Apparato genitale",
+          "organo": "Ciclo mestruale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 49,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 213,
+            "sourceId": "appunti-213"
+          },
+          "sourceId": "pdf-appunti-213",
+          "curated": true,
+          "warning": "Termini tradizionali della dispensa. Quantità del flusso, giorni di sanguinamento e intervallo fra cicli sono ripassati separatamente."
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-216"
+      ],
+      "cards": [
+        {
+          "def": "Completa i 5 elementi del quadro chetoacidosico descritto.",
+          "term": "Glicemia > 250 mg/dL; pH < 7,30; bicarbonati < 18 mEq/L; chetoni e anion gap aumentati.",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Glicemia > … mg/dL, nella scheda",
+              "answer": "250",
+              "accepted": [
+                "250",
+                "250 mg/dL"
+              ]
+            },
+            {
+              "label": "pH < …",
+              "answer": "7,30",
+              "accepted": [
+                "7,30",
+                "7.30",
+                "7,3",
+                "7.3"
+              ]
+            },
+            {
+              "label": "Bicarbonati < … mEq/L",
+              "answer": "18",
+              "accepted": [
+                "18",
+                "18 mEq/L"
+              ]
+            },
+            {
+              "label": "Chetoni",
+              "answer": "Aumentati",
+              "accepted": [
+                "Aumentati",
+                "chetonemia e chetonuria",
+                "positivi"
+              ]
+            },
+            {
+              "label": "Anion gap",
+              "answer": "Aumentato",
+              "accepted": [
+                "Aumentato",
+                "alto",
+                "elevato"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-chetoacidosi-laboratorio",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 50,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 216,
+            "sourceId": "appunti-216"
+          },
+          "sourceId": "pdf-appunti-216",
+          "curated": true,
+          "warning": "Le soglie riportate sono quelle della scheda di studio; non sostituiscono criteri clinici aggiornati."
+        },
+        {
+          "def": "Nella chetoacidosi, un potassio sierico inizialmente alto esclude la deplezione totale?",
+          "term": "No. Il potassio corporeo totale può essere ridotto per perdite urinarie.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-chetoacidosi-potassio",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 50,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 216,
+            "sourceId": "appunti-216"
+          },
+          "sourceId": "pdf-appunti-216",
+          "curated": true,
+          "warning": "Le soglie riportate sono quelle della scheda di studio; non sostituiscono criteri clinici aggiornati."
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-221"
+      ],
+      "cards": [
+        {
+          "def": "Completa le 3 manifestazioni da chiedere nell’anamnesi del sanguinamento gastrico.",
+          "term": "Ematemesi; Vomito caffeano; Melena",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Vomito con sangue",
+              "answer": "Ematemesi",
+              "accepted": [
+                "Ematemesi"
+              ]
+            },
+            {
+              "label": "Vomito scuro a fondo di caffè",
+              "answer": "Vomito caffeano",
+              "accepted": [
+                "Vomito caffeano",
+                "vomito caffeico"
+              ]
+            },
+            {
+              "label": "Feci nere da sangue digerito",
+              "answer": "Melena",
+              "accepted": [
+                "Melena"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-sanguinamento-gastrico-forme",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Stomaco ed emorragie digestive",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 51,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 221,
+            "sourceId": "appunti-221"
+          },
+          "sourceId": "pdf-appunti-221",
+          "curated": true
+        },
+        {
+          "def": "Quali aspetti rapidi aiutano a stimare la gravità di un sanguinamento gastrico?",
+          "term": "Quantità di sangue, ripetizione degli episodi e segni di instabilità come capogiri, lipotimia, tachicardia o sincope.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-sanguinamento-gastrico-gravita",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Stomaco ed emorragie digestive",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 51,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 221,
+            "sourceId": "appunti-221"
+          },
+          "sourceId": "pdf-appunti-221",
+          "curated": true
+        },
+        {
+          "def": "Quali 2 gruppi di farmaci vanno ricercati nella scheda anamnestica?",
+          "term": "FANS o ASA; Anticoagulanti",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Gruppo 1",
+              "answer": "FANS o ASA",
+              "accepted": [
+                "FANS o ASA",
+                "FANS",
+                "aspirina",
+                "ASA"
+              ]
+            },
+            {
+              "label": "Gruppo 2",
+              "answer": "Anticoagulanti",
+              "accepted": [
+                "Anticoagulanti",
+                "warfarin",
+                "DOAC"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-sanguinamento-gastrico-farmaci",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Stomaco ed emorragie digestive",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 51,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 221,
+            "sourceId": "appunti-221"
+          },
+          "sourceId": "pdf-appunti-221",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-222"
+      ],
+      "cards": [
+        {
+          "def": "Quale esame osserva direttamente la motilità delle corde vocali?",
+          "term": "Laringoscopia",
+          "kind": "term",
+          "accepted": [
+            "Laringoscopia",
+            "fibrolaringoscopia"
+          ],
+          "id": "rapid-motilita-laringea-esame",
+          "apparato": "Apparato respiratorio",
+          "organo": "Laringe",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 222,
+            "sourceId": "appunti-222"
+          },
+          "sourceId": "pdf-appunti-222",
+          "curated": true
+        },
+        {
+          "def": "Completa i movimenti delle corde vocali.",
+          "term": "Abduzione; Adduzione",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Inspirazione",
+              "answer": "Abduzione",
+              "accepted": [
+                "Abduzione"
+              ]
+            },
+            {
+              "label": "Fonazione",
+              "answer": "Adduzione",
+              "accepted": [
+                "Adduzione"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-corde-vocali-movimenti",
+          "apparato": "Apparato respiratorio",
+          "organo": "Laringe",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 222,
+            "sourceId": "appunti-222"
+          },
+          "sourceId": "pdf-appunti-222",
+          "curated": true
+        },
+        {
+          "def": "Quali anomalie dei movimenti si cercano valutando le corde vocali?",
+          "term": "Asimmetria e paralisi o paresi di una o entrambe le corde vocali.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-motilita-laringea-simmetria",
+          "apparato": "Apparato respiratorio",
+          "organo": "Laringe",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 222,
+            "sourceId": "appunti-222"
+          },
+          "sourceId": "pdf-appunti-222",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-223"
+      ],
+      "cards": [
+        {
+          "def": "Quale esposizione causa la silicosi?",
+          "term": "Inalazione cronica di silice cristallina",
+          "kind": "term",
+          "accepted": [
+            "Inalazione cronica di silice cristallina",
+            "silice cristallina",
+            "inalazione di silice"
+          ],
+          "id": "rapid-silicosi-causa",
+          "apparato": "Apparato respiratorio",
+          "organo": "Polmone e funzione respiratoria",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 223,
+            "sourceId": "appunti-223"
+          },
+          "sourceId": "pdf-appunti-223",
+          "curated": true
+        },
+        {
+          "def": "Quale danno polmonare produce la silice nella scheda?",
+          "term": "Infiammazione cronica, fibrosi progressiva e formazione di noduli fibrotici.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-silicosi-meccanismo",
+          "apparato": "Apparato respiratorio",
+          "organo": "Polmone e funzione respiratoria",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 223,
+            "sourceId": "appunti-223"
+          },
+          "sourceId": "pdf-appunti-223",
+          "curated": true
+        },
+        {
+          "def": "Quale infezione è favorita dalla silicosi secondo la scheda?",
+          "term": "Tubercolosi",
+          "kind": "term",
+          "accepted": [
+            "Tubercolosi",
+            "TBC"
+          ],
+          "id": "rapid-silicosi-infezione",
+          "apparato": "Apparato respiratorio",
+          "organo": "Polmone e funzione respiratoria",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 52,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 223,
+            "sourceId": "appunti-223"
+          },
+          "sourceId": "pdf-appunti-223",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-228"
+      ],
+      "cards": [
+        {
+          "def": "Quale sensibilità viene esplorata principalmente con la prova di Romberg?",
+          "term": "Sensibilità propriocettiva",
+          "kind": "term",
+          "accepted": [
+            "Sensibilità propriocettiva",
+            "propriocezione",
+            "sensibilita propriocettiva"
+          ],
+          "id": "rapid-romberg-funzione",
+          "apparato": "Sistema nervoso",
+          "organo": "Equilibrio e sensibilità",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 53,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 228,
+            "sourceId": "appunti-228"
+          },
+          "sourceId": "pdf-appunti-228",
+          "curated": true
+        },
+        {
+          "def": "Quando si considera positivo il Romberg nella descrizione della scheda?",
+          "term": "Il paziente mantiene l’equilibrio a occhi aperti, ma oscilla o cade quando li chiude.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-romberg-positivo",
+          "apparato": "Sistema nervoso",
+          "organo": "Equilibrio e sensibilità",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 53,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 228,
+            "sourceId": "appunti-228"
+          },
+          "sourceId": "pdf-appunti-228",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-279"
+      ],
+      "cards": [
+        {
+          "def": "Quali sono i 3 punti ureterali nominati nella scheda?",
+          "term": "Superiore; Medio; Inferiore",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Punto 1",
+              "answer": "Superiore",
+              "accepted": [
+                "Superiore",
+                "punto ureterale superiore"
+              ]
+            },
+            {
+              "label": "Punto 2",
+              "answer": "Medio",
+              "accepted": [
+                "Medio",
+                "punto ureterale medio"
+              ]
+            },
+            {
+              "label": "Punto 3",
+              "answer": "Inferiore",
+              "accepted": [
+                "Inferiore",
+                "punto ureterale inferiore"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-punti-ureterali",
+          "apparato": "Apparato urinario",
+          "organo": "Ureteri",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 57,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 279,
+            "sourceId": "appunti-279"
+          },
+          "sourceId": "pdf-appunti-279",
+          "curated": true,
+          "warning": "La descrizione topografica originale dei punti ureterali richiede verifica sul materiale del corso; qui non viene trasformata in una risposta anatomica automatica."
+        },
+        {
+          "def": "Come si chiama il punto di passaggio dall’uretere alla vescica?",
+          "term": "Giunzione uretero-vescicale",
+          "kind": "term",
+          "accepted": [
+            "Giunzione uretero-vescicale",
+            "giunzione ureterovescicale"
+          ],
+          "id": "rapid-uretere-vescica",
+          "apparato": "Apparato urinario",
+          "organo": "Ureteri",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 57,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 279,
+            "sourceId": "appunti-279"
+          },
+          "sourceId": "pdf-appunti-279",
+          "curated": true,
+          "warning": "La descrizione topografica originale dei punti ureterali richiede verifica sul materiale del corso; qui non viene trasformata in una risposta anatomica automatica."
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-281"
+      ],
+      "cards": [
+        {
+          "def": "Minzioni frequenti, di piccolo volume e senza aumento della diuresi totale: quale termine?",
+          "term": "Pollachiuria",
+          "kind": "term",
+          "accepted": [
+            "Pollachiuria"
+          ],
+          "id": "rapid-pollachiuria-rapida",
+          "apparato": "Apparato urinario",
+          "organo": "Vescica e minzione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 58,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 281,
+            "sourceId": "appunti-281"
+          },
+          "sourceId": "pdf-appunti-281",
+          "curated": true
+        },
+        {
+          "def": "Minzione dolorosa, lenta e spesso a gocce: quale termine?",
+          "term": "Stranguria",
+          "kind": "term",
+          "accepted": [
+            "Stranguria"
+          ],
+          "id": "rapid-stranguria-rapida",
+          "apparato": "Apparato urinario",
+          "organo": "Vescica e minzione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 58,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 281,
+            "sourceId": "appunti-281"
+          },
+          "sourceId": "pdf-appunti-281",
+          "curated": true
+        },
+        {
+          "def": "Difficoltà o dolore durante la minzione: quale termine usa la scheda?",
+          "term": "Disuria",
+          "kind": "term",
+          "accepted": [
+            "Disuria"
+          ],
+          "id": "rapid-disuria-rapida",
+          "apparato": "Apparato urinario",
+          "organo": "Vescica e minzione",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 58,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 281,
+            "sourceId": "appunti-281"
+          },
+          "sourceId": "pdf-appunti-281",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-297"
+      ],
+      "cards": [
+        {
+          "def": "Quale informazione fornisce un profilo di espressione genica ottenuto con microarray?",
+          "term": "Confronta l’espressione dei geni tra campioni, ad esempio tessuti sani e patologici.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-microarray-espressione",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 60,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 297,
+            "sourceId": "appunti-297"
+          },
+          "sourceId": "pdf-appunti-297",
+          "curated": true
+        },
+        {
+          "def": "Quale tipo di array studia polimorfismi a singolo nucleotide?",
+          "term": "SNP array",
+          "kind": "term",
+          "accepted": [
+            "SNP array",
+            "SNP-array"
+          ],
+          "id": "rapid-snp-array",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 60,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 297,
+            "sourceId": "appunti-297"
+          },
+          "sourceId": "pdf-appunti-297",
+          "curated": true
+        },
+        {
+          "def": "Come può il microarray contribuire alla classificazione dei tumori?",
+          "term": "Identifica firme di espressione e sottotipi molecolari.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-microarray-oncologia",
+          "apparato": "Semeiotica generale",
+          "organo": "Diagnostica molecolare",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 60,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 297,
+            "sourceId": "appunti-297"
+          },
+          "sourceId": "pdf-appunti-297",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-307"
+      ],
+      "cards": [
+        {
+          "def": "Che cosa rende “funzionale” la dispepsia descritta nella scheda?",
+          "term": "È un disturbo gastroduodenale cronico senza lesioni strutturali dimostrabili.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-dispepsia-funzionale",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 61,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 307,
+            "sourceId": "appunti-307"
+          },
+          "sourceId": "pdf-appunti-307",
+          "curated": true
+        },
+        {
+          "def": "Quali 2 alterazioni della motilità sono citate nella dispepsia funzionale?",
+          "term": "Svuotamento gastrico rallentato e ridotta accomodazione del fondo gastrico.",
+          "kind": "study",
+          "reverse": true,
+          "id": "rapid-dispepsia-motilita",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 61,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 307,
+            "sourceId": "appunti-307"
+          },
+          "sourceId": "pdf-appunti-307",
+          "curated": true
+        },
+        {
+          "def": "Dolore o fastidio per una normale distensione gastrica: quale meccanismo?",
+          "term": "Ipersensibilità viscerale",
+          "kind": "term",
+          "accepted": [
+            "Ipersensibilità viscerale",
+            "ipersensibilita viscerale"
+          ],
+          "id": "rapid-dispepsia-sensibilita",
+          "apparato": "Apparato gastrointestinale",
+          "organo": "Esofago e stomaco",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 61,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 307,
+            "sourceId": "appunti-307"
+          },
+          "sourceId": "pdf-appunti-307",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-339"
+      ],
+      "cards": [
+        {
+          "def": "Confronta 4 marcatori nel quadro tipico riportato.",
+          "term": "Basso o assente; Positivi; Normale o aumentato; Negativi",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Tipo 1: C-peptide",
+              "answer": "Basso o assente",
+              "accepted": [
+                "Basso o assente",
+                "basso",
+                "assente"
+              ]
+            },
+            {
+              "label": "Tipo 1: autoanticorpi",
+              "answer": "Positivi",
+              "accepted": [
+                "Positivi",
+                "presenti"
+              ]
+            },
+            {
+              "label": "Tipo 2 iniziale: C-peptide",
+              "answer": "Normale o aumentato",
+              "accepted": [
+                "Normale o aumentato",
+                "normale",
+                "aumentato"
+              ]
+            },
+            {
+              "label": "Tipo 2: autoanticorpi",
+              "answer": "Negativi",
+              "accepted": [
+                "Negativi",
+                "assenti"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-diabete-tipo-1-2",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 63,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 339,
+            "sourceId": "appunti-339"
+          },
+          "sourceId": "pdf-appunti-339",
+          "curated": true
+        },
+        {
+          "def": "Quali 3 autoanticorpi del diabete tipo 1 sono nominati nella scheda?",
+          "term": "Anti-GAD; IA-2; ZnT8",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Anticorpo 1",
+              "answer": "Anti-GAD",
+              "accepted": [
+                "Anti-GAD",
+                "GAD",
+                "anti GAD"
+              ]
+            },
+            {
+              "label": "Anticorpo 2",
+              "answer": "IA-2",
+              "accepted": [
+                "IA-2",
+                "anti-IA2",
+                "IA2"
+              ]
+            },
+            {
+              "label": "Anticorpo 3",
+              "answer": "ZnT8",
+              "accepted": [
+                "ZnT8",
+                "anti-ZnT8"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-diabete-autoanticorpi",
+          "apparato": "Apparato endocrino e metabolismo",
+          "organo": "Diabete e metabolismo",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 63,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 339,
+            "sourceId": "appunti-339"
+          },
+          "sourceId": "pdf-appunti-339",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-14"
+      ],
+      "cards": [
+        {
+          "def": "Completa i 4 elementi della sindrome nefrosica riportati.",
+          "term": "Proteinuria > 3,5 g/24h; Ipoalbuminemia; Edemi; Iperlipidemia",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Proteine nelle urine",
+              "answer": "Proteinuria > 3,5 g/24h",
+              "accepted": [
+                "Proteinuria > 3,5 g/24h",
+                "proteinuria",
+                "proteinuria massiva"
+              ]
+            },
+            {
+              "label": "Albumina nel sangue",
+              "answer": "Ipoalbuminemia",
+              "accepted": [
+                "Ipoalbuminemia"
+              ]
+            },
+            {
+              "label": "Liquidi interstiziali",
+              "answer": "Edemi",
+              "accepted": [
+                "Edemi",
+                "edema"
+              ]
+            },
+            {
+              "label": "Lipidi nel sangue",
+              "answer": "Iperlipidemia",
+              "accepted": [
+                "Iperlipidemia",
+                "iperlipemia"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-sindrome-nefrosica",
+          "apparato": "Apparato urinario",
+          "organo": "Rene e sindromi renali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 22,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 14,
+            "sourceId": "appunti-14"
+          },
+          "sourceId": "pdf-appunti-14",
+          "curated": true
+        },
+        {
+          "def": "Quale meccanismo collega ipoalbuminemia ed edema nella sindrome nefrosica?",
+          "term": "Riduzione della pressione oncotica",
+          "kind": "term",
+          "accepted": [
+            "Riduzione della pressione oncotica",
+            "ridotta pressione oncotica"
+          ],
+          "id": "rapid-nefrosica-edema",
+          "apparato": "Apparato urinario",
+          "organo": "Rene e sindromi renali",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 22,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 14,
+            "sourceId": "appunti-14"
+          },
+          "sourceId": "pdf-appunti-14",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-16"
+      ],
+      "cards": [
+        {
+          "def": "Quali 2 toni cardiaci bassi si ricercano con la campana?",
+          "term": "S3; S4",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Tono 1",
+              "answer": "S3",
+              "accepted": [
+                "S3",
+                "terzo tono"
+              ]
+            },
+            {
+              "label": "Tono 2",
+              "answer": "S4",
+              "accepted": [
+                "S4",
+                "quarto tono"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-campana-toni",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Auscultazione cardiaca",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 23,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 16,
+            "sourceId": "appunti-16"
+          },
+          "sourceId": "pdf-appunti-16",
+          "curated": true
+        },
+        {
+          "def": "Quale soffio da stenosi valvolare a bassa frequenza è citato per la campana?",
+          "term": "Stenosi mitralica",
+          "kind": "term",
+          "accepted": [
+            "Stenosi mitralica",
+            "soffio della stenosi mitralica"
+          ],
+          "id": "rapid-campana-stenosi",
+          "apparato": "Apparato cardiovascolare",
+          "organo": "Auscultazione cardiaca",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 23,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 16,
+            "sourceId": "appunti-16"
+          },
+          "sourceId": "pdf-appunti-16",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-200"
+      ],
+      "cards": [
+        {
+          "def": "Movimenti ampi, violenti e lanciati, soprattutto prossimali: quale disturbo?",
+          "term": "Ballismo",
+          "kind": "term",
+          "accepted": [
+            "Ballismo"
+          ],
+          "id": "rapid-ballismo",
+          "apparato": "Sistema nervoso",
+          "organo": "Disturbi del movimento",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 200,
+            "sourceId": "appunti-200"
+          },
+          "sourceId": "pdf-appunti-200",
+          "curated": true
+        },
+        {
+          "def": "La lesione di quale nucleo è classicamente associata al ballismo nella scheda?",
+          "term": "Nucleo subtalamico di Luys",
+          "kind": "term",
+          "accepted": [
+            "Nucleo subtalamico di Luys",
+            "nucleo subtalamico",
+            "Luys"
+          ],
+          "id": "rapid-ballismo-nucleo",
+          "apparato": "Sistema nervoso",
+          "organo": "Disturbi del movimento",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 44,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 200,
+            "sourceId": "appunti-200"
+          },
+          "sourceId": "pdf-appunti-200",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-219"
+      ],
+      "cards": [
+        {
+          "def": "Atti respiratori irregolari alternati ad apnee improvvise, senza ciclo stabile: quale respiro?",
+          "term": "Respiro di Biot",
+          "kind": "term",
+          "accepted": [
+            "Respiro di Biot",
+            "Biot"
+          ],
+          "id": "rapid-respiro-biot",
+          "apparato": "Apparato respiratorio",
+          "organo": "Alterazioni del respiro",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 50,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 219,
+            "sourceId": "appunti-219"
+          },
+          "sourceId": "pdf-appunti-219",
+          "curated": true
+        },
+        {
+          "def": "Quale respiro ha andamento ciclico in crescendo e decrescendo?",
+          "term": "Cheyne-Stokes",
+          "kind": "term",
+          "accepted": [
+            "Cheyne-Stokes",
+            "respiro di Cheyne Stokes"
+          ],
+          "id": "rapid-respiro-cheyne-stokes",
+          "apparato": "Apparato respiratorio",
+          "organo": "Alterazioni del respiro",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 50,
+            "section": "Domande e appunti · raccolta principale",
+            "number": 219,
+            "sourceId": "appunti-219"
+          },
+          "sourceId": "pdf-appunti-219",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-aggiuntivi-290"
+      ],
+      "cards": [
+        {
+          "def": "Completa le 4 “L” dei tumori riportate nella scheda.",
+          "term": "Loss of control; Limitless replication; Locally invasive growth; Late metastasis",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "L 1",
+              "answer": "Loss of control",
+              "accepted": [
+                "Loss of control",
+                "perdita del controllo"
+              ]
+            },
+            {
+              "label": "L 2",
+              "answer": "Limitless replication",
+              "accepted": [
+                "Limitless replication",
+                "replicazione illimitata"
+              ]
+            },
+            {
+              "label": "L 3",
+              "answer": "Locally invasive growth",
+              "accepted": [
+                "Locally invasive growth",
+                "crescita infiltrativa locale"
+              ]
+            },
+            {
+              "label": "L 4",
+              "answer": "Late metastasis",
+              "accepted": [
+                "Late metastasis",
+                "metastasi tardive"
+              ]
+            }
+          ],
+          "matchMode": "unordered",
+          "id": "rapid-tumori-4-l",
+          "apparato": "Oncologia",
+          "organo": "Biologia tumorale",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 66,
+            "section": "Appunti aggiuntivi · seconda numerazione",
+            "number": 290,
+            "sourceId": "appunti-aggiuntivi-290"
+          },
+          "sourceId": "pdf-appunti-aggiuntivi-290",
+          "curated": true
+        }
+      ]
+    },
+    {
+      "replaces": [
+        "pdf-appunti-aggiuntivi-302"
+      ],
+      "cards": [
+        {
+          "def": "Distingui le 2 lesioni rilevate descritte.",
+          "term": "Papula; Pomfo",
+          "kind": "list",
+          "slots": [
+            {
+              "label": "Solida e persistente",
+              "answer": "Papula",
+              "accepted": [
+                "Papula"
+              ]
+            },
+            {
+              "label": "Fugace",
+              "answer": "Pomfo",
+              "accepted": [
+                "Pomfo"
+              ]
+            }
+          ],
+          "matchMode": "ordered",
+          "id": "rapid-papula-pomfo",
+          "apparato": "Cute e tegumenti",
+          "organo": "Lesioni elementari",
+          "cartella": "Ripasso rapido",
+          "source": {
+            "document": "Semeiotica domande completo",
+            "page": 66,
+            "section": "Appunti aggiuntivi · seconda numerazione",
+            "number": 302,
+            "sourceId": "appunti-aggiuntivi-302"
+          },
+          "sourceId": "pdf-appunti-aggiuntivi-302",
+          "curated": true
+        }
+      ]
+    }
+  ]
+}
