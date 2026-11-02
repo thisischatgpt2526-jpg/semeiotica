@@ -1,7 +1,7 @@
 {
   "document": "CARLO MAGNO 2",
   "pageCount": 325,
-  "questionCount": 844,
+  "questionCount": 845,
   "chapters": [
     {
       "id": "topografia",
@@ -989,9 +989,10 @@
         "complete-cm2second-06be3c3a231c",
         "complete-cm2second-569a503364dc",
         "complete-cm2second-a72886dcd814",
-        "complete-cm2second-60237553264e"
+        "complete-cm2second-60237553264e",
+        "pdf-appunti-267"
       ],
-      "count": 49
+      "count": 50
     },
     {
       "id": "p2-casi-emato",

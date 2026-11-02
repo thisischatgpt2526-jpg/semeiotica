@@ -488,7 +488,7 @@
     "apparato": "Semeiotica generale",
     "organo": "Anamnesi e terminologia",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Quale sindrome interessa le articolazioni costocondrali e può causare dolore toracico?",
+    "def": "Dolore costocondrale con tumefazione locale: quale sindrome?",
     "term": "Sindrome di Tietze",
     "kind": "term",
     "accepted": [
@@ -506,7 +506,8 @@
       "quote": "patologie associate:\n -​ Nevralgia intercostale: infiammazione o irritazione di un nervo intercostale, che causa\n     dolore acuto e pungente lungo il torace.\n -​ Costocondrite/Sindrome di Tietze: infiammazione delle articolazioni tra sterno e cartilagini\n     costali o clavicola, con dolore gravativo, continuo e moderato nella parte alta e centrale del\n     torace anteriore.\n -​ Fibromialgia: malattia nociplastica caratterizzata da dolore muscolare diffuso e punti trigger\n     dolorabili, tra cui spesso anche i punti di Valleix.",
       "generated": true,
       "documentId": "carlo-1"
-    }
+    },
+    "explanation": "La sindrome di Tietze associa dolore e tumefazione costocondrale; la costocondrite comune in genere non presenta tumefazione."
   },
   {
     "id": "complete-fdf8976096d5",
@@ -2421,7 +2422,7 @@
     "apparato": "Apparato respiratorio",
     "organo": "Esame toracico e diagnostica",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Quale esame radiologico è fondamentale nello studio della mammella?",
+    "def": "Quale esame della mammella utilizza raggi X a bassa dose?",
     "term": "Mammografia",
     "kind": "term",
     "accepted": [],
@@ -10688,7 +10689,8 @@
       "printedPage": 181,
       "quote": "sangue contro un ventricolo rigido o poco distensibile.​\nÈ sempre patologico, associato a ipertrofia ventricolare, ipertensione arteriosa o cardiopatie\nischemiche. Non si apprezza se il paziente è in fibrillazione atriale, perché manca la contrazione\natriale.\n\nNella figura si vede come si alternano S1, S2, S1, S2, con la componente aortica e polmonare di S2,\nin cui la prima è prevalente.\n\nSdoppiamento dei toni cardiaci\nAll’auscultazione ci può essere uno sdoppiamento dei toni cardiaci, detto anche splitting.\nOvviamente gli stessi eventi che valutiamo nel cuore sinistro avvengono anche nel cuore destro,\nquindi essendo le pressioni sia nell’arteria polmonare che nel ventricolo destro inferiori a quello\nsinistro, gli eventi nel cuore destro sono un po’ in ritardo rispetto a quelli del cuore sinistro. Quindi si\npossono percepire anziché come un unico tono cardiaco, due distinte componenti: la prima dovuta\nalla chiusura della valvola di sinistra, aortica o mitrale, la seconda dovuta alla chiusura delle valvole\ndi destra, tricuspide o polmonare. Durante l’espirazione le due componenti A2 (chiusura valvola\naortica, anticipata e ascultabile al precordio) e P2 (chiusura valvola polmonare, ritardato e ascultabile\nso II, III spazio intercostale) sono fuse in un unico tono, mentre durante l’inspirazione A2 e P2 si\nseparano lievemente. Questo perché con l’inspirazione c’è un rallentamento, in quanto c’è un\nafflusso maggiore a livello polmonare perché il cuore agisce come pompa. Quindi c’è un piccolo\nsdoppiamento delle sue componenti auscultabili, e bisogna essere bravi ad apprezzarli. Nello\nsdoppiamento inspiratorio, l’inspirazione stessa allunga l’eiezione di sangue dal VD ma accorcia\nquella del VS, perché è maggiore la funzione aspirativa rispetto alla funzione propulsiva. Per cui\nsostanzialmente il rumore sulla polmonare viene ritardato, mentre quello sulla aortica viene\nanticipato. Ovviamente la componente aortica è maggiore perché c’è una pressione maggiore in\naorta (questo si reperta al precordio). Il tono polmonare è più debole perché nell’arteria polmonare\nla pressione è molto più bassa (si apprezza a livello del 2° e 3° spazio intercostale di sinistra, in\nprossimità dello sterno). Lo sdoppiamento del primo tono non varia con il respiro, perché la\ncomponente mitralica precoce è più forte (per la maggior pressione che c’è a livello delle sezioni\nsinistre del cuore), nasconde sovrastando la componente tricuspidale, addirittura la può mascherare\ncompletamente, rendendo pressoché impossibile l’auscultazione dello sdoppiamento, che può\nessere apprezzato a livello del margine sternale sinistro, inferiormente.\n           1.​ Lo sdoppiamento del primo tono ci può essere nelle affezioni con turbe di conduzione\n               oppure per asincronismo della chiusura dell’aorta e della polmonare: scompenso\n               cardiaco, oppure blocco atrioventricolare di secondo grado (Mobitz I o Mobitz II),\n               quando c’è un’alterazione della trasmissione dell’impulso. Quindi ci può essere un\n               blocco 1 a 2, 1 a 3, 1 a 4. Lo sdoppiamento dal primo tono é sempre patologico.\n           2.​ Lo sdoppiamento del secondo tono è causato dall’asincronismo nella chiusura delle\n               valvole aortica e polmonare (blocco di branca sinistro nel caso aortico, destro nel caso\n               polmonare), nelle malattie tipo stenosi mitralica, difetto interatriale o ipertensione\n               arteriosa marcata. Quindi tutte queste patologie possono essere rilevate\n               semplicemente, anche senza saperlo, attraverso la semeiotica.\n(Il blocco di branca è un ritardo di conduzione in una delle due branche delle fibre di Purkinje. Quindi\nnella branca destra o nella branca sinistra a seconda che siamo ventricolo destro o nel ventricolo\nsinistro).",
       "generated": true
-    }
+    },
+    "reverse": true
   },
   {
     "id": "complete-cm1cardio-55f159592a64",
@@ -10849,7 +10851,7 @@
     "apparato": "Apparato cardiovascolare",
     "organo": "Auscultazione e valvole",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Quale insufficienza valvolare produce tipicamente un soffio protodiastolico in decrescendo?",
+    "def": "Soffio protodiastolico in decrescendo al focolaio aortico e al punto di Erb: quale insufficienza valvolare suggerisce?",
     "term": "Insufficienza aortica",
     "kind": "term",
     "accepted": [
@@ -11398,7 +11400,8 @@
       "printedPage": 209,
       "quote": "uno stiramento acuto della glissoniana). Quindi un fegato che aumenta di\n        volume improvvisamente come nello scompenso o nell’epatite acuta dà tipicamente un\n        dolore in ipocondrio destro, ma non tutte le patologie del fegato danno dolore; quindi avere\n        un fegato grosso e dolente è già suggestivo potenzialmente di uno scompenso\n     ●​ ascite, cioè aumento delle pressioni idrostatiche. Un’altra forma di ascite piuttosto frequente\n        è quella dovuta a cirrosi epatica, in questo caso il meccanismo non è solo idrostatico ma è\n        anche legato al mancato funzionamento sintetico del fegato e quindi legato ad iponchia (cioè\n        la riduzione della pressione oncotica legata al fatto che il fegato insufficiente non produce\n        l’albumina)\n     ●​ insufficienza epatica, ci sono casi di cirrosi cardiogena, ovvero questo sovraccarico a livello\n        del fegato innesca in qualche modo una cirrosi\n     ●​ splenomegalia, la milza potrà aumentare di volume e questo succede nei cirrotici, negli\n        scompensati cardiaci.",
       "generated": true
-    }
+    },
+    "reverse": true
   },
   {
     "id": "complete-cm1cardio-728c16e619ba",
@@ -12043,7 +12046,8 @@
       "printedPage": 234,
       "quote": "I soggetti anziani hanno una maggior necessità della contrazione atriale per mantenere il volume\ntelediastolico ventricolare; il 30-40% di questo volume è dovuto alla contrazione atriale (nei giovani è\nil 10-20%, quindi raddoppia questa necessità). La dilatazione e l’ipertrofia degli atri ovviamente\ncomportano insorgenza della fibrillazione atriale, che può essere associata ad una diminuzione\naddirittura del 30-40% della performance cardiaca perché l'atrio non si contrae e quindi il\nriempimento diastolico può essere ridotto per via dell’incremento della frequenza atriale. La\nfibrillazione atriale, che abbiamo visto essere una patologia abbastanza frequente, può essere sia\ncausa sia effetto dell’invecchiamento, quindi di per sé effetto della comparsa di insufficienza\ncardiaca.",
       "generated": true
-    }
+    },
+    "reverse": true
   },
   {
     "id": "complete-cm1cardio-2c6f8f136f3a",
@@ -13390,7 +13394,8 @@
       "printedPage": 273,
       "quote": "non utilizzare mail il pollice per apprezzare i polsi perché\ntante volte con esso si rischia di sentire la propria pulsazione.\n4.​     Polso femorale\nDi solito è un polso che si apprezza abbastanza facilmente anche magari in pazienti obesi dove la\npalpazione di altri polsi agli arti inferiori può risultare difficoltosa. Il femorale è un polso di un’arteria\ncon grosso calibro, lo si apprezza nel punto mediano tra la spina iliaca anterosuperiore e la sinfisi\npubica. Secondo altre definizioni è nel punto di incontro tra: il terzo mediano e il terzo mediale (?)\nquindi dal punto mediano spostato un pochino più all’interno. Si trova al di sotto del legamento\ninguinale il quale ha un decorso simile.\n5.​       Polso popliteo\nLo si apprezza a livello della linea mediana del cavo popliteo.",
       "generated": true
-    }
+    },
+    "reverse": true
   },
   {
     "id": "complete-cm1cardio-5ba305bb9a56",
@@ -19999,7 +20004,7 @@
     "apparato": "Immunologia",
     "organo": "Organi linfoidi e diagnostica",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Quali anticorpi diretti contro il recettore dell’acetilcolina si cercano nella miastenia?",
+    "def": "Quali autoanticorpi sono positivi nella maggior parte dei pazienti con miastenia gravis?",
     "term": "Anti-AChR",
     "kind": "term",
     "accepted": [
@@ -20157,11 +20162,11 @@
     "apparato": "Immunologia",
     "organo": "Organi linfoidi e diagnostica",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Come si chiama il tessuto linfoide associato alle mucose?",
+    "def": "Quale sigla indica il tessuto linfoide associato alle mucose?",
     "term": "MALT",
     "kind": "term",
     "accepted": [
-      "tessuto linfoide associato alle mucose"
+      "mucosa associated lymphoid tissue"
     ],
     "learningType": "termini",
     "curated": true,
@@ -20961,7 +20966,7 @@
     "apparato": "Immunologia",
     "organo": "Connettiviti e vasculiti",
     "cartella": "Patologie, termini e diagnosi",
-    "def": "Quali autoanticorpi anti-Ro sono particolarmente indicativi della sindrome di Sjögren?",
+    "def": "Sjögren: quali autoanticorpi sono presenti nel 60–90% dei casi secondo la dispensa?",
     "term": "Anti-Ro/SSA",
     "kind": "term",
     "accepted": [

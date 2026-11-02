@@ -998,11 +998,12 @@
     "apparato": "Biochimica clinica",
     "organo": "Proteine e infiammazione",
     "cartella": "Elettroforesi e proteine di trasporto",
-    "def": "Un picco stretto monoclonale all’elettroforesi richiede di considerare quale tipo di gammopatia?",
+    "def": "Un picco gamma stretto e alto all’elettroforesi orienta verso quale tipo di gammopatia?",
     "term": "Gammopatia monoclonale",
     "kind": "term",
     "accepted": [
-      "monoclonale"
+      "monoclonale",
+      "componente monoclonale"
     ],
     "learningType": "diagnosi",
     "chapterId": "bio-proteine",
@@ -1813,7 +1814,8 @@
     "term": "Aumentare",
     "kind": "term",
     "accepted": [
-      "aumenta"
+      "aumenta",
+      "aumento"
     ],
     "learningType": "diagnosi",
     "chapterId": "bio-ferro-hb",
@@ -2420,7 +2422,10 @@
     "term": "Urine e feci",
     "kind": "term",
     "accepted": [
-      "feci e urine"
+      "feci e urine",
+      "urine, feci",
+      "feci, urine",
+      "campioni di urine e feci"
     ],
     "learningType": "diagnosi",
     "chapterId": "bio-ferro-hb",
@@ -2932,10 +2937,12 @@
     "apparato": "Biochimica clinica",
     "organo": "Microbiota",
     "cartella": "Metaboliti e barriera",
-    "def": "Come si chiama lo studio metabolomico della saliva?",
+    "def": "Come si chiama lo studio omico della saliva?",
     "term": "Salivomica",
     "kind": "term",
-    "accepted": [],
+    "accepted": [
+      "salivomics"
+    ],
     "learningType": "termini",
     "chapterId": "bio-microbiota",
     "coverageTitle": "Microbiota",
@@ -4303,7 +4310,11 @@
     "accepted": [
       "diminuire",
       "si riduce",
-      "ridursi"
+      "ridursi",
+      "scende",
+      "diminuisce",
+      "diminuzione",
+      "si abbassa"
     ],
     "learningType": "diagnosi",
     "curated": true,
@@ -4988,12 +4999,15 @@
     "apparato": "Biochimica clinica",
     "organo": "Metabolismo lipidico",
     "cartella": "Lipoproteine e apolipoproteine",
-    "def": "Un deficit insulinico può favorire ipertrigliceridemia anche riducendo la rimozione dei trigliceridi dai tessuti?",
-    "term": "Sì",
+    "def": "Nel deficit insulinico, una minore attività della lipoprotein-lipasi tende ad aumentare o ridurre i trigliceridi circolanti?",
+    "term": "Aumentare",
     "kind": "term",
     "accepted": [
-      "si",
-      "sì, per ridotta clearance"
+      "aumenta",
+      "aumento",
+      "aumentano",
+      "aumento dei trigliceridi",
+      "ipertrigliceridemia"
     ],
     "learningType": "diagnosi",
     "curated": true,
@@ -5008,7 +5022,8 @@
       "section": "Metabolismo lipidico · Lipoproteine e apolipoproteine",
       "quote": "Insulina \ninibisce trigliceride lipasi (glucagone stimola)  \nstimola sintesi di acidi grassi e trigliceridi \nè necessaria per espressione LPL endoteliale (FFA ai tessuti) \n \nDeficit insulina  lipasi tessuto adiposo ATTIVA  FFA al fegato  VLDL",
       "generated": true
-    }
+    },
+    "explanation": "La minore attività della LPL riduce la clearance delle lipoproteine ricche di trigliceridi dal sangue. Il deficit insulinico può inoltre aumentare la produzione epatica di VLDL."
   },
   {
     "id": "bio2023-metab-d0c939a803f3",
@@ -5472,11 +5487,12 @@
     "apparato": "Biochimica clinica",
     "organo": "Urine e funzionalità renale",
     "cartella": "Esame delle urine e filtrazione",
-    "def": "Quale tipo di cilindro largo e cereo è associato a insufficienza renale avanzata?",
-    "term": "Cilindro cereo",
+    "def": "Nell’insufficienza renale avanzata, quali cilindri urinari larghi e omogenei sono caratteristici?",
+    "term": "Cilindri cerei",
     "kind": "term",
     "accepted": [
-      "cilindri cerei",
+      "cilindro cereo",
+      "cilindri cerei larghi",
       "broad casts"
     ],
     "learningType": "diagnosi",
@@ -7888,7 +7904,9 @@
     "accepted": [
       "la riduce",
       "riduzione",
-      "diminuisce"
+      "diminuisce",
+      "ridurre",
+      "diminuzione"
     ],
     "learningType": "diagnosi",
     "curated": true,
@@ -8818,7 +8836,7 @@
     "apparato": "Biochimica clinica",
     "organo": "Pancreas, intestino e nutrizione",
     "cartella": "Enzimi pancreatici e test gastroenterologici",
-    "def": "Nel breath test all’idrogeno, quale gas aumenta per la fermentazione batterica?",
+    "def": "Nel test respiratorio descritto per il malassorbimento di carboidrati, quale gas prodotto dai batteri viene misurato?",
     "term": "Idrogeno",
     "kind": "term",
     "accepted": [
@@ -8980,7 +8998,12 @@
     "accepted": [
       "HLA DQ2 e DQ8",
       "DQ2/DQ8",
-      "DQ8 e DQ2"
+      "DQ8 e DQ2",
+      "HLA-DQ2 e HLA-DQ8",
+      "HLA-DQ2, HLA-DQ8",
+      "HLA DQ8 e HLA DQ2",
+      "DQ2, DQ8",
+      "DQ8, DQ2"
     ],
     "learningType": "diagnosi",
     "curated": true,
@@ -9536,13 +9559,12 @@
     "apparato": "Biochimica clinica",
     "organo": "Valori critici e test al letto del paziente",
     "cartella": "Urgenze analitiche e POCT",
-    "def": "Che cosa significa point-of-care testing?",
-    "term": "Esami eseguiti vicino al paziente",
+    "def": "Quale sigla inglese indica gli esami eseguiti vicino al paziente, per esempio al letto del malato?",
+    "term": "POCT",
     "kind": "term",
     "accepted": [
-      "esami al letto del paziente",
-      "diagnostica al letto del paziente",
-      "test al letto del paziente"
+      "point-of-care testing",
+      "point of care testing"
     ],
     "learningType": "termini",
     "curated": true,
